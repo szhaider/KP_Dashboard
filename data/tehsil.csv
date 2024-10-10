@@ -1,0 +1,117 @@
+,admin2Name,district,admin1Pcod,admin2Pcod
+1,Abbottabad,Abbottabad,KP01,001
+2,Bar Chamarkand,Bajaur,KP02,001
+3,Barang,Bajaur,KP02,002
+4,Khar,Bajaur,KP02,003
+5,Mamund,Bajaur,KP02,004
+6,Nawagai,Bajaur,KP02,005
+7,Salarzai Tehsil,Bajaur,KP02,006
+8,Utman Khel Tehsil,Bajaur,KP02,007
+9,Bannu,Bannu,KP03,001
+10,Domel,Bannu,KP03,002
+11,Alai,Batagram,KP04,001
+12,Batagram,Batagram,KP04,002
+13,Chagharzai,Buner,KP05,001
+14,Chamla,Buner,KP05,002
+15,Daggar,Buner,KP05,003
+16,Gagra,Buner,KP05,004
+17,Pir Baba/ Gadaizi,Buner,KP05,005
+18,Totalai,Buner,KP05,006
+19,Charsadda,Charsadda,KP06,001
+20,Tangi,Charsadda,KP06,002
+21,Chitral,Chitral,KP07,001
+22,Mastuj,Chitral,KP07,002
+23,Daraban,Dera Ismail Khan,KP08,001
+24,Dera Ismail Khan,Dera Ismail Khan,KP08,002
+25,Kulachi,Dera Ismail Khan,KP08,003
+26,Paharpur,Dera Ismail Khan,KP08,004
+27,Wazir,FR Bannu,KP09,001
+28,Drazanda,FR Dera Ismail Khan,KP10,001
+29,Darra Adam Khel,FR Kohat,KP11,001
+30,Bettani,FR Lakki Marwat,KP12,001
+31,Hassan Khel,FR Peshawar,KP13,001
+32,Jandola,FR Tank,KP14,001
+33,Hangu,Hangu,KP15,001
+34,Tall,Hangu,KP15,002
+35,Ghazi,Haripur,KP16,001
+36,Haripur,Haripur,KP16,002
+37,Banda Daud Shah,Karak,KP17,001
+38,Karak,Karak,KP17,002
+39,Takht E Nasrati,Karak,KP17,003
+40,Bara,Khyber,KP18,001
+41,Jamrud,Khyber,KP18,002
+42,Landi Kotal,Khyber,KP18,003
+43,Kohat,Kohat,KP19,001
+44,Lachi,Kohat,KP19,002
+45,Dassu,Kohistan,KP20,001
+46,Palas,Kohistan,KP20,002
+47,Pattan,Kohistan,KP20,003
+48,Central Kurram,Kurram,KP21,001
+49,Lower Kurram,Kurram,KP21,002
+50,Upper Kurram,Kurram,KP21,003
+51,Lakki Marwat,Lakki Marwat,KP22,001
+52,Sarai Naurang,Lakki Marwat,KP22,002
+53,Samar Bagh,Lower Dir,KP23,001
+54,Timergara,Lower Dir,KP23,002
+55,Sam Ranizai,Malakand PA,KP24,001
+56,Swat Ranizai,Malakand PA,KP24,002
+57,Balakot,Mansehra,KP25,001
+58,Mansehra,Mansehra,KP25,002
+59,Oghi,Mansehra,KP25,003
+60,Katlang,Mardan,KP26,001
+61,Mardan,Mardan,KP26,002
+62,Takht Bhai,Mardan,KP26,003
+63,Ambar Utman Khel,Mohmand,KP27,001
+64,Halimzai,Mohmand,KP27,002
+65,Pindiali,Mohmand,KP27,003
+66,Prang Ghar,Mohmand,KP27,004
+67,Safi,Mohmand,KP27,005
+68,Upper Momand,Mohmand,KP27,006
+69,Yaka Ghund,Mohmand,KP27,007
+70,Data Khel,North Waziristan,KP28,001
+71,Dossali,North Waziristan,KP28,002
+72,Garyum,North Waziristan,KP28,003
+73,Ghulam Khan,North Waziristan,KP28,004
+74,Mir Ali,North Waziristan,KP28,005
+75,Miran Shah,North Waziristan,KP28,006
+76,Razmak,North Waziristan,KP28,007
+77,Shewa,North Waziristan,KP28,008
+78,Spinwam,North Waziristan,KP28,009
+79,Nowshera,Nowshera,KP29,001
+80,Pabbi,Nowshera,KP29,002
+81,Central Orakzai,Orakzai,KP30,001
+82,Ismailzai,Orakzai,KP30,002
+83,Lower Orakzai,Orakzai,KP30,003
+84,Upper Orakzai,Orakzai,KP30,004
+85,Peshawar,Peshawar,KP31,001
+86,Alpuri,Shangla,KP32,001
+87,Bisham,Shangla,KP32,002
+88,Chiksar,Shangla,KP32,003
+89,Martung,Shangla,KP32,004
+90,Puran,Shangla,KP32,005
+91,Birmal,South Waziristan,KP33,001
+92,Ladha,South Waziristan,KP33,002
+93,Makin,South Waziristan,KP33,003
+94,Sararogha,South Waziristan,KP33,004
+95,Serwekai,South Waziristan,KP33,005
+96,Tiarza,South Waziristan,KP33,006
+97,Toi Khulla,South Waziristan,KP33,007
+98,Wana,South Waziristan,KP33,008
+99,Lahor,Swabi,KP34,001
+100,Swabi,Swabi,KP34,002
+101,Topi,Swabi,KP34,003
+102,Babuzai,Swat,KP35,001
+103,Bahrain,Swat,KP35,002
+104,Barikot,Swat,KP35,003
+105,Charbagh,Swat,KP35,004
+106,Kabal,Swat,KP35,005
+107,Kalam,Swat,KP35,006
+108,Khwazakhela,Swat,KP35,007
+109,Matta Khararai,Swat,KP35,008
+110,Matta Sebujni,Swat,KP35,009
+111,Tank,Tank,KP36,001
+112,Tor Ghar,Tor Ghar,KP37,001
+113,Barawal,Upper Dir,KP38,001
+114,Dir,Upper Dir,KP38,002
+115,Kalkot,Upper Dir,KP38,003
+116,Wari,Upper Dir,KP38,004

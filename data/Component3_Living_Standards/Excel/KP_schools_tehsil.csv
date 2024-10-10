@@ -1,0 +1,2205 @@
+"","adm1_en","adm2_en","adm3_en","variable","value"
+"1","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","student_pop",183592
+"2","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","student_pop",NA
+"3","Khyber Pakhtunkhwa","Bajaur","Barang","student_pop",NA
+"4","Khyber Pakhtunkhwa","Bajaur","Khar","student_pop",NA
+"5","Khyber Pakhtunkhwa","Bajaur","Mamund","student_pop",NA
+"6","Khyber Pakhtunkhwa","Bajaur","Nawagai","student_pop",NA
+"7","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","student_pop",NA
+"8","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","student_pop",NA
+"9","Khyber Pakhtunkhwa","Bannu","Bannu","student_pop",96911
+"10","Khyber Pakhtunkhwa","Bannu","Domel","student_pop",28428
+"11","Khyber Pakhtunkhwa","Batagram","Alai","student_pop",23141
+"12","Khyber Pakhtunkhwa","Batagram","Batagram","student_pop",42179
+"13","Khyber Pakhtunkhwa","Buner","Chagharzai","student_pop",21334
+"14","Khyber Pakhtunkhwa","Buner","Chamla","student_pop",35019
+"15","Khyber Pakhtunkhwa","Buner","Daggar","student_pop",25868
+"16","Khyber Pakhtunkhwa","Buner","Gagra","student_pop",27822
+"17","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","student_pop",29742
+"18","Khyber Pakhtunkhwa","Buner","Totalai","student_pop",24824
+"19","Khyber Pakhtunkhwa","Charsadda","Charsadda","student_pop",153353
+"20","Khyber Pakhtunkhwa","Charsadda","Tangi","student_pop",58112
+"21","Khyber Pakhtunkhwa","Chitral","Chitral","student_pop",45075
+"22","Khyber Pakhtunkhwa","Chitral","Mastuj","student_pop",34650
+"23","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","student_pop",12750
+"24","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","student_pop",104212
+"25","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","student_pop",10732
+"26","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","student_pop",48966
+"27","Khyber Pakhtunkhwa","FR Bannu","Wazir","student_pop",44
+"28","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","student_pop",NA
+"29","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","student_pop",66
+"30","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","student_pop",NA
+"31","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","student_pop",NA
+"32","Khyber Pakhtunkhwa","FR Tank","Jandola","student_pop",88
+"33","Khyber Pakhtunkhwa","Hangu","Hangu","student_pop",34531
+"34","Khyber Pakhtunkhwa","Hangu","Tall","student_pop",27193
+"35","Khyber Pakhtunkhwa","Haripur","Ghazi","student_pop",22886
+"36","Khyber Pakhtunkhwa","Haripur","Haripur","student_pop",117966
+"37","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","student_pop",24911
+"38","Khyber Pakhtunkhwa","Karak","Karak","student_pop",44931
+"39","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","student_pop",44137
+"40","Khyber Pakhtunkhwa","Khyber","Bara","student_pop",NA
+"41","Khyber Pakhtunkhwa","Khyber","Jamrud","student_pop",NA
+"42","Khyber Pakhtunkhwa","Khyber","Landi Kotal","student_pop",NA
+"43","Khyber Pakhtunkhwa","Kohat","Kohat","student_pop",115377
+"44","Khyber Pakhtunkhwa","Kohat","Lachi","student_pop",26677
+"45","Khyber Pakhtunkhwa","Kohistan","Dassu","student_pop",30859
+"46","Khyber Pakhtunkhwa","Kohistan","Palas","student_pop",36947
+"47","Khyber Pakhtunkhwa","Kohistan","Pattan","student_pop",3767
+"48","Khyber Pakhtunkhwa","Kurram","Central Kurram","student_pop",NA
+"49","Khyber Pakhtunkhwa","Kurram","Lower Kurram","student_pop",64
+"50","Khyber Pakhtunkhwa","Kurram","Upper Kurram","student_pop",NA
+"51","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","student_pop",78855
+"52","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","student_pop",40062
+"53","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","student_pop",74637
+"54","Khyber Pakhtunkhwa","Lower Dir","Timergara","student_pop",187369
+"55","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","student_pop",60747
+"56","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","student_pop",71248
+"57","Khyber Pakhtunkhwa","Mansehra","Balakot","student_pop",54034
+"58","Khyber Pakhtunkhwa","Mansehra","Mansehra","student_pop",127619
+"59","Khyber Pakhtunkhwa","Mansehra","Oghi","student_pop",46605
+"60","Khyber Pakhtunkhwa","Mardan","Katlang","student_pop",44108
+"61","Khyber Pakhtunkhwa","Mardan","Mardan","student_pop",201146
+"62","Khyber Pakhtunkhwa","Mardan","Takht Bhai","student_pop",109680
+"63","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","student_pop",NA
+"64","Khyber Pakhtunkhwa","Mohmand","Halimzai","student_pop",NA
+"65","Khyber Pakhtunkhwa","Mohmand","Pindiali","student_pop",NA
+"66","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","student_pop",NA
+"67","Khyber Pakhtunkhwa","Mohmand","Safi","student_pop",NA
+"68","Khyber Pakhtunkhwa","Mohmand","Upper Momand","student_pop",NA
+"69","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","student_pop",NA
+"70","Khyber Pakhtunkhwa","North Waziristan","Data Khel","student_pop",NA
+"71","Khyber Pakhtunkhwa","North Waziristan","Dossali","student_pop",NA
+"72","Khyber Pakhtunkhwa","North Waziristan","Garyum","student_pop",NA
+"73","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","student_pop",NA
+"74","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","student_pop",NA
+"75","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","student_pop",NA
+"76","Khyber Pakhtunkhwa","North Waziristan","Razmak","student_pop",NA
+"77","Khyber Pakhtunkhwa","North Waziristan","Shewa","student_pop",NA
+"78","Khyber Pakhtunkhwa","North Waziristan","Spinwam","student_pop",NA
+"79","Khyber Pakhtunkhwa","Nowshera","Nowshera","student_pop",125716
+"80","Khyber Pakhtunkhwa","Nowshera","Pabbi","student_pop",55490
+"81","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","student_pop",NA
+"82","Khyber Pakhtunkhwa","Orakzai","Ismailzai","student_pop",129
+"83","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","student_pop",NA
+"84","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","student_pop",NA
+"85","Khyber Pakhtunkhwa","Peshawar","Peshawar","student_pop",375947
+"86","Khyber Pakhtunkhwa","Shangla","Alpuri","student_pop",43733
+"87","Khyber Pakhtunkhwa","Shangla","Bisham","student_pop",9957
+"88","Khyber Pakhtunkhwa","Shangla","Chiksar","student_pop",12994
+"89","Khyber Pakhtunkhwa","Shangla","Martung","student_pop",7255
+"90","Khyber Pakhtunkhwa","Shangla","Puran","student_pop",22120
+"91","Khyber Pakhtunkhwa","South Waziristan","Birmal","student_pop",NA
+"92","Khyber Pakhtunkhwa","South Waziristan","Ladha","student_pop",NA
+"93","Khyber Pakhtunkhwa","South Waziristan","Makin","student_pop",NA
+"94","Khyber Pakhtunkhwa","South Waziristan","Sararogha","student_pop",NA
+"95","Khyber Pakhtunkhwa","South Waziristan","Serwekai","student_pop",NA
+"96","Khyber Pakhtunkhwa","South Waziristan","Tiarza","student_pop",NA
+"97","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","student_pop",NA
+"98","Khyber Pakhtunkhwa","South Waziristan","Wana","student_pop",NA
+"99","Khyber Pakhtunkhwa","Swabi","Lahor","student_pop",80973
+"100","Khyber Pakhtunkhwa","Swabi","Swabi","student_pop",124225
+"101","Khyber Pakhtunkhwa","Swabi","Topi","student_pop",47434
+"102","Khyber Pakhtunkhwa","Swat","Babuzai","student_pop",79003
+"103","Khyber Pakhtunkhwa","Swat","Bahrain","student_pop",23208
+"104","Khyber Pakhtunkhwa","Swat","Barikot","student_pop",32219
+"105","Khyber Pakhtunkhwa","Swat","Charbagh","student_pop",16943
+"106","Khyber Pakhtunkhwa","Swat","Kabal","student_pop",68283
+"107","Khyber Pakhtunkhwa","Swat","Kalam","student_pop",12903
+"108","Khyber Pakhtunkhwa","Swat","Khwazakhela","student_pop",41819
+"109","Khyber Pakhtunkhwa","Swat","Matta Khararai","student_pop",39850
+"110","Khyber Pakhtunkhwa","Swat","Matta Sebujni","student_pop",27919
+"111","Khyber Pakhtunkhwa","Tank","Tank","student_pop",45835
+"112","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","student_pop",16883
+"113","Khyber Pakhtunkhwa","Upper Dir","Barawal","student_pop",18281
+"114","Khyber Pakhtunkhwa","Upper Dir","Dir","student_pop",83394
+"115","Khyber Pakhtunkhwa","Upper Dir","Kalkot","student_pop",3325
+"116","Khyber Pakhtunkhwa","Upper Dir","Wari","student_pop",87154
+"117","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","pop_girls_primary_student",47923
+"118","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","pop_girls_primary_student",0
+"119","Khyber Pakhtunkhwa","Bajaur","Barang","pop_girls_primary_student",0
+"120","Khyber Pakhtunkhwa","Bajaur","Khar","pop_girls_primary_student",0
+"121","Khyber Pakhtunkhwa","Bajaur","Mamund","pop_girls_primary_student",0
+"122","Khyber Pakhtunkhwa","Bajaur","Nawagai","pop_girls_primary_student",0
+"123","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","pop_girls_primary_student",0
+"124","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","pop_girls_primary_student",0
+"125","Khyber Pakhtunkhwa","Bannu","Bannu","pop_girls_primary_student",28377
+"126","Khyber Pakhtunkhwa","Bannu","Domel","pop_girls_primary_student",6760
+"127","Khyber Pakhtunkhwa","Batagram","Alai","pop_girls_primary_student",4297
+"128","Khyber Pakhtunkhwa","Batagram","Batagram","pop_girls_primary_student",12088
+"129","Khyber Pakhtunkhwa","Buner","Chagharzai","pop_girls_primary_student",3568
+"130","Khyber Pakhtunkhwa","Buner","Chamla","pop_girls_primary_student",7993
+"131","Khyber Pakhtunkhwa","Buner","Daggar","pop_girls_primary_student",4917
+"132","Khyber Pakhtunkhwa","Buner","Gagra","pop_girls_primary_student",6043
+"133","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","pop_girls_primary_student",7506
+"134","Khyber Pakhtunkhwa","Buner","Totalai","pop_girls_primary_student",5852
+"135","Khyber Pakhtunkhwa","Charsadda","Charsadda","pop_girls_primary_student",43196
+"136","Khyber Pakhtunkhwa","Charsadda","Tangi","pop_girls_primary_student",14668
+"137","Khyber Pakhtunkhwa","Chitral","Chitral","pop_girls_primary_student",8434
+"138","Khyber Pakhtunkhwa","Chitral","Mastuj","pop_girls_primary_student",6222
+"139","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","pop_girls_primary_student",3542
+"140","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","pop_girls_primary_student",31026
+"141","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","pop_girls_primary_student",3328
+"142","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","pop_girls_primary_student",10243
+"143","Khyber Pakhtunkhwa","FR Bannu","Wazir","pop_girls_primary_student",0
+"144","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","pop_girls_primary_student",0
+"145","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","pop_girls_primary_student",0
+"146","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","pop_girls_primary_student",0
+"147","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","pop_girls_primary_student",0
+"148","Khyber Pakhtunkhwa","FR Tank","Jandola","pop_girls_primary_student",88
+"149","Khyber Pakhtunkhwa","Hangu","Hangu","pop_girls_primary_student",8177
+"150","Khyber Pakhtunkhwa","Hangu","Tall","pop_girls_primary_student",3984
+"151","Khyber Pakhtunkhwa","Haripur","Ghazi","pop_girls_primary_student",4684
+"152","Khyber Pakhtunkhwa","Haripur","Haripur","pop_girls_primary_student",30117
+"153","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","pop_girls_primary_student",4850
+"154","Khyber Pakhtunkhwa","Karak","Karak","pop_girls_primary_student",9347
+"155","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","pop_girls_primary_student",6026
+"156","Khyber Pakhtunkhwa","Khyber","Bara","pop_girls_primary_student",0
+"157","Khyber Pakhtunkhwa","Khyber","Jamrud","pop_girls_primary_student",0
+"158","Khyber Pakhtunkhwa","Khyber","Landi Kotal","pop_girls_primary_student",0
+"159","Khyber Pakhtunkhwa","Kohat","Kohat","pop_girls_primary_student",32568
+"160","Khyber Pakhtunkhwa","Kohat","Lachi","pop_girls_primary_student",5215
+"161","Khyber Pakhtunkhwa","Kohistan","Dassu","pop_girls_primary_student",9661
+"162","Khyber Pakhtunkhwa","Kohistan","Palas","pop_girls_primary_student",11689
+"163","Khyber Pakhtunkhwa","Kohistan","Pattan","pop_girls_primary_student",914
+"164","Khyber Pakhtunkhwa","Kurram","Central Kurram","pop_girls_primary_student",0
+"165","Khyber Pakhtunkhwa","Kurram","Lower Kurram","pop_girls_primary_student",0
+"166","Khyber Pakhtunkhwa","Kurram","Upper Kurram","pop_girls_primary_student",0
+"167","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","pop_girls_primary_student",14167
+"168","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","pop_girls_primary_student",8135
+"169","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","pop_girls_primary_student",18913
+"170","Khyber Pakhtunkhwa","Lower Dir","Timergara","pop_girls_primary_student",49433
+"171","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","pop_girls_primary_student",16384
+"172","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","pop_girls_primary_student",18403
+"173","Khyber Pakhtunkhwa","Mansehra","Balakot","pop_girls_primary_student",8231
+"174","Khyber Pakhtunkhwa","Mansehra","Mansehra","pop_girls_primary_student",34179
+"175","Khyber Pakhtunkhwa","Mansehra","Oghi","pop_girls_primary_student",10930
+"176","Khyber Pakhtunkhwa","Mardan","Katlang","pop_girls_primary_student",10609
+"177","Khyber Pakhtunkhwa","Mardan","Mardan","pop_girls_primary_student",58276
+"178","Khyber Pakhtunkhwa","Mardan","Takht Bhai","pop_girls_primary_student",29215
+"179","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","pop_girls_primary_student",0
+"180","Khyber Pakhtunkhwa","Mohmand","Halimzai","pop_girls_primary_student",0
+"181","Khyber Pakhtunkhwa","Mohmand","Pindiali","pop_girls_primary_student",0
+"182","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","pop_girls_primary_student",0
+"183","Khyber Pakhtunkhwa","Mohmand","Safi","pop_girls_primary_student",0
+"184","Khyber Pakhtunkhwa","Mohmand","Upper Momand","pop_girls_primary_student",0
+"185","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","pop_girls_primary_student",0
+"186","Khyber Pakhtunkhwa","North Waziristan","Data Khel","pop_girls_primary_student",0
+"187","Khyber Pakhtunkhwa","North Waziristan","Dossali","pop_girls_primary_student",0
+"188","Khyber Pakhtunkhwa","North Waziristan","Garyum","pop_girls_primary_student",0
+"189","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","pop_girls_primary_student",0
+"190","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","pop_girls_primary_student",0
+"191","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","pop_girls_primary_student",0
+"192","Khyber Pakhtunkhwa","North Waziristan","Razmak","pop_girls_primary_student",0
+"193","Khyber Pakhtunkhwa","North Waziristan","Shewa","pop_girls_primary_student",0
+"194","Khyber Pakhtunkhwa","North Waziristan","Spinwam","pop_girls_primary_student",0
+"195","Khyber Pakhtunkhwa","Nowshera","Nowshera","pop_girls_primary_student",38994
+"196","Khyber Pakhtunkhwa","Nowshera","Pabbi","pop_girls_primary_student",17004
+"197","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","pop_girls_primary_student",0
+"198","Khyber Pakhtunkhwa","Orakzai","Ismailzai","pop_girls_primary_student",0
+"199","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","pop_girls_primary_student",0
+"200","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","pop_girls_primary_student",0
+"201","Khyber Pakhtunkhwa","Peshawar","Peshawar","pop_girls_primary_student",117364
+"202","Khyber Pakhtunkhwa","Shangla","Alpuri","pop_girls_primary_student",6262
+"203","Khyber Pakhtunkhwa","Shangla","Bisham","pop_girls_primary_student",1847
+"204","Khyber Pakhtunkhwa","Shangla","Chiksar","pop_girls_primary_student",2144
+"205","Khyber Pakhtunkhwa","Shangla","Martung","pop_girls_primary_student",410
+"206","Khyber Pakhtunkhwa","Shangla","Puran","pop_girls_primary_student",3760
+"207","Khyber Pakhtunkhwa","South Waziristan","Birmal","pop_girls_primary_student",0
+"208","Khyber Pakhtunkhwa","South Waziristan","Ladha","pop_girls_primary_student",0
+"209","Khyber Pakhtunkhwa","South Waziristan","Makin","pop_girls_primary_student",0
+"210","Khyber Pakhtunkhwa","South Waziristan","Sararogha","pop_girls_primary_student",0
+"211","Khyber Pakhtunkhwa","South Waziristan","Serwekai","pop_girls_primary_student",0
+"212","Khyber Pakhtunkhwa","South Waziristan","Tiarza","pop_girls_primary_student",0
+"213","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","pop_girls_primary_student",0
+"214","Khyber Pakhtunkhwa","South Waziristan","Wana","pop_girls_primary_student",0
+"215","Khyber Pakhtunkhwa","Swabi","Lahor","pop_girls_primary_student",21595
+"216","Khyber Pakhtunkhwa","Swabi","Swabi","pop_girls_primary_student",35367
+"217","Khyber Pakhtunkhwa","Swabi","Topi","pop_girls_primary_student",11142
+"218","Khyber Pakhtunkhwa","Swat","Babuzai","pop_girls_primary_student",25737
+"219","Khyber Pakhtunkhwa","Swat","Bahrain","pop_girls_primary_student",5716
+"220","Khyber Pakhtunkhwa","Swat","Barikot","pop_girls_primary_student",10652
+"221","Khyber Pakhtunkhwa","Swat","Charbagh","pop_girls_primary_student",4924
+"222","Khyber Pakhtunkhwa","Swat","Kabal","pop_girls_primary_student",20287
+"223","Khyber Pakhtunkhwa","Swat","Kalam","pop_girls_primary_student",3274
+"224","Khyber Pakhtunkhwa","Swat","Khwazakhela","pop_girls_primary_student",10210
+"225","Khyber Pakhtunkhwa","Swat","Matta Khararai","pop_girls_primary_student",11524
+"226","Khyber Pakhtunkhwa","Swat","Matta Sebujni","pop_girls_primary_student",7656
+"227","Khyber Pakhtunkhwa","Tank","Tank","pop_girls_primary_student",14678
+"228","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","pop_girls_primary_student",3851
+"229","Khyber Pakhtunkhwa","Upper Dir","Barawal","pop_girls_primary_student",2845
+"230","Khyber Pakhtunkhwa","Upper Dir","Dir","pop_girls_primary_student",17168
+"231","Khyber Pakhtunkhwa","Upper Dir","Kalkot","pop_girls_primary_student",438
+"232","Khyber Pakhtunkhwa","Upper Dir","Wari","pop_girls_primary_student",15637
+"233","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","pop_girls_middle_student",5887
+"234","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","pop_girls_middle_student",0
+"235","Khyber Pakhtunkhwa","Bajaur","Barang","pop_girls_middle_student",0
+"236","Khyber Pakhtunkhwa","Bajaur","Khar","pop_girls_middle_student",0
+"237","Khyber Pakhtunkhwa","Bajaur","Mamund","pop_girls_middle_student",0
+"238","Khyber Pakhtunkhwa","Bajaur","Nawagai","pop_girls_middle_student",0
+"239","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","pop_girls_middle_student",0
+"240","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","pop_girls_middle_student",0
+"241","Khyber Pakhtunkhwa","Bannu","Bannu","pop_girls_middle_student",2370
+"242","Khyber Pakhtunkhwa","Bannu","Domel","pop_girls_middle_student",422
+"243","Khyber Pakhtunkhwa","Batagram","Alai","pop_girls_middle_student",135
+"244","Khyber Pakhtunkhwa","Batagram","Batagram","pop_girls_middle_student",544
+"245","Khyber Pakhtunkhwa","Buner","Chagharzai","pop_girls_middle_student",265
+"246","Khyber Pakhtunkhwa","Buner","Chamla","pop_girls_middle_student",315
+"247","Khyber Pakhtunkhwa","Buner","Daggar","pop_girls_middle_student",343
+"248","Khyber Pakhtunkhwa","Buner","Gagra","pop_girls_middle_student",329
+"249","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","pop_girls_middle_student",732
+"250","Khyber Pakhtunkhwa","Buner","Totalai","pop_girls_middle_student",288
+"251","Khyber Pakhtunkhwa","Charsadda","Charsadda","pop_girls_middle_student",2900
+"252","Khyber Pakhtunkhwa","Charsadda","Tangi","pop_girls_middle_student",872
+"253","Khyber Pakhtunkhwa","Chitral","Chitral","pop_girls_middle_student",1758
+"254","Khyber Pakhtunkhwa","Chitral","Mastuj","pop_girls_middle_student",1412
+"255","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","pop_girls_middle_student",154
+"256","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","pop_girls_middle_student",2064
+"257","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","pop_girls_middle_student",102
+"258","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","pop_girls_middle_student",717
+"259","Khyber Pakhtunkhwa","FR Bannu","Wazir","pop_girls_middle_student",0
+"260","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","pop_girls_middle_student",0
+"261","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","pop_girls_middle_student",0
+"262","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","pop_girls_middle_student",0
+"263","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","pop_girls_middle_student",0
+"264","Khyber Pakhtunkhwa","FR Tank","Jandola","pop_girls_middle_student",0
+"265","Khyber Pakhtunkhwa","Hangu","Hangu","pop_girls_middle_student",337
+"266","Khyber Pakhtunkhwa","Hangu","Tall","pop_girls_middle_student",69
+"267","Khyber Pakhtunkhwa","Haripur","Ghazi","pop_girls_middle_student",644
+"268","Khyber Pakhtunkhwa","Haripur","Haripur","pop_girls_middle_student",3017
+"269","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","pop_girls_middle_student",353
+"270","Khyber Pakhtunkhwa","Karak","Karak","pop_girls_middle_student",1540
+"271","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","pop_girls_middle_student",927
+"272","Khyber Pakhtunkhwa","Khyber","Bara","pop_girls_middle_student",0
+"273","Khyber Pakhtunkhwa","Khyber","Jamrud","pop_girls_middle_student",0
+"274","Khyber Pakhtunkhwa","Khyber","Landi Kotal","pop_girls_middle_student",0
+"275","Khyber Pakhtunkhwa","Kohat","Kohat","pop_girls_middle_student",2174
+"276","Khyber Pakhtunkhwa","Kohat","Lachi","pop_girls_middle_student",577
+"277","Khyber Pakhtunkhwa","Kohistan","Dassu","pop_girls_middle_student",16
+"278","Khyber Pakhtunkhwa","Kohistan","Palas","pop_girls_middle_student",153
+"279","Khyber Pakhtunkhwa","Kohistan","Pattan","pop_girls_middle_student",0
+"280","Khyber Pakhtunkhwa","Kurram","Central Kurram","pop_girls_middle_student",0
+"281","Khyber Pakhtunkhwa","Kurram","Lower Kurram","pop_girls_middle_student",0
+"282","Khyber Pakhtunkhwa","Kurram","Upper Kurram","pop_girls_middle_student",0
+"283","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","pop_girls_middle_student",1706
+"284","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","pop_girls_middle_student",1134
+"285","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","pop_girls_middle_student",2159
+"286","Khyber Pakhtunkhwa","Lower Dir","Timergara","pop_girls_middle_student",5928
+"287","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","pop_girls_middle_student",1953
+"288","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","pop_girls_middle_student",1710
+"289","Khyber Pakhtunkhwa","Mansehra","Balakot","pop_girls_middle_student",679
+"290","Khyber Pakhtunkhwa","Mansehra","Mansehra","pop_girls_middle_student",2528
+"291","Khyber Pakhtunkhwa","Mansehra","Oghi","pop_girls_middle_student",476
+"292","Khyber Pakhtunkhwa","Mardan","Katlang","pop_girls_middle_student",924
+"293","Khyber Pakhtunkhwa","Mardan","Mardan","pop_girls_middle_student",3635
+"294","Khyber Pakhtunkhwa","Mardan","Takht Bhai","pop_girls_middle_student",2305
+"295","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","pop_girls_middle_student",0
+"296","Khyber Pakhtunkhwa","Mohmand","Halimzai","pop_girls_middle_student",0
+"297","Khyber Pakhtunkhwa","Mohmand","Pindiali","pop_girls_middle_student",0
+"298","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","pop_girls_middle_student",0
+"299","Khyber Pakhtunkhwa","Mohmand","Safi","pop_girls_middle_student",0
+"300","Khyber Pakhtunkhwa","Mohmand","Upper Momand","pop_girls_middle_student",0
+"301","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","pop_girls_middle_student",0
+"302","Khyber Pakhtunkhwa","North Waziristan","Data Khel","pop_girls_middle_student",0
+"303","Khyber Pakhtunkhwa","North Waziristan","Dossali","pop_girls_middle_student",0
+"304","Khyber Pakhtunkhwa","North Waziristan","Garyum","pop_girls_middle_student",0
+"305","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","pop_girls_middle_student",0
+"306","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","pop_girls_middle_student",0
+"307","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","pop_girls_middle_student",0
+"308","Khyber Pakhtunkhwa","North Waziristan","Razmak","pop_girls_middle_student",0
+"309","Khyber Pakhtunkhwa","North Waziristan","Shewa","pop_girls_middle_student",0
+"310","Khyber Pakhtunkhwa","North Waziristan","Spinwam","pop_girls_middle_student",0
+"311","Khyber Pakhtunkhwa","Nowshera","Nowshera","pop_girls_middle_student",2837
+"312","Khyber Pakhtunkhwa","Nowshera","Pabbi","pop_girls_middle_student",1701
+"313","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","pop_girls_middle_student",0
+"314","Khyber Pakhtunkhwa","Orakzai","Ismailzai","pop_girls_middle_student",0
+"315","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","pop_girls_middle_student",0
+"316","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","pop_girls_middle_student",0
+"317","Khyber Pakhtunkhwa","Peshawar","Peshawar","pop_girls_middle_student",6844
+"318","Khyber Pakhtunkhwa","Shangla","Alpuri","pop_girls_middle_student",203
+"319","Khyber Pakhtunkhwa","Shangla","Bisham","pop_girls_middle_student",148
+"320","Khyber Pakhtunkhwa","Shangla","Chiksar","pop_girls_middle_student",0
+"321","Khyber Pakhtunkhwa","Shangla","Martung","pop_girls_middle_student",10
+"322","Khyber Pakhtunkhwa","Shangla","Puran","pop_girls_middle_student",454
+"323","Khyber Pakhtunkhwa","South Waziristan","Birmal","pop_girls_middle_student",0
+"324","Khyber Pakhtunkhwa","South Waziristan","Ladha","pop_girls_middle_student",0
+"325","Khyber Pakhtunkhwa","South Waziristan","Makin","pop_girls_middle_student",0
+"326","Khyber Pakhtunkhwa","South Waziristan","Sararogha","pop_girls_middle_student",0
+"327","Khyber Pakhtunkhwa","South Waziristan","Serwekai","pop_girls_middle_student",0
+"328","Khyber Pakhtunkhwa","South Waziristan","Tiarza","pop_girls_middle_student",0
+"329","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","pop_girls_middle_student",0
+"330","Khyber Pakhtunkhwa","South Waziristan","Wana","pop_girls_middle_student",0
+"331","Khyber Pakhtunkhwa","Swabi","Lahor","pop_girls_middle_student",1206
+"332","Khyber Pakhtunkhwa","Swabi","Swabi","pop_girls_middle_student",2785
+"333","Khyber Pakhtunkhwa","Swabi","Topi","pop_girls_middle_student",1061
+"334","Khyber Pakhtunkhwa","Swat","Babuzai","pop_girls_middle_student",1525
+"335","Khyber Pakhtunkhwa","Swat","Bahrain","pop_girls_middle_student",188
+"336","Khyber Pakhtunkhwa","Swat","Barikot","pop_girls_middle_student",1167
+"337","Khyber Pakhtunkhwa","Swat","Charbagh","pop_girls_middle_student",548
+"338","Khyber Pakhtunkhwa","Swat","Kabal","pop_girls_middle_student",1113
+"339","Khyber Pakhtunkhwa","Swat","Kalam","pop_girls_middle_student",27
+"340","Khyber Pakhtunkhwa","Swat","Khwazakhela","pop_girls_middle_student",879
+"341","Khyber Pakhtunkhwa","Swat","Matta Khararai","pop_girls_middle_student",547
+"342","Khyber Pakhtunkhwa","Swat","Matta Sebujni","pop_girls_middle_student",171
+"343","Khyber Pakhtunkhwa","Tank","Tank","pop_girls_middle_student",820
+"344","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","pop_girls_middle_student",0
+"345","Khyber Pakhtunkhwa","Upper Dir","Barawal","pop_girls_middle_student",137
+"346","Khyber Pakhtunkhwa","Upper Dir","Dir","pop_girls_middle_student",1661
+"347","Khyber Pakhtunkhwa","Upper Dir","Kalkot","pop_girls_middle_student",0
+"348","Khyber Pakhtunkhwa","Upper Dir","Wari","pop_girls_middle_student",2742
+"349","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","pop_girls_high_student",17293
+"350","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","pop_girls_high_student",0
+"351","Khyber Pakhtunkhwa","Bajaur","Barang","pop_girls_high_student",0
+"352","Khyber Pakhtunkhwa","Bajaur","Khar","pop_girls_high_student",0
+"353","Khyber Pakhtunkhwa","Bajaur","Mamund","pop_girls_high_student",0
+"354","Khyber Pakhtunkhwa","Bajaur","Nawagai","pop_girls_high_student",0
+"355","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","pop_girls_high_student",0
+"356","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","pop_girls_high_student",0
+"357","Khyber Pakhtunkhwa","Bannu","Bannu","pop_girls_high_student",6860
+"358","Khyber Pakhtunkhwa","Bannu","Domel","pop_girls_high_student",1890
+"359","Khyber Pakhtunkhwa","Batagram","Alai","pop_girls_high_student",0
+"360","Khyber Pakhtunkhwa","Batagram","Batagram","pop_girls_high_student",1024
+"361","Khyber Pakhtunkhwa","Buner","Chagharzai","pop_girls_high_student",69
+"362","Khyber Pakhtunkhwa","Buner","Chamla","pop_girls_high_student",1707
+"363","Khyber Pakhtunkhwa","Buner","Daggar","pop_girls_high_student",1011
+"364","Khyber Pakhtunkhwa","Buner","Gagra","pop_girls_high_student",1440
+"365","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","pop_girls_high_student",1258
+"366","Khyber Pakhtunkhwa","Buner","Totalai","pop_girls_high_student",1559
+"367","Khyber Pakhtunkhwa","Charsadda","Charsadda","pop_girls_high_student",12710
+"368","Khyber Pakhtunkhwa","Charsadda","Tangi","pop_girls_high_student",6217
+"369","Khyber Pakhtunkhwa","Chitral","Chitral","pop_girls_high_student",3152
+"370","Khyber Pakhtunkhwa","Chitral","Mastuj","pop_girls_high_student",1569
+"371","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","pop_girls_high_student",638
+"372","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","pop_girls_high_student",10534
+"373","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","pop_girls_high_student",849
+"374","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","pop_girls_high_student",3638
+"375","Khyber Pakhtunkhwa","FR Bannu","Wazir","pop_girls_high_student",0
+"376","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","pop_girls_high_student",0
+"377","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","pop_girls_high_student",0
+"378","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","pop_girls_high_student",0
+"379","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","pop_girls_high_student",0
+"380","Khyber Pakhtunkhwa","FR Tank","Jandola","pop_girls_high_student",0
+"381","Khyber Pakhtunkhwa","Hangu","Hangu","pop_girls_high_student",2137
+"382","Khyber Pakhtunkhwa","Hangu","Tall","pop_girls_high_student",725
+"383","Khyber Pakhtunkhwa","Haripur","Ghazi","pop_girls_high_student",1681
+"384","Khyber Pakhtunkhwa","Haripur","Haripur","pop_girls_high_student",18218
+"385","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","pop_girls_high_student",1666
+"386","Khyber Pakhtunkhwa","Karak","Karak","pop_girls_high_student",5065
+"387","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","pop_girls_high_student",3562
+"388","Khyber Pakhtunkhwa","Khyber","Bara","pop_girls_high_student",0
+"389","Khyber Pakhtunkhwa","Khyber","Jamrud","pop_girls_high_student",0
+"390","Khyber Pakhtunkhwa","Khyber","Landi Kotal","pop_girls_high_student",0
+"391","Khyber Pakhtunkhwa","Kohat","Kohat","pop_girls_high_student",9026
+"392","Khyber Pakhtunkhwa","Kohat","Lachi","pop_girls_high_student",2330
+"393","Khyber Pakhtunkhwa","Kohistan","Dassu","pop_girls_high_student",97
+"394","Khyber Pakhtunkhwa","Kohistan","Palas","pop_girls_high_student",0
+"395","Khyber Pakhtunkhwa","Kohistan","Pattan","pop_girls_high_student",0
+"396","Khyber Pakhtunkhwa","Kurram","Central Kurram","pop_girls_high_student",0
+"397","Khyber Pakhtunkhwa","Kurram","Lower Kurram","pop_girls_high_student",0
+"398","Khyber Pakhtunkhwa","Kurram","Upper Kurram","pop_girls_high_student",0
+"399","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","pop_girls_high_student",4445
+"400","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","pop_girls_high_student",2099
+"401","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","pop_girls_high_student",4577
+"402","Khyber Pakhtunkhwa","Lower Dir","Timergara","pop_girls_high_student",15562
+"403","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","pop_girls_high_student",7605
+"404","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","pop_girls_high_student",7659
+"405","Khyber Pakhtunkhwa","Mansehra","Balakot","pop_girls_high_student",3333
+"406","Khyber Pakhtunkhwa","Mansehra","Mansehra","pop_girls_high_student",10738
+"407","Khyber Pakhtunkhwa","Mansehra","Oghi","pop_girls_high_student",2848
+"408","Khyber Pakhtunkhwa","Mardan","Katlang","pop_girls_high_student",5181
+"409","Khyber Pakhtunkhwa","Mardan","Mardan","pop_girls_high_student",18511
+"410","Khyber Pakhtunkhwa","Mardan","Takht Bhai","pop_girls_high_student",10063
+"411","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","pop_girls_high_student",0
+"412","Khyber Pakhtunkhwa","Mohmand","Halimzai","pop_girls_high_student",0
+"413","Khyber Pakhtunkhwa","Mohmand","Pindiali","pop_girls_high_student",0
+"414","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","pop_girls_high_student",0
+"415","Khyber Pakhtunkhwa","Mohmand","Safi","pop_girls_high_student",0
+"416","Khyber Pakhtunkhwa","Mohmand","Upper Momand","pop_girls_high_student",0
+"417","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","pop_girls_high_student",0
+"418","Khyber Pakhtunkhwa","North Waziristan","Data Khel","pop_girls_high_student",0
+"419","Khyber Pakhtunkhwa","North Waziristan","Dossali","pop_girls_high_student",0
+"420","Khyber Pakhtunkhwa","North Waziristan","Garyum","pop_girls_high_student",0
+"421","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","pop_girls_high_student",0
+"422","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","pop_girls_high_student",0
+"423","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","pop_girls_high_student",0
+"424","Khyber Pakhtunkhwa","North Waziristan","Razmak","pop_girls_high_student",0
+"425","Khyber Pakhtunkhwa","North Waziristan","Shewa","pop_girls_high_student",0
+"426","Khyber Pakhtunkhwa","North Waziristan","Spinwam","pop_girls_high_student",0
+"427","Khyber Pakhtunkhwa","Nowshera","Nowshera","pop_girls_high_student",12195
+"428","Khyber Pakhtunkhwa","Nowshera","Pabbi","pop_girls_high_student",5699
+"429","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","pop_girls_high_student",0
+"430","Khyber Pakhtunkhwa","Orakzai","Ismailzai","pop_girls_high_student",0
+"431","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","pop_girls_high_student",0
+"432","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","pop_girls_high_student",0
+"433","Khyber Pakhtunkhwa","Peshawar","Peshawar","pop_girls_high_student",33119
+"434","Khyber Pakhtunkhwa","Shangla","Alpuri","pop_girls_high_student",683
+"435","Khyber Pakhtunkhwa","Shangla","Bisham","pop_girls_high_student",0
+"436","Khyber Pakhtunkhwa","Shangla","Chiksar","pop_girls_high_student",188
+"437","Khyber Pakhtunkhwa","Shangla","Martung","pop_girls_high_student",0
+"438","Khyber Pakhtunkhwa","Shangla","Puran","pop_girls_high_student",117
+"439","Khyber Pakhtunkhwa","South Waziristan","Birmal","pop_girls_high_student",0
+"440","Khyber Pakhtunkhwa","South Waziristan","Ladha","pop_girls_high_student",0
+"441","Khyber Pakhtunkhwa","South Waziristan","Makin","pop_girls_high_student",0
+"442","Khyber Pakhtunkhwa","South Waziristan","Sararogha","pop_girls_high_student",0
+"443","Khyber Pakhtunkhwa","South Waziristan","Serwekai","pop_girls_high_student",0
+"444","Khyber Pakhtunkhwa","South Waziristan","Tiarza","pop_girls_high_student",0
+"445","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","pop_girls_high_student",0
+"446","Khyber Pakhtunkhwa","South Waziristan","Wana","pop_girls_high_student",0
+"447","Khyber Pakhtunkhwa","Swabi","Lahor","pop_girls_high_student",8747
+"448","Khyber Pakhtunkhwa","Swabi","Swabi","pop_girls_high_student",15369
+"449","Khyber Pakhtunkhwa","Swabi","Topi","pop_girls_high_student",4537
+"450","Khyber Pakhtunkhwa","Swat","Babuzai","pop_girls_high_student",8003
+"451","Khyber Pakhtunkhwa","Swat","Bahrain","pop_girls_high_student",810
+"452","Khyber Pakhtunkhwa","Swat","Barikot","pop_girls_high_student",1810
+"453","Khyber Pakhtunkhwa","Swat","Charbagh","pop_girls_high_student",0
+"454","Khyber Pakhtunkhwa","Swat","Kabal","pop_girls_high_student",4006
+"455","Khyber Pakhtunkhwa","Swat","Kalam","pop_girls_high_student",225
+"456","Khyber Pakhtunkhwa","Swat","Khwazakhela","pop_girls_high_student",1419
+"457","Khyber Pakhtunkhwa","Swat","Matta Khararai","pop_girls_high_student",2355
+"458","Khyber Pakhtunkhwa","Swat","Matta Sebujni","pop_girls_high_student",524
+"459","Khyber Pakhtunkhwa","Tank","Tank","pop_girls_high_student",2205
+"460","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","pop_girls_high_student",0
+"461","Khyber Pakhtunkhwa","Upper Dir","Barawal","pop_girls_high_student",534
+"462","Khyber Pakhtunkhwa","Upper Dir","Dir","pop_girls_high_student",3056
+"463","Khyber Pakhtunkhwa","Upper Dir","Kalkot","pop_girls_high_student",0
+"464","Khyber Pakhtunkhwa","Upper Dir","Wari","pop_girls_high_student",2324
+"465","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","pop_boys_primary_student",77187
+"466","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","pop_boys_primary_student",0
+"467","Khyber Pakhtunkhwa","Bajaur","Barang","pop_boys_primary_student",0
+"468","Khyber Pakhtunkhwa","Bajaur","Khar","pop_boys_primary_student",0
+"469","Khyber Pakhtunkhwa","Bajaur","Mamund","pop_boys_primary_student",0
+"470","Khyber Pakhtunkhwa","Bajaur","Nawagai","pop_boys_primary_student",0
+"471","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","pop_boys_primary_student",0
+"472","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","pop_boys_primary_student",0
+"473","Khyber Pakhtunkhwa","Bannu","Bannu","pop_boys_primary_student",40928
+"474","Khyber Pakhtunkhwa","Bannu","Domel","pop_boys_primary_student",13794
+"475","Khyber Pakhtunkhwa","Batagram","Alai","pop_boys_primary_student",16372
+"476","Khyber Pakhtunkhwa","Batagram","Batagram","pop_boys_primary_student",24448
+"477","Khyber Pakhtunkhwa","Buner","Chagharzai","pop_boys_primary_student",13936
+"478","Khyber Pakhtunkhwa","Buner","Chamla","pop_boys_primary_student",18639
+"479","Khyber Pakhtunkhwa","Buner","Daggar","pop_boys_primary_student",15338
+"480","Khyber Pakhtunkhwa","Buner","Gagra","pop_boys_primary_student",15331
+"481","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","pop_boys_primary_student",14480
+"482","Khyber Pakhtunkhwa","Buner","Totalai","pop_boys_primary_student",12808
+"483","Khyber Pakhtunkhwa","Charsadda","Charsadda","pop_boys_primary_student",66733
+"484","Khyber Pakhtunkhwa","Charsadda","Tangi","pop_boys_primary_student",26089
+"485","Khyber Pakhtunkhwa","Chitral","Chitral","pop_boys_primary_student",21023
+"486","Khyber Pakhtunkhwa","Chitral","Mastuj","pop_boys_primary_student",15105
+"487","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","pop_boys_primary_student",6586
+"488","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","pop_boys_primary_student",43251
+"489","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","pop_boys_primary_student",4744
+"490","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","pop_boys_primary_student",25416
+"491","Khyber Pakhtunkhwa","FR Bannu","Wazir","pop_boys_primary_student",44
+"492","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","pop_boys_primary_student",0
+"493","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","pop_boys_primary_student",0
+"494","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","pop_boys_primary_student",0
+"495","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","pop_boys_primary_student",0
+"496","Khyber Pakhtunkhwa","FR Tank","Jandola","pop_boys_primary_student",0
+"497","Khyber Pakhtunkhwa","Hangu","Hangu","pop_boys_primary_student",18048
+"498","Khyber Pakhtunkhwa","Hangu","Tall","pop_boys_primary_student",17562
+"499","Khyber Pakhtunkhwa","Haripur","Ghazi","pop_boys_primary_student",11396
+"500","Khyber Pakhtunkhwa","Haripur","Haripur","pop_boys_primary_student",41078
+"501","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","pop_boys_primary_student",12342
+"502","Khyber Pakhtunkhwa","Karak","Karak","pop_boys_primary_student",18441
+"503","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","pop_boys_primary_student",23904
+"504","Khyber Pakhtunkhwa","Khyber","Bara","pop_boys_primary_student",0
+"505","Khyber Pakhtunkhwa","Khyber","Jamrud","pop_boys_primary_student",0
+"506","Khyber Pakhtunkhwa","Khyber","Landi Kotal","pop_boys_primary_student",0
+"507","Khyber Pakhtunkhwa","Kohat","Kohat","pop_boys_primary_student",50325
+"508","Khyber Pakhtunkhwa","Kohat","Lachi","pop_boys_primary_student",12347
+"509","Khyber Pakhtunkhwa","Kohistan","Dassu","pop_boys_primary_student",19807
+"510","Khyber Pakhtunkhwa","Kohistan","Palas","pop_boys_primary_student",22919
+"511","Khyber Pakhtunkhwa","Kohistan","Pattan","pop_boys_primary_student",2777
+"512","Khyber Pakhtunkhwa","Kurram","Central Kurram","pop_boys_primary_student",0
+"513","Khyber Pakhtunkhwa","Kurram","Lower Kurram","pop_boys_primary_student",64
+"514","Khyber Pakhtunkhwa","Kurram","Upper Kurram","pop_boys_primary_student",0
+"515","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","pop_boys_primary_student",39221
+"516","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","pop_boys_primary_student",19013
+"517","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","pop_boys_primary_student",36551
+"518","Khyber Pakhtunkhwa","Lower Dir","Timergara","pop_boys_primary_student",77544
+"519","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","pop_boys_primary_student",23816
+"520","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","pop_boys_primary_student",29157
+"521","Khyber Pakhtunkhwa","Mansehra","Balakot","pop_boys_primary_student",32420
+"522","Khyber Pakhtunkhwa","Mansehra","Mansehra","pop_boys_primary_student",59634
+"523","Khyber Pakhtunkhwa","Mansehra","Oghi","pop_boys_primary_student",25018
+"524","Khyber Pakhtunkhwa","Mardan","Katlang","pop_boys_primary_student",19438
+"525","Khyber Pakhtunkhwa","Mardan","Mardan","pop_boys_primary_student",81992
+"526","Khyber Pakhtunkhwa","Mardan","Takht Bhai","pop_boys_primary_student",48382
+"527","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","pop_boys_primary_student",0
+"528","Khyber Pakhtunkhwa","Mohmand","Halimzai","pop_boys_primary_student",0
+"529","Khyber Pakhtunkhwa","Mohmand","Pindiali","pop_boys_primary_student",0
+"530","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","pop_boys_primary_student",0
+"531","Khyber Pakhtunkhwa","Mohmand","Safi","pop_boys_primary_student",0
+"532","Khyber Pakhtunkhwa","Mohmand","Upper Momand","pop_boys_primary_student",0
+"533","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","pop_boys_primary_student",0
+"534","Khyber Pakhtunkhwa","North Waziristan","Data Khel","pop_boys_primary_student",0
+"535","Khyber Pakhtunkhwa","North Waziristan","Dossali","pop_boys_primary_student",0
+"536","Khyber Pakhtunkhwa","North Waziristan","Garyum","pop_boys_primary_student",0
+"537","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","pop_boys_primary_student",0
+"538","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","pop_boys_primary_student",0
+"539","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","pop_boys_primary_student",0
+"540","Khyber Pakhtunkhwa","North Waziristan","Razmak","pop_boys_primary_student",0
+"541","Khyber Pakhtunkhwa","North Waziristan","Shewa","pop_boys_primary_student",0
+"542","Khyber Pakhtunkhwa","North Waziristan","Spinwam","pop_boys_primary_student",0
+"543","Khyber Pakhtunkhwa","Nowshera","Nowshera","pop_boys_primary_student",48679
+"544","Khyber Pakhtunkhwa","Nowshera","Pabbi","pop_boys_primary_student",21195
+"545","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","pop_boys_primary_student",0
+"546","Khyber Pakhtunkhwa","Orakzai","Ismailzai","pop_boys_primary_student",129
+"547","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","pop_boys_primary_student",0
+"548","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","pop_boys_primary_student",0
+"549","Khyber Pakhtunkhwa","Peshawar","Peshawar","pop_boys_primary_student",159634
+"550","Khyber Pakhtunkhwa","Shangla","Alpuri","pop_boys_primary_student",29368
+"551","Khyber Pakhtunkhwa","Shangla","Bisham","pop_boys_primary_student",6860
+"552","Khyber Pakhtunkhwa","Shangla","Chiksar","pop_boys_primary_student",8414
+"553","Khyber Pakhtunkhwa","Shangla","Martung","pop_boys_primary_student",5793
+"554","Khyber Pakhtunkhwa","Shangla","Puran","pop_boys_primary_student",13131
+"555","Khyber Pakhtunkhwa","South Waziristan","Birmal","pop_boys_primary_student",0
+"556","Khyber Pakhtunkhwa","South Waziristan","Ladha","pop_boys_primary_student",0
+"557","Khyber Pakhtunkhwa","South Waziristan","Makin","pop_boys_primary_student",0
+"558","Khyber Pakhtunkhwa","South Waziristan","Sararogha","pop_boys_primary_student",0
+"559","Khyber Pakhtunkhwa","South Waziristan","Serwekai","pop_boys_primary_student",0
+"560","Khyber Pakhtunkhwa","South Waziristan","Tiarza","pop_boys_primary_student",0
+"561","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","pop_boys_primary_student",0
+"562","Khyber Pakhtunkhwa","South Waziristan","Wana","pop_boys_primary_student",0
+"563","Khyber Pakhtunkhwa","Swabi","Lahor","pop_boys_primary_student",33806
+"564","Khyber Pakhtunkhwa","Swabi","Swabi","pop_boys_primary_student",45995
+"565","Khyber Pakhtunkhwa","Swabi","Topi","pop_boys_primary_student",18864
+"566","Khyber Pakhtunkhwa","Swat","Babuzai","pop_boys_primary_student",31858
+"567","Khyber Pakhtunkhwa","Swat","Bahrain","pop_boys_primary_student",13435
+"568","Khyber Pakhtunkhwa","Swat","Barikot","pop_boys_primary_student",14094
+"569","Khyber Pakhtunkhwa","Swat","Charbagh","pop_boys_primary_student",9459
+"570","Khyber Pakhtunkhwa","Swat","Kabal","pop_boys_primary_student",31971
+"571","Khyber Pakhtunkhwa","Swat","Kalam","pop_boys_primary_student",7601
+"572","Khyber Pakhtunkhwa","Swat","Khwazakhela","pop_boys_primary_student",22974
+"573","Khyber Pakhtunkhwa","Swat","Matta Khararai","pop_boys_primary_student",21004
+"574","Khyber Pakhtunkhwa","Swat","Matta Sebujni","pop_boys_primary_student",16968
+"575","Khyber Pakhtunkhwa","Tank","Tank","pop_boys_primary_student",21820
+"576","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","pop_boys_primary_student",11417
+"577","Khyber Pakhtunkhwa","Upper Dir","Barawal","pop_boys_primary_student",12093
+"578","Khyber Pakhtunkhwa","Upper Dir","Dir","pop_boys_primary_student",47370
+"579","Khyber Pakhtunkhwa","Upper Dir","Kalkot","pop_boys_primary_student",2503
+"580","Khyber Pakhtunkhwa","Upper Dir","Wari","pop_boys_primary_student",51068
+"581","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","pop_boys_middle_student",7518
+"582","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","pop_boys_middle_student",0
+"583","Khyber Pakhtunkhwa","Bajaur","Barang","pop_boys_middle_student",0
+"584","Khyber Pakhtunkhwa","Bajaur","Khar","pop_boys_middle_student",0
+"585","Khyber Pakhtunkhwa","Bajaur","Mamund","pop_boys_middle_student",0
+"586","Khyber Pakhtunkhwa","Bajaur","Nawagai","pop_boys_middle_student",0
+"587","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","pop_boys_middle_student",0
+"588","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","pop_boys_middle_student",0
+"589","Khyber Pakhtunkhwa","Bannu","Bannu","pop_boys_middle_student",2912
+"590","Khyber Pakhtunkhwa","Bannu","Domel","pop_boys_middle_student",1204
+"591","Khyber Pakhtunkhwa","Batagram","Alai","pop_boys_middle_student",732
+"592","Khyber Pakhtunkhwa","Batagram","Batagram","pop_boys_middle_student",633
+"593","Khyber Pakhtunkhwa","Buner","Chagharzai","pop_boys_middle_student",931
+"594","Khyber Pakhtunkhwa","Buner","Chamla","pop_boys_middle_student",1119
+"595","Khyber Pakhtunkhwa","Buner","Daggar","pop_boys_middle_student",631
+"596","Khyber Pakhtunkhwa","Buner","Gagra","pop_boys_middle_student",1034
+"597","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","pop_boys_middle_student",903
+"598","Khyber Pakhtunkhwa","Buner","Totalai","pop_boys_middle_student",859
+"599","Khyber Pakhtunkhwa","Charsadda","Charsadda","pop_boys_middle_student",4890
+"600","Khyber Pakhtunkhwa","Charsadda","Tangi","pop_boys_middle_student",1678
+"601","Khyber Pakhtunkhwa","Chitral","Chitral","pop_boys_middle_student",2690
+"602","Khyber Pakhtunkhwa","Chitral","Mastuj","pop_boys_middle_student",2770
+"603","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","pop_boys_middle_student",404
+"604","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","pop_boys_middle_student",3660
+"605","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","pop_boys_middle_student",111
+"606","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","pop_boys_middle_student",1527
+"607","Khyber Pakhtunkhwa","FR Bannu","Wazir","pop_boys_middle_student",0
+"608","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","pop_boys_middle_student",0
+"609","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","pop_boys_middle_student",66
+"610","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","pop_boys_middle_student",0
+"611","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","pop_boys_middle_student",0
+"612","Khyber Pakhtunkhwa","FR Tank","Jandola","pop_boys_middle_student",0
+"613","Khyber Pakhtunkhwa","Hangu","Hangu","pop_boys_middle_student",1539
+"614","Khyber Pakhtunkhwa","Hangu","Tall","pop_boys_middle_student",617
+"615","Khyber Pakhtunkhwa","Haripur","Ghazi","pop_boys_middle_student",1125
+"616","Khyber Pakhtunkhwa","Haripur","Haripur","pop_boys_middle_student",3767
+"617","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","pop_boys_middle_student",865
+"618","Khyber Pakhtunkhwa","Karak","Karak","pop_boys_middle_student",1693
+"619","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","pop_boys_middle_student",1774
+"620","Khyber Pakhtunkhwa","Khyber","Bara","pop_boys_middle_student",0
+"621","Khyber Pakhtunkhwa","Khyber","Jamrud","pop_boys_middle_student",0
+"622","Khyber Pakhtunkhwa","Khyber","Landi Kotal","pop_boys_middle_student",0
+"623","Khyber Pakhtunkhwa","Kohat","Kohat","pop_boys_middle_student",3136
+"624","Khyber Pakhtunkhwa","Kohat","Lachi","pop_boys_middle_student",1197
+"625","Khyber Pakhtunkhwa","Kohistan","Dassu","pop_boys_middle_student",685
+"626","Khyber Pakhtunkhwa","Kohistan","Palas","pop_boys_middle_student",760
+"627","Khyber Pakhtunkhwa","Kohistan","Pattan","pop_boys_middle_student",49
+"628","Khyber Pakhtunkhwa","Kurram","Central Kurram","pop_boys_middle_student",0
+"629","Khyber Pakhtunkhwa","Kurram","Lower Kurram","pop_boys_middle_student",0
+"630","Khyber Pakhtunkhwa","Kurram","Upper Kurram","pop_boys_middle_student",0
+"631","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","pop_boys_middle_student",3591
+"632","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","pop_boys_middle_student",2040
+"633","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","pop_boys_middle_student",2504
+"634","Khyber Pakhtunkhwa","Lower Dir","Timergara","pop_boys_middle_student",8002
+"635","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","pop_boys_middle_student",2340
+"636","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","pop_boys_middle_student",1459
+"637","Khyber Pakhtunkhwa","Mansehra","Balakot","pop_boys_middle_student",2026
+"638","Khyber Pakhtunkhwa","Mansehra","Mansehra","pop_boys_middle_student",4738
+"639","Khyber Pakhtunkhwa","Mansehra","Oghi","pop_boys_middle_student",1186
+"640","Khyber Pakhtunkhwa","Mardan","Katlang","pop_boys_middle_student",1004
+"641","Khyber Pakhtunkhwa","Mardan","Mardan","pop_boys_middle_student",6340
+"642","Khyber Pakhtunkhwa","Mardan","Takht Bhai","pop_boys_middle_student",5134
+"643","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","pop_boys_middle_student",0
+"644","Khyber Pakhtunkhwa","Mohmand","Halimzai","pop_boys_middle_student",0
+"645","Khyber Pakhtunkhwa","Mohmand","Pindiali","pop_boys_middle_student",0
+"646","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","pop_boys_middle_student",0
+"647","Khyber Pakhtunkhwa","Mohmand","Safi","pop_boys_middle_student",0
+"648","Khyber Pakhtunkhwa","Mohmand","Upper Momand","pop_boys_middle_student",0
+"649","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","pop_boys_middle_student",0
+"650","Khyber Pakhtunkhwa","North Waziristan","Data Khel","pop_boys_middle_student",0
+"651","Khyber Pakhtunkhwa","North Waziristan","Dossali","pop_boys_middle_student",0
+"652","Khyber Pakhtunkhwa","North Waziristan","Garyum","pop_boys_middle_student",0
+"653","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","pop_boys_middle_student",0
+"654","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","pop_boys_middle_student",0
+"655","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","pop_boys_middle_student",0
+"656","Khyber Pakhtunkhwa","North Waziristan","Razmak","pop_boys_middle_student",0
+"657","Khyber Pakhtunkhwa","North Waziristan","Shewa","pop_boys_middle_student",0
+"658","Khyber Pakhtunkhwa","North Waziristan","Spinwam","pop_boys_middle_student",0
+"659","Khyber Pakhtunkhwa","Nowshera","Nowshera","pop_boys_middle_student",3876
+"660","Khyber Pakhtunkhwa","Nowshera","Pabbi","pop_boys_middle_student",1491
+"661","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","pop_boys_middle_student",0
+"662","Khyber Pakhtunkhwa","Orakzai","Ismailzai","pop_boys_middle_student",0
+"663","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","pop_boys_middle_student",0
+"664","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","pop_boys_middle_student",0
+"665","Khyber Pakhtunkhwa","Peshawar","Peshawar","pop_boys_middle_student",10745
+"666","Khyber Pakhtunkhwa","Shangla","Alpuri","pop_boys_middle_student",1597
+"667","Khyber Pakhtunkhwa","Shangla","Bisham","pop_boys_middle_student",363
+"668","Khyber Pakhtunkhwa","Shangla","Chiksar","pop_boys_middle_student",460
+"669","Khyber Pakhtunkhwa","Shangla","Martung","pop_boys_middle_student",433
+"670","Khyber Pakhtunkhwa","Shangla","Puran","pop_boys_middle_student",889
+"671","Khyber Pakhtunkhwa","South Waziristan","Birmal","pop_boys_middle_student",0
+"672","Khyber Pakhtunkhwa","South Waziristan","Ladha","pop_boys_middle_student",0
+"673","Khyber Pakhtunkhwa","South Waziristan","Makin","pop_boys_middle_student",0
+"674","Khyber Pakhtunkhwa","South Waziristan","Sararogha","pop_boys_middle_student",0
+"675","Khyber Pakhtunkhwa","South Waziristan","Serwekai","pop_boys_middle_student",0
+"676","Khyber Pakhtunkhwa","South Waziristan","Tiarza","pop_boys_middle_student",0
+"677","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","pop_boys_middle_student",0
+"678","Khyber Pakhtunkhwa","South Waziristan","Wana","pop_boys_middle_student",0
+"679","Khyber Pakhtunkhwa","Swabi","Lahor","pop_boys_middle_student",2677
+"680","Khyber Pakhtunkhwa","Swabi","Swabi","pop_boys_middle_student",5020
+"681","Khyber Pakhtunkhwa","Swabi","Topi","pop_boys_middle_student",2361
+"682","Khyber Pakhtunkhwa","Swat","Babuzai","pop_boys_middle_student",1922
+"683","Khyber Pakhtunkhwa","Swat","Bahrain","pop_boys_middle_student",1116
+"684","Khyber Pakhtunkhwa","Swat","Barikot","pop_boys_middle_student",871
+"685","Khyber Pakhtunkhwa","Swat","Charbagh","pop_boys_middle_student",377
+"686","Khyber Pakhtunkhwa","Swat","Kabal","pop_boys_middle_student",2564
+"687","Khyber Pakhtunkhwa","Swat","Kalam","pop_boys_middle_student",277
+"688","Khyber Pakhtunkhwa","Swat","Khwazakhela","pop_boys_middle_student",1340
+"689","Khyber Pakhtunkhwa","Swat","Matta Khararai","pop_boys_middle_student",517
+"690","Khyber Pakhtunkhwa","Swat","Matta Sebujni","pop_boys_middle_student",686
+"691","Khyber Pakhtunkhwa","Tank","Tank","pop_boys_middle_student",1319
+"692","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","pop_boys_middle_student",749
+"693","Khyber Pakhtunkhwa","Upper Dir","Barawal","pop_boys_middle_student",1126
+"694","Khyber Pakhtunkhwa","Upper Dir","Dir","pop_boys_middle_student",3688
+"695","Khyber Pakhtunkhwa","Upper Dir","Kalkot","pop_boys_middle_student",213
+"696","Khyber Pakhtunkhwa","Upper Dir","Wari","pop_boys_middle_student",5999
+"697","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","pop_boys_high_student",27784
+"698","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","pop_boys_high_student",0
+"699","Khyber Pakhtunkhwa","Bajaur","Barang","pop_boys_high_student",0
+"700","Khyber Pakhtunkhwa","Bajaur","Khar","pop_boys_high_student",0
+"701","Khyber Pakhtunkhwa","Bajaur","Mamund","pop_boys_high_student",0
+"702","Khyber Pakhtunkhwa","Bajaur","Nawagai","pop_boys_high_student",0
+"703","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","pop_boys_high_student",0
+"704","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","pop_boys_high_student",0
+"705","Khyber Pakhtunkhwa","Bannu","Bannu","pop_boys_high_student",15464
+"706","Khyber Pakhtunkhwa","Bannu","Domel","pop_boys_high_student",4358
+"707","Khyber Pakhtunkhwa","Batagram","Alai","pop_boys_high_student",1605
+"708","Khyber Pakhtunkhwa","Batagram","Batagram","pop_boys_high_student",3442
+"709","Khyber Pakhtunkhwa","Buner","Chagharzai","pop_boys_high_student",2565
+"710","Khyber Pakhtunkhwa","Buner","Chamla","pop_boys_high_student",5246
+"711","Khyber Pakhtunkhwa","Buner","Daggar","pop_boys_high_student",3628
+"712","Khyber Pakhtunkhwa","Buner","Gagra","pop_boys_high_student",3645
+"713","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","pop_boys_high_student",4863
+"714","Khyber Pakhtunkhwa","Buner","Totalai","pop_boys_high_student",3458
+"715","Khyber Pakhtunkhwa","Charsadda","Charsadda","pop_boys_high_student",22924
+"716","Khyber Pakhtunkhwa","Charsadda","Tangi","pop_boys_high_student",8588
+"717","Khyber Pakhtunkhwa","Chitral","Chitral","pop_boys_high_student",8018
+"718","Khyber Pakhtunkhwa","Chitral","Mastuj","pop_boys_high_student",7572
+"719","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","pop_boys_high_student",1426
+"720","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","pop_boys_high_student",13677
+"721","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","pop_boys_high_student",1598
+"722","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","pop_boys_high_student",7425
+"723","Khyber Pakhtunkhwa","FR Bannu","Wazir","pop_boys_high_student",0
+"724","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","pop_boys_high_student",0
+"725","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","pop_boys_high_student",0
+"726","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","pop_boys_high_student",0
+"727","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","pop_boys_high_student",0
+"728","Khyber Pakhtunkhwa","FR Tank","Jandola","pop_boys_high_student",0
+"729","Khyber Pakhtunkhwa","Hangu","Hangu","pop_boys_high_student",4293
+"730","Khyber Pakhtunkhwa","Hangu","Tall","pop_boys_high_student",4236
+"731","Khyber Pakhtunkhwa","Haripur","Ghazi","pop_boys_high_student",3356
+"732","Khyber Pakhtunkhwa","Haripur","Haripur","pop_boys_high_student",21769
+"733","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","pop_boys_high_student",4835
+"734","Khyber Pakhtunkhwa","Karak","Karak","pop_boys_high_student",8845
+"735","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","pop_boys_high_student",7944
+"736","Khyber Pakhtunkhwa","Khyber","Bara","pop_boys_high_student",0
+"737","Khyber Pakhtunkhwa","Khyber","Jamrud","pop_boys_high_student",0
+"738","Khyber Pakhtunkhwa","Khyber","Landi Kotal","pop_boys_high_student",0
+"739","Khyber Pakhtunkhwa","Kohat","Kohat","pop_boys_high_student",18148
+"740","Khyber Pakhtunkhwa","Kohat","Lachi","pop_boys_high_student",5011
+"741","Khyber Pakhtunkhwa","Kohistan","Dassu","pop_boys_high_student",593
+"742","Khyber Pakhtunkhwa","Kohistan","Palas","pop_boys_high_student",1426
+"743","Khyber Pakhtunkhwa","Kohistan","Pattan","pop_boys_high_student",27
+"744","Khyber Pakhtunkhwa","Kurram","Central Kurram","pop_boys_high_student",0
+"745","Khyber Pakhtunkhwa","Kurram","Lower Kurram","pop_boys_high_student",0
+"746","Khyber Pakhtunkhwa","Kurram","Upper Kurram","pop_boys_high_student",0
+"747","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","pop_boys_high_student",15725
+"748","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","pop_boys_high_student",7641
+"749","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","pop_boys_high_student",9933
+"750","Khyber Pakhtunkhwa","Lower Dir","Timergara","pop_boys_high_student",30900
+"751","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","pop_boys_high_student",8649
+"752","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","pop_boys_high_student",12860
+"753","Khyber Pakhtunkhwa","Mansehra","Balakot","pop_boys_high_student",7345
+"754","Khyber Pakhtunkhwa","Mansehra","Mansehra","pop_boys_high_student",15802
+"755","Khyber Pakhtunkhwa","Mansehra","Oghi","pop_boys_high_student",6147
+"756","Khyber Pakhtunkhwa","Mardan","Katlang","pop_boys_high_student",6952
+"757","Khyber Pakhtunkhwa","Mardan","Mardan","pop_boys_high_student",32392
+"758","Khyber Pakhtunkhwa","Mardan","Takht Bhai","pop_boys_high_student",14581
+"759","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","pop_boys_high_student",0
+"760","Khyber Pakhtunkhwa","Mohmand","Halimzai","pop_boys_high_student",0
+"761","Khyber Pakhtunkhwa","Mohmand","Pindiali","pop_boys_high_student",0
+"762","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","pop_boys_high_student",0
+"763","Khyber Pakhtunkhwa","Mohmand","Safi","pop_boys_high_student",0
+"764","Khyber Pakhtunkhwa","Mohmand","Upper Momand","pop_boys_high_student",0
+"765","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","pop_boys_high_student",0
+"766","Khyber Pakhtunkhwa","North Waziristan","Data Khel","pop_boys_high_student",0
+"767","Khyber Pakhtunkhwa","North Waziristan","Dossali","pop_boys_high_student",0
+"768","Khyber Pakhtunkhwa","North Waziristan","Garyum","pop_boys_high_student",0
+"769","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","pop_boys_high_student",0
+"770","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","pop_boys_high_student",0
+"771","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","pop_boys_high_student",0
+"772","Khyber Pakhtunkhwa","North Waziristan","Razmak","pop_boys_high_student",0
+"773","Khyber Pakhtunkhwa","North Waziristan","Shewa","pop_boys_high_student",0
+"774","Khyber Pakhtunkhwa","North Waziristan","Spinwam","pop_boys_high_student",0
+"775","Khyber Pakhtunkhwa","Nowshera","Nowshera","pop_boys_high_student",19135
+"776","Khyber Pakhtunkhwa","Nowshera","Pabbi","pop_boys_high_student",8400
+"777","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","pop_boys_high_student",0
+"778","Khyber Pakhtunkhwa","Orakzai","Ismailzai","pop_boys_high_student",0
+"779","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","pop_boys_high_student",0
+"780","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","pop_boys_high_student",0
+"781","Khyber Pakhtunkhwa","Peshawar","Peshawar","pop_boys_high_student",48241
+"782","Khyber Pakhtunkhwa","Shangla","Alpuri","pop_boys_high_student",5620
+"783","Khyber Pakhtunkhwa","Shangla","Bisham","pop_boys_high_student",739
+"784","Khyber Pakhtunkhwa","Shangla","Chiksar","pop_boys_high_student",1788
+"785","Khyber Pakhtunkhwa","Shangla","Martung","pop_boys_high_student",609
+"786","Khyber Pakhtunkhwa","Shangla","Puran","pop_boys_high_student",3769
+"787","Khyber Pakhtunkhwa","South Waziristan","Birmal","pop_boys_high_student",0
+"788","Khyber Pakhtunkhwa","South Waziristan","Ladha","pop_boys_high_student",0
+"789","Khyber Pakhtunkhwa","South Waziristan","Makin","pop_boys_high_student",0
+"790","Khyber Pakhtunkhwa","South Waziristan","Sararogha","pop_boys_high_student",0
+"791","Khyber Pakhtunkhwa","South Waziristan","Serwekai","pop_boys_high_student",0
+"792","Khyber Pakhtunkhwa","South Waziristan","Tiarza","pop_boys_high_student",0
+"793","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","pop_boys_high_student",0
+"794","Khyber Pakhtunkhwa","South Waziristan","Wana","pop_boys_high_student",0
+"795","Khyber Pakhtunkhwa","Swabi","Lahor","pop_boys_high_student",12942
+"796","Khyber Pakhtunkhwa","Swabi","Swabi","pop_boys_high_student",19689
+"797","Khyber Pakhtunkhwa","Swabi","Topi","pop_boys_high_student",9469
+"798","Khyber Pakhtunkhwa","Swat","Babuzai","pop_boys_high_student",9958
+"799","Khyber Pakhtunkhwa","Swat","Bahrain","pop_boys_high_student",1943
+"800","Khyber Pakhtunkhwa","Swat","Barikot","pop_boys_high_student",3625
+"801","Khyber Pakhtunkhwa","Swat","Charbagh","pop_boys_high_student",1635
+"802","Khyber Pakhtunkhwa","Swat","Kabal","pop_boys_high_student",8342
+"803","Khyber Pakhtunkhwa","Swat","Kalam","pop_boys_high_student",1499
+"804","Khyber Pakhtunkhwa","Swat","Khwazakhela","pop_boys_high_student",4997
+"805","Khyber Pakhtunkhwa","Swat","Matta Khararai","pop_boys_high_student",3903
+"806","Khyber Pakhtunkhwa","Swat","Matta Sebujni","pop_boys_high_student",1914
+"807","Khyber Pakhtunkhwa","Tank","Tank","pop_boys_high_student",4993
+"808","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","pop_boys_high_student",866
+"809","Khyber Pakhtunkhwa","Upper Dir","Barawal","pop_boys_high_student",1546
+"810","Khyber Pakhtunkhwa","Upper Dir","Dir","pop_boys_high_student",10451
+"811","Khyber Pakhtunkhwa","Upper Dir","Kalkot","pop_boys_high_student",171
+"812","Khyber Pakhtunkhwa","Upper Dir","Wari","pop_boys_high_student",9384
+"813","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","girls_primary_str",0.0633257226369946
+"814","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","girls_primary_str",NA
+"815","Khyber Pakhtunkhwa","Bajaur","Barang","girls_primary_str",NA
+"816","Khyber Pakhtunkhwa","Bajaur","Khar","girls_primary_str",NA
+"817","Khyber Pakhtunkhwa","Bajaur","Mamund","girls_primary_str",NA
+"818","Khyber Pakhtunkhwa","Bajaur","Nawagai","girls_primary_str",NA
+"819","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","girls_primary_str",NA
+"820","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","girls_primary_str",NA
+"821","Khyber Pakhtunkhwa","Bannu","Bannu","girls_primary_str",0.104077405506752
+"822","Khyber Pakhtunkhwa","Bannu","Domel","girls_primary_str",0.349665861813558
+"823","Khyber Pakhtunkhwa","Batagram","Alai","girls_primary_str",0.69675381148456
+"824","Khyber Pakhtunkhwa","Batagram","Batagram","girls_primary_str",0.197759560261674
+"825","Khyber Pakhtunkhwa","Buner","Chagharzai","girls_primary_str",2.62335634547833
+"826","Khyber Pakhtunkhwa","Buner","Chamla","girls_primary_str",1.53563594062372
+"827","Khyber Pakhtunkhwa","Buner","Daggar","girls_primary_str",2.39787564066106
+"828","Khyber Pakhtunkhwa","Buner","Gagra","girls_primary_str",2.6983381979797
+"829","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","girls_primary_str",2.46128433742749
+"830","Khyber Pakhtunkhwa","Buner","Totalai","girls_primary_str",2.29159043506493
+"831","Khyber Pakhtunkhwa","Charsadda","Charsadda","girls_primary_str",0.155184629030827
+"832","Khyber Pakhtunkhwa","Charsadda","Tangi","girls_primary_str",0.513513768661656
+"833","Khyber Pakhtunkhwa","Chitral","Chitral","girls_primary_str",0.448351813340184
+"834","Khyber Pakhtunkhwa","Chitral","Mastuj","girls_primary_str",0.615048383627693
+"835","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","girls_primary_str",1.10444192252964
+"836","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","girls_primary_str",0.189167915331042
+"837","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","girls_primary_str",2.25948256383257
+"838","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","girls_primary_str",0.514285269377491
+"839","Khyber Pakhtunkhwa","FR Bannu","Wazir","girls_primary_str",NA
+"840","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","girls_primary_str",NA
+"841","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","girls_primary_str",NA
+"842","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","girls_primary_str",NA
+"843","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","girls_primary_str",NA
+"844","Khyber Pakhtunkhwa","FR Tank","Jandola","girls_primary_str",88
+"845","Khyber Pakhtunkhwa","Hangu","Hangu","girls_primary_str",0.97027882398262
+"846","Khyber Pakhtunkhwa","Hangu","Tall","girls_primary_str",2.08635613555113
+"847","Khyber Pakhtunkhwa","Haripur","Ghazi","girls_primary_str",0.533508764959962
+"848","Khyber Pakhtunkhwa","Haripur","Haripur","girls_primary_str",0.12850240506773
+"849","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","girls_primary_str",0.988355370671249
+"850","Khyber Pakhtunkhwa","Karak","Karak","girls_primary_str",0.264771034572752
+"851","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","girls_primary_str",0.178633921196889
+"852","Khyber Pakhtunkhwa","Khyber","Bara","girls_primary_str",NA
+"853","Khyber Pakhtunkhwa","Khyber","Jamrud","girls_primary_str",NA
+"854","Khyber Pakhtunkhwa","Khyber","Landi Kotal","girls_primary_str",NA
+"855","Khyber Pakhtunkhwa","Kohat","Kohat","girls_primary_str",0.231439587973552
+"856","Khyber Pakhtunkhwa","Kohat","Lachi","girls_primary_str",0.628886042496173
+"857","Khyber Pakhtunkhwa","Kohistan","Dassu","girls_primary_str",0.552089338316291
+"858","Khyber Pakhtunkhwa","Kohistan","Palas","girls_primary_str",0.302652968397393
+"859","Khyber Pakhtunkhwa","Kohistan","Pattan","girls_primary_str",2.1410162940919
+"860","Khyber Pakhtunkhwa","Kurram","Central Kurram","girls_primary_str",NA
+"861","Khyber Pakhtunkhwa","Kurram","Lower Kurram","girls_primary_str",NA
+"862","Khyber Pakhtunkhwa","Kurram","Upper Kurram","girls_primary_str",NA
+"863","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","girls_primary_str",0.180154912306687
+"864","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","girls_primary_str",0.414451133590323
+"865","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","girls_primary_str",0.433876069063166
+"866","Khyber Pakhtunkhwa","Lower Dir","Timergara","girls_primary_str",0.181968165197637
+"867","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","girls_primary_str",0.466574145917358
+"868","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","girls_primary_str",0.391344650194502
+"869","Khyber Pakhtunkhwa","Mansehra","Balakot","girls_primary_str",0.325535668449455
+"870","Khyber Pakhtunkhwa","Mansehra","Mansehra","girls_primary_str",0.106632644064499
+"871","Khyber Pakhtunkhwa","Mansehra","Oghi","girls_primary_str",0.555399655336406
+"872","Khyber Pakhtunkhwa","Mardan","Katlang","girls_primary_str",0.818397790014767
+"873","Khyber Pakhtunkhwa","Mardan","Mardan","girls_primary_str",0.177720631063022
+"874","Khyber Pakhtunkhwa","Mardan","Takht Bhai","girls_primary_str",0.237282788327914
+"875","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","girls_primary_str",NA
+"876","Khyber Pakhtunkhwa","Mohmand","Halimzai","girls_primary_str",NA
+"877","Khyber Pakhtunkhwa","Mohmand","Pindiali","girls_primary_str",NA
+"878","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","girls_primary_str",NA
+"879","Khyber Pakhtunkhwa","Mohmand","Safi","girls_primary_str",NA
+"880","Khyber Pakhtunkhwa","Mohmand","Upper Momand","girls_primary_str",NA
+"881","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","girls_primary_str",NA
+"882","Khyber Pakhtunkhwa","North Waziristan","Data Khel","girls_primary_str",NA
+"883","Khyber Pakhtunkhwa","North Waziristan","Dossali","girls_primary_str",NA
+"884","Khyber Pakhtunkhwa","North Waziristan","Garyum","girls_primary_str",NA
+"885","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","girls_primary_str",NA
+"886","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","girls_primary_str",NA
+"887","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","girls_primary_str",NA
+"888","Khyber Pakhtunkhwa","North Waziristan","Razmak","girls_primary_str",NA
+"889","Khyber Pakhtunkhwa","North Waziristan","Shewa","girls_primary_str",NA
+"890","Khyber Pakhtunkhwa","North Waziristan","Spinwam","girls_primary_str",NA
+"891","Khyber Pakhtunkhwa","Nowshera","Nowshera","girls_primary_str",0.203078778508003
+"892","Khyber Pakhtunkhwa","Nowshera","Pabbi","girls_primary_str",0.570775868740969
+"893","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","girls_primary_str",NA
+"894","Khyber Pakhtunkhwa","Orakzai","Ismailzai","girls_primary_str",NA
+"895","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","girls_primary_str",NA
+"896","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","girls_primary_str",NA
+"897","Khyber Pakhtunkhwa","Peshawar","Peshawar","girls_primary_str",0.15558145624257
+"898","Khyber Pakhtunkhwa","Shangla","Alpuri","girls_primary_str",1.1102543728902
+"899","Khyber Pakhtunkhwa","Shangla","Bisham","girls_primary_str",5.00785049949725
+"900","Khyber Pakhtunkhwa","Shangla","Chiksar","girls_primary_str",1.88913584106254
+"901","Khyber Pakhtunkhwa","Shangla","Martung","girls_primary_str",7.17774390243902
+"902","Khyber Pakhtunkhwa","Shangla","Puran","girls_primary_str",0.639438842506532
+"903","Khyber Pakhtunkhwa","South Waziristan","Birmal","girls_primary_str",NA
+"904","Khyber Pakhtunkhwa","South Waziristan","Ladha","girls_primary_str",NA
+"905","Khyber Pakhtunkhwa","South Waziristan","Makin","girls_primary_str",NA
+"906","Khyber Pakhtunkhwa","South Waziristan","Sararogha","girls_primary_str",NA
+"907","Khyber Pakhtunkhwa","South Waziristan","Serwekai","girls_primary_str",NA
+"908","Khyber Pakhtunkhwa","South Waziristan","Tiarza","girls_primary_str",NA
+"909","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","girls_primary_str",NA
+"910","Khyber Pakhtunkhwa","South Waziristan","Wana","girls_primary_str",NA
+"911","Khyber Pakhtunkhwa","Swabi","Lahor","girls_primary_str",0.338515580840631
+"912","Khyber Pakhtunkhwa","Swabi","Swabi","girls_primary_str",0.276747898072487
+"913","Khyber Pakhtunkhwa","Swabi","Topi","girls_primary_str",0.395151344369627
+"914","Khyber Pakhtunkhwa","Swat","Babuzai","girls_primary_str",0.589187955251242
+"915","Khyber Pakhtunkhwa","Swat","Bahrain","girls_primary_str",1.41837396444904
+"916","Khyber Pakhtunkhwa","Swat","Barikot","girls_primary_str",2.08273333812743
+"917","Khyber Pakhtunkhwa","Swat","Charbagh","girls_primary_str",2.2833124178904
+"918","Khyber Pakhtunkhwa","Swat","Kabal","girls_primary_str",0.832823549880233
+"919","Khyber Pakhtunkhwa","Swat","Kalam","girls_primary_str",2.83338423946243
+"920","Khyber Pakhtunkhwa","Swat","Khwazakhela","girls_primary_str",0.828499450527805
+"921","Khyber Pakhtunkhwa","Swat","Matta Khararai","girls_primary_str",1.1890411280465
+"922","Khyber Pakhtunkhwa","Swat","Matta Sebujni","girls_primary_str",1.11011292831553
+"923","Khyber Pakhtunkhwa","Tank","Tank","girls_primary_str",0.353311522365466
+"924","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","girls_primary_str",1.302544229054
+"925","Khyber Pakhtunkhwa","Upper Dir","Barawal","girls_primary_str",1.91386599456536
+"926","Khyber Pakhtunkhwa","Upper Dir","Dir","girls_primary_str",0.528625838434158
+"927","Khyber Pakhtunkhwa","Upper Dir","Kalkot","girls_primary_str",17.2160388127854
+"928","Khyber Pakhtunkhwa","Upper Dir","Wari","girls_primary_str",0.638226168053139
+"929","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","girls_middle_str",0.223454491494519
+"930","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","girls_middle_str",NA
+"931","Khyber Pakhtunkhwa","Bajaur","Barang","girls_middle_str",NA
+"932","Khyber Pakhtunkhwa","Bajaur","Khar","girls_middle_str",NA
+"933","Khyber Pakhtunkhwa","Bajaur","Mamund","girls_middle_str",NA
+"934","Khyber Pakhtunkhwa","Bajaur","Nawagai","girls_middle_str",NA
+"935","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","girls_middle_str",NA
+"936","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","girls_middle_str",NA
+"937","Khyber Pakhtunkhwa","Bannu","Bannu","girls_middle_str",0.259899634344693
+"938","Khyber Pakhtunkhwa","Bannu","Domel","girls_middle_str",0.961305495226811
+"939","Khyber Pakhtunkhwa","Batagram","Alai","girls_middle_str",10.3819755111111
+"940","Khyber Pakhtunkhwa","Batagram","Batagram","girls_middle_str",0.807873771458333
+"941","Khyber Pakhtunkhwa","Buner","Chagharzai","girls_middle_str",8.20047169811321
+"942","Khyber Pakhtunkhwa","Buner","Chamla","girls_middle_str",5.27674080634921
+"943","Khyber Pakhtunkhwa","Buner","Daggar","girls_middle_str",8.14248467346939
+"944","Khyber Pakhtunkhwa","Buner","Gagra","girls_middle_str",6.00772544908815
+"945","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","girls_middle_str",10.0654370306011
+"946","Khyber Pakhtunkhwa","Buner","Totalai","girls_middle_str",7.134375
+"947","Khyber Pakhtunkhwa","Charsadda","Charsadda","girls_middle_str",0.598412603985481
+"948","Khyber Pakhtunkhwa","Charsadda","Tangi","girls_middle_str",3.26774190621814
+"949","Khyber Pakhtunkhwa","Chitral","Chitral","girls_middle_str",0.83491982842245
+"950","Khyber Pakhtunkhwa","Chitral","Mastuj","girls_middle_str",1.25182689501102
+"951","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","girls_middle_str",9.45194805194805
+"952","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","girls_middle_str",0.397880801898231
+"953","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","girls_middle_str",10.0980392156863
+"954","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","girls_middle_str",1.0283515609484
+"955","Khyber Pakhtunkhwa","FR Bannu","Wazir","girls_middle_str",NA
+"956","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","girls_middle_str",NA
+"957","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","girls_middle_str",NA
+"958","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","girls_middle_str",NA
+"959","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","girls_middle_str",NA
+"960","Khyber Pakhtunkhwa","FR Tank","Jandola","girls_middle_str",NA
+"961","Khyber Pakhtunkhwa","Hangu","Hangu","girls_middle_str",2.88533631587537
+"962","Khyber Pakhtunkhwa","Hangu","Tall","girls_middle_str",11.5434782608696
+"963","Khyber Pakhtunkhwa","Haripur","Ghazi","girls_middle_str",2.80303765679348
+"964","Khyber Pakhtunkhwa","Haripur","Haripur","girls_middle_str",0.308839155256509
+"965","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","girls_middle_str",4.54990550708215
+"966","Khyber Pakhtunkhwa","Karak","Karak","girls_middle_str",1.39459137811688
+"967","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","girls_middle_str",1.13689438059912
+"968","Khyber Pakhtunkhwa","Khyber","Bara","girls_middle_str",NA
+"969","Khyber Pakhtunkhwa","Khyber","Jamrud","girls_middle_str",NA
+"970","Khyber Pakhtunkhwa","Khyber","Landi Kotal","girls_middle_str",NA
+"971","Khyber Pakhtunkhwa","Kohat","Kohat","girls_middle_str",0.910830873350029
+"972","Khyber Pakhtunkhwa","Kohat","Lachi","girls_middle_str",1.70435887800886
+"973","Khyber Pakhtunkhwa","Kohistan","Dassu","girls_middle_str",8
+"974","Khyber Pakhtunkhwa","Kohistan","Palas","girls_middle_str",1.67075163398693
+"975","Khyber Pakhtunkhwa","Kohistan","Pattan","girls_middle_str",NA
+"976","Khyber Pakhtunkhwa","Kurram","Central Kurram","girls_middle_str",NA
+"977","Khyber Pakhtunkhwa","Kurram","Lower Kurram","girls_middle_str",NA
+"978","Khyber Pakhtunkhwa","Kurram","Upper Kurram","girls_middle_str",NA
+"979","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","girls_middle_str",0.542448174943337
+"980","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","girls_middle_str",1.21967048634921
+"981","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","girls_middle_str",2.75503059395884
+"982","Khyber Pakhtunkhwa","Lower Dir","Timergara","girls_middle_str",1.07851002394746
+"983","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","girls_middle_str",1.4090287580344
+"984","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","girls_middle_str",2.43107623139001
+"985","Khyber Pakhtunkhwa","Mansehra","Balakot","girls_middle_str",1.05655783271969
+"986","Khyber Pakhtunkhwa","Mansehra","Mansehra","girls_middle_str",0.328385815955301
+"987","Khyber Pakhtunkhwa","Mansehra","Oghi","girls_middle_str",1.58112468674136
+"988","Khyber Pakhtunkhwa","Mardan","Katlang","girls_middle_str",4.06650973506494
+"989","Khyber Pakhtunkhwa","Mardan","Mardan","girls_middle_str",0.627422471679245
+"990","Khyber Pakhtunkhwa","Mardan","Takht Bhai","girls_middle_str",0.751329910795662
+"991","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","girls_middle_str",NA
+"992","Khyber Pakhtunkhwa","Mohmand","Halimzai","girls_middle_str",NA
+"993","Khyber Pakhtunkhwa","Mohmand","Pindiali","girls_middle_str",NA
+"994","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","girls_middle_str",NA
+"995","Khyber Pakhtunkhwa","Mohmand","Safi","girls_middle_str",NA
+"996","Khyber Pakhtunkhwa","Mohmand","Upper Momand","girls_middle_str",NA
+"997","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","girls_middle_str",NA
+"998","Khyber Pakhtunkhwa","North Waziristan","Data Khel","girls_middle_str",NA
+"999","Khyber Pakhtunkhwa","North Waziristan","Dossali","girls_middle_str",NA
+"1000","Khyber Pakhtunkhwa","North Waziristan","Garyum","girls_middle_str",NA
+"1001","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","girls_middle_str",NA
+"1002","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","girls_middle_str",NA
+"1003","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","girls_middle_str",NA
+"1004","Khyber Pakhtunkhwa","North Waziristan","Razmak","girls_middle_str",NA
+"1005","Khyber Pakhtunkhwa","North Waziristan","Shewa","girls_middle_str",NA
+"1006","Khyber Pakhtunkhwa","North Waziristan","Spinwam","girls_middle_str",NA
+"1007","Khyber Pakhtunkhwa","Nowshera","Nowshera","girls_middle_str",0.76530420090104
+"1008","Khyber Pakhtunkhwa","Nowshera","Pabbi","girls_middle_str",2.54878404775471
+"1009","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","girls_middle_str",NA
+"1010","Khyber Pakhtunkhwa","Orakzai","Ismailzai","girls_middle_str",NA
+"1011","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","girls_middle_str",NA
+"1012","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","girls_middle_str",NA
+"1013","Khyber Pakhtunkhwa","Peshawar","Peshawar","girls_middle_str",0.352936611687679
+"1014","Khyber Pakhtunkhwa","Shangla","Alpuri","girls_middle_str",13.9883004926108
+"1015","Khyber Pakhtunkhwa","Shangla","Bisham","girls_middle_str",2.21542796351351
+"1016","Khyber Pakhtunkhwa","Shangla","Chiksar","girls_middle_str",NA
+"1017","Khyber Pakhtunkhwa","Shangla","Martung","girls_middle_str",3.3333333
+"1018","Khyber Pakhtunkhwa","Shangla","Puran","girls_middle_str",3.41539752649465
+"1019","Khyber Pakhtunkhwa","South Waziristan","Birmal","girls_middle_str",NA
+"1020","Khyber Pakhtunkhwa","South Waziristan","Ladha","girls_middle_str",NA
+"1021","Khyber Pakhtunkhwa","South Waziristan","Makin","girls_middle_str",NA
+"1022","Khyber Pakhtunkhwa","South Waziristan","Sararogha","girls_middle_str",NA
+"1023","Khyber Pakhtunkhwa","South Waziristan","Serwekai","girls_middle_str",NA
+"1024","Khyber Pakhtunkhwa","South Waziristan","Tiarza","girls_middle_str",NA
+"1025","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","girls_middle_str",NA
+"1026","Khyber Pakhtunkhwa","South Waziristan","Wana","girls_middle_str",NA
+"1027","Khyber Pakhtunkhwa","Swabi","Lahor","girls_middle_str",2.58113024234384
+"1028","Khyber Pakhtunkhwa","Swabi","Swabi","girls_middle_str",1.22073701689571
+"1029","Khyber Pakhtunkhwa","Swabi","Topi","girls_middle_str",3.67298856781767
+"1030","Khyber Pakhtunkhwa","Swat","Babuzai","girls_middle_str",2.03476343557125
+"1031","Khyber Pakhtunkhwa","Swat","Bahrain","girls_middle_str",11.2884311994681
+"1032","Khyber Pakhtunkhwa","Swat","Barikot","girls_middle_str",5.79372654474232
+"1033","Khyber Pakhtunkhwa","Swat","Charbagh","girls_middle_str",3.27377614720195
+"1034","Khyber Pakhtunkhwa","Swat","Kabal","girls_middle_str",5.06367178391734
+"1035","Khyber Pakhtunkhwa","Swat","Kalam","girls_middle_str",27
+"1036","Khyber Pakhtunkhwa","Swat","Khwazakhela","girls_middle_str",4.15536139453925
+"1037","Khyber Pakhtunkhwa","Swat","Matta Khararai","girls_middle_str",9.78158374680073
+"1038","Khyber Pakhtunkhwa","Swat","Matta Sebujni","girls_middle_str",7.53849902534113
+"1039","Khyber Pakhtunkhwa","Tank","Tank","girls_middle_str",0.993435792691638
+"1040","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","girls_middle_str",NA
+"1041","Khyber Pakhtunkhwa","Upper Dir","Barawal","girls_middle_str",12.5082116788321
+"1042","Khyber Pakhtunkhwa","Upper Dir","Dir","girls_middle_str",3.94661016054586
+"1043","Khyber Pakhtunkhwa","Upper Dir","Kalkot","girls_middle_str",NA
+"1044","Khyber Pakhtunkhwa","Upper Dir","Wari","girls_middle_str",3.11773493813822
+"1045","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","girls_high_str",0.572573596388651
+"1046","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","girls_high_str",NA
+"1047","Khyber Pakhtunkhwa","Bajaur","Barang","girls_high_str",NA
+"1048","Khyber Pakhtunkhwa","Bajaur","Khar","girls_high_str",NA
+"1049","Khyber Pakhtunkhwa","Bajaur","Mamund","girls_high_str",NA
+"1050","Khyber Pakhtunkhwa","Bajaur","Nawagai","girls_high_str",NA
+"1051","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","girls_high_str",NA
+"1052","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","girls_high_str",NA
+"1053","Khyber Pakhtunkhwa","Bannu","Bannu","girls_high_str",0.751426126622125
+"1054","Khyber Pakhtunkhwa","Bannu","Domel","girls_high_str",4.16457536931217
+"1055","Khyber Pakhtunkhwa","Batagram","Alai","girls_high_str",NA
+"1056","Khyber Pakhtunkhwa","Batagram","Batagram","girls_high_str",3.52316830676618
+"1057","Khyber Pakhtunkhwa","Buner","Chagharzai","girls_high_str",23
+"1058","Khyber Pakhtunkhwa","Buner","Chamla","girls_high_str",8.10486450702988
+"1059","Khyber Pakhtunkhwa","Buner","Daggar","girls_high_str",16.2332907593142
+"1060","Khyber Pakhtunkhwa","Buner","Gagra","girls_high_str",8.03303023986111
+"1061","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","girls_high_str",21.6853471118177
+"1062","Khyber Pakhtunkhwa","Buner","Totalai","girls_high_str",10.2217362210391
+"1063","Khyber Pakhtunkhwa","Charsadda","Charsadda","girls_high_str",1.71708582699259
+"1064","Khyber Pakhtunkhwa","Charsadda","Tangi","girls_high_str",4.27120467656426
+"1065","Khyber Pakhtunkhwa","Chitral","Chitral","girls_high_str",2.58944241129442
+"1066","Khyber Pakhtunkhwa","Chitral","Mastuj","girls_high_str",4.26839816156788
+"1067","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","girls_high_str",4.34829138275862
+"1068","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","girls_high_str",0.845497728780773
+"1069","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","girls_high_str",18.8235392844523
+"1070","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","girls_high_str",1.99235239769104
+"1071","Khyber Pakhtunkhwa","FR Bannu","Wazir","girls_high_str",NA
+"1072","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","girls_high_str",NA
+"1073","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","girls_high_str",NA
+"1074","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","girls_high_str",NA
+"1075","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","girls_high_str",NA
+"1076","Khyber Pakhtunkhwa","FR Tank","Jandola","girls_high_str",NA
+"1077","Khyber Pakhtunkhwa","Hangu","Hangu","girls_high_str",7.45267073113176
+"1078","Khyber Pakhtunkhwa","Hangu","Tall","girls_high_str",24.173311182069
+"1079","Khyber Pakhtunkhwa","Haripur","Ghazi","girls_high_str",13.3914332044418
+"1080","Khyber Pakhtunkhwa","Haripur","Haripur","girls_high_str",0.701688674840817
+"1081","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","girls_high_str",6.24751369819928
+"1082","Khyber Pakhtunkhwa","Karak","Karak","girls_high_str",3.27310551724251
+"1083","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","girls_high_str",2.53098249476801
+"1084","Khyber Pakhtunkhwa","Khyber","Bara","girls_high_str",NA
+"1085","Khyber Pakhtunkhwa","Khyber","Jamrud","girls_high_str",NA
+"1086","Khyber Pakhtunkhwa","Khyber","Landi Kotal","girls_high_str",NA
+"1087","Khyber Pakhtunkhwa","Kohat","Kohat","girls_high_str",1.2821344169298
+"1088","Khyber Pakhtunkhwa","Kohat","Lachi","girls_high_str",5.09113631434703
+"1089","Khyber Pakhtunkhwa","Kohistan","Dassu","girls_high_str",12.125
+"1090","Khyber Pakhtunkhwa","Kohistan","Palas","girls_high_str",NA
+"1091","Khyber Pakhtunkhwa","Kohistan","Pattan","girls_high_str",NA
+"1092","Khyber Pakhtunkhwa","Kurram","Central Kurram","girls_high_str",NA
+"1093","Khyber Pakhtunkhwa","Kurram","Lower Kurram","girls_high_str",NA
+"1094","Khyber Pakhtunkhwa","Kurram","Upper Kurram","girls_high_str",NA
+"1095","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","girls_high_str",2.36865346418126
+"1096","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","girls_high_str",6.43521137597269
+"1097","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","girls_high_str",4.94722340159129
+"1098","Khyber Pakhtunkhwa","Lower Dir","Timergara","girls_high_str",1.67694278983261
+"1099","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","girls_high_str",3.51369842517574
+"1100","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","girls_high_str",2.17049781156672
+"1101","Khyber Pakhtunkhwa","Mansehra","Balakot","girls_high_str",2.95420721043104
+"1102","Khyber Pakhtunkhwa","Mansehra","Mansehra","girls_high_str",0.825931285257164
+"1103","Khyber Pakhtunkhwa","Mansehra","Oghi","girls_high_str",7.20829425701746
+"1104","Khyber Pakhtunkhwa","Mardan","Katlang","girls_high_str",6.28362804960432
+"1105","Khyber Pakhtunkhwa","Mardan","Mardan","girls_high_str",1.11479308390822
+"1106","Khyber Pakhtunkhwa","Mardan","Takht Bhai","girls_high_str",2.82946576810829
+"1107","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","girls_high_str",NA
+"1108","Khyber Pakhtunkhwa","Mohmand","Halimzai","girls_high_str",NA
+"1109","Khyber Pakhtunkhwa","Mohmand","Pindiali","girls_high_str",NA
+"1110","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","girls_high_str",NA
+"1111","Khyber Pakhtunkhwa","Mohmand","Safi","girls_high_str",NA
+"1112","Khyber Pakhtunkhwa","Mohmand","Upper Momand","girls_high_str",NA
+"1113","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","girls_high_str",NA
+"1114","Khyber Pakhtunkhwa","North Waziristan","Data Khel","girls_high_str",NA
+"1115","Khyber Pakhtunkhwa","North Waziristan","Dossali","girls_high_str",NA
+"1116","Khyber Pakhtunkhwa","North Waziristan","Garyum","girls_high_str",NA
+"1117","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","girls_high_str",NA
+"1118","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","girls_high_str",NA
+"1119","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","girls_high_str",NA
+"1120","Khyber Pakhtunkhwa","North Waziristan","Razmak","girls_high_str",NA
+"1121","Khyber Pakhtunkhwa","North Waziristan","Shewa","girls_high_str",NA
+"1122","Khyber Pakhtunkhwa","North Waziristan","Spinwam","girls_high_str",NA
+"1123","Khyber Pakhtunkhwa","Nowshera","Nowshera","girls_high_str",1.85440574095941
+"1124","Khyber Pakhtunkhwa","Nowshera","Pabbi","girls_high_str",4.28978520790197
+"1125","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","girls_high_str",NA
+"1126","Khyber Pakhtunkhwa","Orakzai","Ismailzai","girls_high_str",NA
+"1127","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","girls_high_str",NA
+"1128","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","girls_high_str",NA
+"1129","Khyber Pakhtunkhwa","Peshawar","Peshawar","girls_high_str",0.694016136572612
+"1130","Khyber Pakhtunkhwa","Shangla","Alpuri","girls_high_str",14.9379817293802
+"1131","Khyber Pakhtunkhwa","Shangla","Bisham","girls_high_str",NA
+"1132","Khyber Pakhtunkhwa","Shangla","Chiksar","girls_high_str",20.888889
+"1133","Khyber Pakhtunkhwa","Shangla","Martung","girls_high_str",NA
+"1134","Khyber Pakhtunkhwa","Shangla","Puran","girls_high_str",14.625
+"1135","Khyber Pakhtunkhwa","South Waziristan","Birmal","girls_high_str",NA
+"1136","Khyber Pakhtunkhwa","South Waziristan","Ladha","girls_high_str",NA
+"1137","Khyber Pakhtunkhwa","South Waziristan","Makin","girls_high_str",NA
+"1138","Khyber Pakhtunkhwa","South Waziristan","Sararogha","girls_high_str",NA
+"1139","Khyber Pakhtunkhwa","South Waziristan","Serwekai","girls_high_str",NA
+"1140","Khyber Pakhtunkhwa","South Waziristan","Tiarza","girls_high_str",NA
+"1141","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","girls_high_str",NA
+"1142","Khyber Pakhtunkhwa","South Waziristan","Wana","girls_high_str",NA
+"1143","Khyber Pakhtunkhwa","Swabi","Lahor","girls_high_str",3.46698099775796
+"1144","Khyber Pakhtunkhwa","Swabi","Swabi","girls_high_str",1.93543229895436
+"1145","Khyber Pakhtunkhwa","Swabi","Topi","girls_high_str",3.97342287679083
+"1146","Khyber Pakhtunkhwa","Swat","Babuzai","girls_high_str",2.59839714406264
+"1147","Khyber Pakhtunkhwa","Swat","Bahrain","girls_high_str",27.0289773512346
+"1148","Khyber Pakhtunkhwa","Swat","Barikot","girls_high_str",11.544300379558
+"1149","Khyber Pakhtunkhwa","Swat","Charbagh","girls_high_str",NA
+"1150","Khyber Pakhtunkhwa","Swat","Kabal","girls_high_str",7.11428304703659
+"1151","Khyber Pakhtunkhwa","Swat","Kalam","girls_high_str",NA
+"1152","Khyber Pakhtunkhwa","Swat","Khwazakhela","girls_high_str",16.1984124517266
+"1153","Khyber Pakhtunkhwa","Swat","Matta Khararai","girls_high_str",12.0816882170701
+"1154","Khyber Pakhtunkhwa","Swat","Matta Sebujni","girls_high_str",52.400002
+"1155","Khyber Pakhtunkhwa","Tank","Tank","girls_high_str",3.56568833383724
+"1156","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","girls_high_str",NA
+"1157","Khyber Pakhtunkhwa","Upper Dir","Barawal","girls_high_str",24.875655511236
+"1158","Khyber Pakhtunkhwa","Upper Dir","Dir","girls_high_str",9.63098640893792
+"1159","Khyber Pakhtunkhwa","Upper Dir","Kalkot","girls_high_str",NA
+"1160","Khyber Pakhtunkhwa","Upper Dir","Wari","girls_high_str",18.7463391251076
+"1161","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","boys_primary_str",0.0447224807865523
+"1162","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","boys_primary_str",NA
+"1163","Khyber Pakhtunkhwa","Bajaur","Barang","boys_primary_str",NA
+"1164","Khyber Pakhtunkhwa","Bajaur","Khar","boys_primary_str",NA
+"1165","Khyber Pakhtunkhwa","Bajaur","Mamund","boys_primary_str",NA
+"1166","Khyber Pakhtunkhwa","Bajaur","Nawagai","boys_primary_str",NA
+"1167","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","boys_primary_str",NA
+"1168","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","boys_primary_str",NA
+"1169","Khyber Pakhtunkhwa","Bannu","Bannu","boys_primary_str",0.100800705174043
+"1170","Khyber Pakhtunkhwa","Bannu","Domel","boys_primary_str",0.183246646433299
+"1171","Khyber Pakhtunkhwa","Batagram","Alai","boys_primary_str",0.269228738666751
+"1172","Khyber Pakhtunkhwa","Batagram","Batagram","boys_primary_str",0.154049807734611
+"1173","Khyber Pakhtunkhwa","Buner","Chagharzai","boys_primary_str",0.939267207208517
+"1174","Khyber Pakhtunkhwa","Buner","Chamla","boys_primary_str",0.473811630070708
+"1175","Khyber Pakhtunkhwa","Buner","Daggar","boys_primary_str",1.02366893207912
+"1176","Khyber Pakhtunkhwa","Buner","Gagra","boys_primary_str",1.12280877535817
+"1177","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","boys_primary_str",1.0603562405709
+"1178","Khyber Pakhtunkhwa","Buner","Totalai","boys_primary_str",1.0165202934257
+"1179","Khyber Pakhtunkhwa","Charsadda","Charsadda","boys_primary_str",0.113678415333743
+"1180","Khyber Pakhtunkhwa","Charsadda","Tangi","boys_primary_str",0.476117151201099
+"1181","Khyber Pakhtunkhwa","Chitral","Chitral","boys_primary_str",0.196389689034183
+"1182","Khyber Pakhtunkhwa","Chitral","Mastuj","boys_primary_str",0.189582042889611
+"1183","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","boys_primary_str",0.336645602338293
+"1184","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","boys_primary_str",0.123580630691713
+"1185","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","boys_primary_str",0.722331639160744
+"1186","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","boys_primary_str",0.226130154106943
+"1187","Khyber Pakhtunkhwa","FR Bannu","Wazir","boys_primary_str",22
+"1188","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","boys_primary_str",NA
+"1189","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","boys_primary_str",NA
+"1190","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","boys_primary_str",NA
+"1191","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","boys_primary_str",NA
+"1192","Khyber Pakhtunkhwa","FR Tank","Jandola","boys_primary_str",NA
+"1193","Khyber Pakhtunkhwa","Hangu","Hangu","boys_primary_str",0.506548075986259
+"1194","Khyber Pakhtunkhwa","Hangu","Tall","boys_primary_str",0.730473179675772
+"1195","Khyber Pakhtunkhwa","Haripur","Ghazi","boys_primary_str",0.288984283637534
+"1196","Khyber Pakhtunkhwa","Haripur","Haripur","boys_primary_str",0.0898159216425162
+"1197","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","boys_primary_str",0.550799010636716
+"1198","Khyber Pakhtunkhwa","Karak","Karak","boys_primary_str",0.336151525386182
+"1199","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","boys_primary_str",0.263225248674897
+"1200","Khyber Pakhtunkhwa","Khyber","Bara","boys_primary_str",NA
+"1201","Khyber Pakhtunkhwa","Khyber","Jamrud","boys_primary_str",NA
+"1202","Khyber Pakhtunkhwa","Khyber","Landi Kotal","boys_primary_str",NA
+"1203","Khyber Pakhtunkhwa","Kohat","Kohat","boys_primary_str",0.19595847739364
+"1204","Khyber Pakhtunkhwa","Kohat","Lachi","boys_primary_str",0.4316669570603
+"1205","Khyber Pakhtunkhwa","Kohistan","Dassu","boys_primary_str",0.142131850157152
+"1206","Khyber Pakhtunkhwa","Kohistan","Palas","boys_primary_str",0.110157242701084
+"1207","Khyber Pakhtunkhwa","Kohistan","Pattan","boys_primary_str",0.680230464530068
+"1208","Khyber Pakhtunkhwa","Kurram","Central Kurram","boys_primary_str",NA
+"1209","Khyber Pakhtunkhwa","Kurram","Lower Kurram","boys_primary_str",32
+"1210","Khyber Pakhtunkhwa","Kurram","Upper Kurram","boys_primary_str",NA
+"1211","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","boys_primary_str",0.0942187180828082
+"1212","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","boys_primary_str",0.271593960324854
+"1213","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","boys_primary_str",0.312968802320645
+"1214","Khyber Pakhtunkhwa","Lower Dir","Timergara","boys_primary_str",0.138435702465939
+"1215","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","boys_primary_str",0.498908599973748
+"1216","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","boys_primary_str",0.320310188570332
+"1217","Khyber Pakhtunkhwa","Mansehra","Balakot","boys_primary_str",0.131734950573185
+"1218","Khyber Pakhtunkhwa","Mansehra","Mansehra","boys_primary_str",0.0734644599360551
+"1219","Khyber Pakhtunkhwa","Mansehra","Oghi","boys_primary_str",0.171210497067354
+"1220","Khyber Pakhtunkhwa","Mardan","Katlang","boys_primary_str",0.512409426203682
+"1221","Khyber Pakhtunkhwa","Mardan","Mardan","boys_primary_str",0.125972403472012
+"1222","Khyber Pakhtunkhwa","Mardan","Takht Bhai","boys_primary_str",0.205371671703066
+"1223","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","boys_primary_str",NA
+"1224","Khyber Pakhtunkhwa","Mohmand","Halimzai","boys_primary_str",NA
+"1225","Khyber Pakhtunkhwa","Mohmand","Pindiali","boys_primary_str",NA
+"1226","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","boys_primary_str",NA
+"1227","Khyber Pakhtunkhwa","Mohmand","Safi","boys_primary_str",NA
+"1228","Khyber Pakhtunkhwa","Mohmand","Upper Momand","boys_primary_str",NA
+"1229","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","boys_primary_str",NA
+"1230","Khyber Pakhtunkhwa","North Waziristan","Data Khel","boys_primary_str",NA
+"1231","Khyber Pakhtunkhwa","North Waziristan","Dossali","boys_primary_str",NA
+"1232","Khyber Pakhtunkhwa","North Waziristan","Garyum","boys_primary_str",NA
+"1233","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","boys_primary_str",NA
+"1234","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","boys_primary_str",NA
+"1235","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","boys_primary_str",NA
+"1236","Khyber Pakhtunkhwa","North Waziristan","Razmak","boys_primary_str",NA
+"1237","Khyber Pakhtunkhwa","North Waziristan","Shewa","boys_primary_str",NA
+"1238","Khyber Pakhtunkhwa","North Waziristan","Spinwam","boys_primary_str",NA
+"1239","Khyber Pakhtunkhwa","Nowshera","Nowshera","boys_primary_str",0.162211051678219
+"1240","Khyber Pakhtunkhwa","Nowshera","Pabbi","boys_primary_str",0.408976435452408
+"1241","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","boys_primary_str",NA
+"1242","Khyber Pakhtunkhwa","Orakzai","Ismailzai","boys_primary_str",64.5
+"1243","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","boys_primary_str",NA
+"1244","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","boys_primary_str",NA
+"1245","Khyber Pakhtunkhwa","Peshawar","Peshawar","boys_primary_str",0.101267571353401
+"1246","Khyber Pakhtunkhwa","Shangla","Alpuri","boys_primary_str",0.360837484332511
+"1247","Khyber Pakhtunkhwa","Shangla","Bisham","boys_primary_str",0.858739412760308
+"1248","Khyber Pakhtunkhwa","Shangla","Chiksar","boys_primary_str",0.909603722414243
+"1249","Khyber Pakhtunkhwa","Shangla","Martung","boys_primary_str",1.46495982977641
+"1250","Khyber Pakhtunkhwa","Shangla","Puran","boys_primary_str",0.96253571051798
+"1251","Khyber Pakhtunkhwa","South Waziristan","Birmal","boys_primary_str",NA
+"1252","Khyber Pakhtunkhwa","South Waziristan","Ladha","boys_primary_str",NA
+"1253","Khyber Pakhtunkhwa","South Waziristan","Makin","boys_primary_str",NA
+"1254","Khyber Pakhtunkhwa","South Waziristan","Sararogha","boys_primary_str",NA
+"1255","Khyber Pakhtunkhwa","South Waziristan","Serwekai","boys_primary_str",NA
+"1256","Khyber Pakhtunkhwa","South Waziristan","Tiarza","boys_primary_str",NA
+"1257","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","boys_primary_str",NA
+"1258","Khyber Pakhtunkhwa","South Waziristan","Wana","boys_primary_str",NA
+"1259","Khyber Pakhtunkhwa","Swabi","Lahor","boys_primary_str",0.24863650763679
+"1260","Khyber Pakhtunkhwa","Swabi","Swabi","boys_primary_str",0.202534328259462
+"1261","Khyber Pakhtunkhwa","Swabi","Topi","boys_primary_str",0.293341555634732
+"1262","Khyber Pakhtunkhwa","Swat","Babuzai","boys_primary_str",0.415196758001563
+"1263","Khyber Pakhtunkhwa","Swat","Bahrain","boys_primary_str",0.685184261402235
+"1264","Khyber Pakhtunkhwa","Swat","Barikot","boys_primary_str",1.01842742840813
+"1265","Khyber Pakhtunkhwa","Swat","Charbagh","boys_primary_str",1.06010747194224
+"1266","Khyber Pakhtunkhwa","Swat","Kabal","boys_primary_str",0.490444827609863
+"1267","Khyber Pakhtunkhwa","Swat","Kalam","boys_primary_str",1.67822657926976
+"1268","Khyber Pakhtunkhwa","Swat","Khwazakhela","boys_primary_str",0.649234339487029
+"1269","Khyber Pakhtunkhwa","Swat","Matta Khararai","boys_primary_str",0.649541073749445
+"1270","Khyber Pakhtunkhwa","Swat","Matta Sebujni","boys_primary_str",0.54792898898082
+"1271","Khyber Pakhtunkhwa","Tank","Tank","boys_primary_str",0.213904246673304
+"1272","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","boys_primary_str",0.399973687075787
+"1273","Khyber Pakhtunkhwa","Upper Dir","Barawal","boys_primary_str",0.960498463605586
+"1274","Khyber Pakhtunkhwa","Upper Dir","Dir","boys_primary_str",0.293051466357264
+"1275","Khyber Pakhtunkhwa","Upper Dir","Kalkot","boys_primary_str",2.37087380107349
+"1276","Khyber Pakhtunkhwa","Upper Dir","Wari","boys_primary_str",0.367433054045879
+"1277","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","boys_middle_str",0.205849742848923
+"1278","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","boys_middle_str",NA
+"1279","Khyber Pakhtunkhwa","Bajaur","Barang","boys_middle_str",NA
+"1280","Khyber Pakhtunkhwa","Bajaur","Khar","boys_middle_str",NA
+"1281","Khyber Pakhtunkhwa","Bajaur","Mamund","boys_middle_str",NA
+"1282","Khyber Pakhtunkhwa","Bajaur","Nawagai","boys_middle_str",NA
+"1283","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","boys_middle_str",NA
+"1284","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","boys_middle_str",NA
+"1285","Khyber Pakhtunkhwa","Bannu","Bannu","boys_middle_str",0.509169130224572
+"1286","Khyber Pakhtunkhwa","Bannu","Domel","boys_middle_str",1.34415930306122
+"1287","Khyber Pakhtunkhwa","Batagram","Alai","boys_middle_str",0.729238453306011
+"1288","Khyber Pakhtunkhwa","Batagram","Batagram","boys_middle_str",0.665071848909953
+"1289","Khyber Pakhtunkhwa","Buner","Chagharzai","boys_middle_str",3.49478518818475
+"1290","Khyber Pakhtunkhwa","Buner","Chamla","boys_middle_str",1.88564573096921
+"1291","Khyber Pakhtunkhwa","Buner","Daggar","boys_middle_str",5.89351113259377
+"1292","Khyber Pakhtunkhwa","Buner","Gagra","boys_middle_str",2.08756954964942
+"1293","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","boys_middle_str",6.55195109950957
+"1294","Khyber Pakhtunkhwa","Buner","Totalai","boys_middle_str",1.88033832331464
+"1295","Khyber Pakhtunkhwa","Charsadda","Charsadda","boys_middle_str",0.539836520959572
+"1296","Khyber Pakhtunkhwa","Charsadda","Tangi","boys_middle_str",1.3094786951558
+"1297","Khyber Pakhtunkhwa","Chitral","Chitral","boys_middle_str",0.680467054875608
+"1298","Khyber Pakhtunkhwa","Chitral","Mastuj","boys_middle_str",0.817228969611219
+"1299","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","boys_middle_str",1.20744477779893
+"1300","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","boys_middle_str",0.230031367182481
+"1301","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","boys_middle_str",1.8597347348048
+"1302","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","boys_middle_str",0.928947298234447
+"1303","Khyber Pakhtunkhwa","FR Bannu","Wazir","boys_middle_str",NA
+"1304","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","boys_middle_str",NA
+"1305","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","boys_middle_str",11
+"1306","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","boys_middle_str",NA
+"1307","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","boys_middle_str",NA
+"1308","Khyber Pakhtunkhwa","FR Tank","Jandola","boys_middle_str",NA
+"1309","Khyber Pakhtunkhwa","Hangu","Hangu","boys_middle_str",1.7862369717219
+"1310","Khyber Pakhtunkhwa","Hangu","Tall","boys_middle_str",4.53928499222042
+"1311","Khyber Pakhtunkhwa","Haripur","Ghazi","boys_middle_str",1.17378967520556
+"1312","Khyber Pakhtunkhwa","Haripur","Haripur","boys_middle_str",0.334171476906291
+"1313","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","boys_middle_str",1.4758944625959
+"1314","Khyber Pakhtunkhwa","Karak","Karak","boys_middle_str",0.971672337625517
+"1315","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","boys_middle_str",0.888934749679582
+"1316","Khyber Pakhtunkhwa","Khyber","Bara","boys_middle_str",NA
+"1317","Khyber Pakhtunkhwa","Khyber","Jamrud","boys_middle_str",NA
+"1318","Khyber Pakhtunkhwa","Khyber","Landi Kotal","boys_middle_str",NA
+"1319","Khyber Pakhtunkhwa","Kohat","Kohat","boys_middle_str",0.605274204416937
+"1320","Khyber Pakhtunkhwa","Kohat","Lachi","boys_middle_str",2.17359671005291
+"1321","Khyber Pakhtunkhwa","Kohistan","Dassu","boys_middle_str",0.320681265348905
+"1322","Khyber Pakhtunkhwa","Kohistan","Palas","boys_middle_str",0.312335904795826
+"1323","Khyber Pakhtunkhwa","Kohistan","Pattan","boys_middle_str",1.35374149659864
+"1324","Khyber Pakhtunkhwa","Kurram","Central Kurram","boys_middle_str",NA
+"1325","Khyber Pakhtunkhwa","Kurram","Lower Kurram","boys_middle_str",NA
+"1326","Khyber Pakhtunkhwa","Kurram","Upper Kurram","boys_middle_str",NA
+"1327","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","boys_middle_str",0.55778126330332
+"1328","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","boys_middle_str",1.23748009818051
+"1329","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","boys_middle_str",1.17842697071958
+"1330","Khyber Pakhtunkhwa","Lower Dir","Timergara","boys_middle_str",0.57127483232258
+"1331","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","boys_middle_str",1.7835596608547
+"1332","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","boys_middle_str",1.60314248435328
+"1333","Khyber Pakhtunkhwa","Mansehra","Balakot","boys_middle_str",0.909788475883963
+"1334","Khyber Pakhtunkhwa","Mansehra","Mansehra","boys_middle_str",0.202820753726303
+"1335","Khyber Pakhtunkhwa","Mansehra","Oghi","boys_middle_str",0.868961864610268
+"1336","Khyber Pakhtunkhwa","Mardan","Katlang","boys_middle_str",2.60421566246127
+"1337","Khyber Pakhtunkhwa","Mardan","Mardan","boys_middle_str",0.704611626566533
+"1338","Khyber Pakhtunkhwa","Mardan","Takht Bhai","boys_middle_str",0.876752352427445
+"1339","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","boys_middle_str",NA
+"1340","Khyber Pakhtunkhwa","Mohmand","Halimzai","boys_middle_str",NA
+"1341","Khyber Pakhtunkhwa","Mohmand","Pindiali","boys_middle_str",NA
+"1342","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","boys_middle_str",NA
+"1343","Khyber Pakhtunkhwa","Mohmand","Safi","boys_middle_str",NA
+"1344","Khyber Pakhtunkhwa","Mohmand","Upper Momand","boys_middle_str",NA
+"1345","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","boys_middle_str",NA
+"1346","Khyber Pakhtunkhwa","North Waziristan","Data Khel","boys_middle_str",NA
+"1347","Khyber Pakhtunkhwa","North Waziristan","Dossali","boys_middle_str",NA
+"1348","Khyber Pakhtunkhwa","North Waziristan","Garyum","boys_middle_str",NA
+"1349","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","boys_middle_str",NA
+"1350","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","boys_middle_str",NA
+"1351","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","boys_middle_str",NA
+"1352","Khyber Pakhtunkhwa","North Waziristan","Razmak","boys_middle_str",NA
+"1353","Khyber Pakhtunkhwa","North Waziristan","Shewa","boys_middle_str",NA
+"1354","Khyber Pakhtunkhwa","North Waziristan","Spinwam","boys_middle_str",NA
+"1355","Khyber Pakhtunkhwa","Nowshera","Nowshera","boys_middle_str",0.565726593397464
+"1356","Khyber Pakhtunkhwa","Nowshera","Pabbi","boys_middle_str",1.77358362569864
+"1357","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","boys_middle_str",NA
+"1358","Khyber Pakhtunkhwa","Orakzai","Ismailzai","boys_middle_str",NA
+"1359","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","boys_middle_str",NA
+"1360","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","boys_middle_str",NA
+"1361","Khyber Pakhtunkhwa","Peshawar","Peshawar","boys_middle_str",0.356406800382527
+"1362","Khyber Pakhtunkhwa","Shangla","Alpuri","boys_middle_str",1.49895422256731
+"1363","Khyber Pakhtunkhwa","Shangla","Bisham","boys_middle_str",1.64393939433294
+"1364","Khyber Pakhtunkhwa","Shangla","Chiksar","boys_middle_str",2.00162718695652
+"1365","Khyber Pakhtunkhwa","Shangla","Martung","boys_middle_str",2.68551633032003
+"1366","Khyber Pakhtunkhwa","Shangla","Puran","boys_middle_str",1.36472807992637
+"1367","Khyber Pakhtunkhwa","South Waziristan","Birmal","boys_middle_str",NA
+"1368","Khyber Pakhtunkhwa","South Waziristan","Ladha","boys_middle_str",NA
+"1369","Khyber Pakhtunkhwa","South Waziristan","Makin","boys_middle_str",NA
+"1370","Khyber Pakhtunkhwa","South Waziristan","Sararogha","boys_middle_str",NA
+"1371","Khyber Pakhtunkhwa","South Waziristan","Serwekai","boys_middle_str",NA
+"1372","Khyber Pakhtunkhwa","South Waziristan","Tiarza","boys_middle_str",NA
+"1373","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","boys_middle_str",NA
+"1374","Khyber Pakhtunkhwa","South Waziristan","Wana","boys_middle_str",NA
+"1375","Khyber Pakhtunkhwa","Swabi","Lahor","boys_middle_str",1.52828374523721
+"1376","Khyber Pakhtunkhwa","Swabi","Swabi","boys_middle_str",0.644941934899292
+"1377","Khyber Pakhtunkhwa","Swabi","Topi","boys_middle_str",1.55463804987394
+"1378","Khyber Pakhtunkhwa","Swat","Babuzai","boys_middle_str",1.718798542864
+"1379","Khyber Pakhtunkhwa","Swat","Bahrain","boys_middle_str",1.48057754365178
+"1380","Khyber Pakhtunkhwa","Swat","Barikot","boys_middle_str",4.19547226884807
+"1381","Khyber Pakhtunkhwa","Swat","Charbagh","boys_middle_str",3.88986355769231
+"1382","Khyber Pakhtunkhwa","Swat","Kabal","boys_middle_str",1.48950907681013
+"1383","Khyber Pakhtunkhwa","Swat","Kalam","boys_middle_str",7.81450063682311
+"1384","Khyber Pakhtunkhwa","Swat","Khwazakhela","boys_middle_str",2.01010929077341
+"1385","Khyber Pakhtunkhwa","Swat","Matta Khararai","boys_middle_str",5.47472319680851
+"1386","Khyber Pakhtunkhwa","Swat","Matta Sebujni","boys_middle_str",2.9084508363182
+"1387","Khyber Pakhtunkhwa","Tank","Tank","boys_middle_str",0.420103746244349
+"1388","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","boys_middle_str",0.652596050281857
+"1389","Khyber Pakhtunkhwa","Upper Dir","Barawal","boys_middle_str",3.41260889595915
+"1390","Khyber Pakhtunkhwa","Upper Dir","Dir","boys_middle_str",0.932940258750904
+"1391","Khyber Pakhtunkhwa","Upper Dir","Kalkot","boys_middle_str",5.42357844913928
+"1392","Khyber Pakhtunkhwa","Upper Dir","Wari","boys_middle_str",1.3944731759071
+"1393","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","boys_high_str",0.453985384798061
+"1394","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","boys_high_str",NA
+"1395","Khyber Pakhtunkhwa","Bajaur","Barang","boys_high_str",NA
+"1396","Khyber Pakhtunkhwa","Bajaur","Khar","boys_high_str",NA
+"1397","Khyber Pakhtunkhwa","Bajaur","Mamund","boys_high_str",NA
+"1398","Khyber Pakhtunkhwa","Bajaur","Nawagai","boys_high_str",NA
+"1399","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","boys_high_str",NA
+"1400","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","boys_high_str",NA
+"1401","Khyber Pakhtunkhwa","Bannu","Bannu","boys_high_str",0.821175044829308
+"1402","Khyber Pakhtunkhwa","Bannu","Domel","boys_high_str",1.3896490585167
+"1403","Khyber Pakhtunkhwa","Batagram","Alai","boys_high_str",1.53267629724157
+"1404","Khyber Pakhtunkhwa","Batagram","Batagram","boys_high_str",1.94850019402479
+"1405","Khyber Pakhtunkhwa","Buner","Chagharzai","boys_high_str",6.09652079883041
+"1406","Khyber Pakhtunkhwa","Buner","Chamla","boys_high_str",3.67772354646397
+"1407","Khyber Pakhtunkhwa","Buner","Daggar","boys_high_str",4.45198832563396
+"1408","Khyber Pakhtunkhwa","Buner","Gagra","boys_high_str",6.33942936747447
+"1409","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","boys_high_str",4.13294852088903
+"1410","Khyber Pakhtunkhwa","Buner","Totalai","boys_high_str",2.57126115032336
+"1411","Khyber Pakhtunkhwa","Charsadda","Charsadda","boys_high_str",0.785922576968322
+"1412","Khyber Pakhtunkhwa","Charsadda","Tangi","boys_high_str",2.73335160133479
+"1413","Khyber Pakhtunkhwa","Chitral","Chitral","boys_high_str",1.32604489881101
+"1414","Khyber Pakhtunkhwa","Chitral","Mastuj","boys_high_str",1.62108299123796
+"1415","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","boys_high_str",2.86508688824509
+"1416","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","boys_high_str",0.746723181878004
+"1417","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","boys_high_str",3.32691714662773
+"1418","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","boys_high_str",1.10131430361117
+"1419","Khyber Pakhtunkhwa","FR Bannu","Wazir","boys_high_str",NA
+"1420","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","boys_high_str",NA
+"1421","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","boys_high_str",NA
+"1422","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","boys_high_str",NA
+"1423","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","boys_high_str",NA
+"1424","Khyber Pakhtunkhwa","FR Tank","Jandola","boys_high_str",NA
+"1425","Khyber Pakhtunkhwa","Hangu","Hangu","boys_high_str",2.95965301230984
+"1426","Khyber Pakhtunkhwa","Hangu","Tall","boys_high_str",2.96096531141238
+"1427","Khyber Pakhtunkhwa","Haripur","Ghazi","boys_high_str",3.29496945378923
+"1428","Khyber Pakhtunkhwa","Haripur","Haripur","boys_high_str",0.760126003173626
+"1429","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","boys_high_str",2.29671786814891
+"1430","Khyber Pakhtunkhwa","Karak","Karak","boys_high_str",1.38938132587987
+"1431","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","boys_high_str",1.62222122753295
+"1432","Khyber Pakhtunkhwa","Khyber","Bara","boys_high_str",NA
+"1433","Khyber Pakhtunkhwa","Khyber","Jamrud","boys_high_str",NA
+"1434","Khyber Pakhtunkhwa","Khyber","Landi Kotal","boys_high_str",NA
+"1435","Khyber Pakhtunkhwa","Kohat","Kohat","boys_high_str",1.05306916536001
+"1436","Khyber Pakhtunkhwa","Kohat","Lachi","boys_high_str",2.64981759717194
+"1437","Khyber Pakhtunkhwa","Kohistan","Dassu","boys_high_str",2.89401797499157
+"1438","Khyber Pakhtunkhwa","Kohistan","Palas","boys_high_str",0.856085765656603
+"1439","Khyber Pakhtunkhwa","Kohistan","Pattan","boys_high_str",5.4000001
+"1440","Khyber Pakhtunkhwa","Kurram","Central Kurram","boys_high_str",NA
+"1441","Khyber Pakhtunkhwa","Kurram","Lower Kurram","boys_high_str",NA
+"1442","Khyber Pakhtunkhwa","Kurram","Upper Kurram","boys_high_str",NA
+"1443","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","boys_high_str",0.875099513599629
+"1444","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","boys_high_str",3.66339025071162
+"1445","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","boys_high_str",2.04243715298866
+"1446","Khyber Pakhtunkhwa","Lower Dir","Timergara","boys_high_str",0.793318109367314
+"1447","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","boys_high_str",3.15657376386934
+"1448","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","boys_high_str",1.66695523173924
+"1449","Khyber Pakhtunkhwa","Mansehra","Balakot","boys_high_str",1.64513015025682
+"1450","Khyber Pakhtunkhwa","Mansehra","Mansehra","boys_high_str",0.557593912520689
+"1451","Khyber Pakhtunkhwa","Mansehra","Oghi","boys_high_str",1.48880882663866
+"1452","Khyber Pakhtunkhwa","Mardan","Katlang","boys_high_str",3.47381873054793
+"1453","Khyber Pakhtunkhwa","Mardan","Mardan","boys_high_str",0.771784341847923
+"1454","Khyber Pakhtunkhwa","Mardan","Takht Bhai","boys_high_str",1.97959619161637
+"1455","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","boys_high_str",NA
+"1456","Khyber Pakhtunkhwa","Mohmand","Halimzai","boys_high_str",NA
+"1457","Khyber Pakhtunkhwa","Mohmand","Pindiali","boys_high_str",NA
+"1458","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","boys_high_str",NA
+"1459","Khyber Pakhtunkhwa","Mohmand","Safi","boys_high_str",NA
+"1460","Khyber Pakhtunkhwa","Mohmand","Upper Momand","boys_high_str",NA
+"1461","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","boys_high_str",NA
+"1462","Khyber Pakhtunkhwa","North Waziristan","Data Khel","boys_high_str",NA
+"1463","Khyber Pakhtunkhwa","North Waziristan","Dossali","boys_high_str",NA
+"1464","Khyber Pakhtunkhwa","North Waziristan","Garyum","boys_high_str",NA
+"1465","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","boys_high_str",NA
+"1466","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","boys_high_str",NA
+"1467","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","boys_high_str",NA
+"1468","Khyber Pakhtunkhwa","North Waziristan","Razmak","boys_high_str",NA
+"1469","Khyber Pakhtunkhwa","North Waziristan","Shewa","boys_high_str",NA
+"1470","Khyber Pakhtunkhwa","North Waziristan","Spinwam","boys_high_str",NA
+"1471","Khyber Pakhtunkhwa","Nowshera","Nowshera","boys_high_str",0.716671649597112
+"1472","Khyber Pakhtunkhwa","Nowshera","Pabbi","boys_high_str",2.27194538677945
+"1473","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","boys_high_str",NA
+"1474","Khyber Pakhtunkhwa","Orakzai","Ismailzai","boys_high_str",NA
+"1475","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","boys_high_str",NA
+"1476","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","boys_high_str",NA
+"1477","Khyber Pakhtunkhwa","Peshawar","Peshawar","boys_high_str",0.505117518600916
+"1478","Khyber Pakhtunkhwa","Shangla","Alpuri","boys_high_str",4.30701440598512
+"1479","Khyber Pakhtunkhwa","Shangla","Bisham","boys_high_str",4.76000614817321
+"1480","Khyber Pakhtunkhwa","Shangla","Chiksar","boys_high_str",4.64619781970078
+"1481","Khyber Pakhtunkhwa","Shangla","Martung","boys_high_str",8.88392172961139
+"1482","Khyber Pakhtunkhwa","Shangla","Puran","boys_high_str",3.96627538684001
+"1483","Khyber Pakhtunkhwa","South Waziristan","Birmal","boys_high_str",NA
+"1484","Khyber Pakhtunkhwa","South Waziristan","Ladha","boys_high_str",NA
+"1485","Khyber Pakhtunkhwa","South Waziristan","Makin","boys_high_str",NA
+"1486","Khyber Pakhtunkhwa","South Waziristan","Sararogha","boys_high_str",NA
+"1487","Khyber Pakhtunkhwa","South Waziristan","Serwekai","boys_high_str",NA
+"1488","Khyber Pakhtunkhwa","South Waziristan","Tiarza","boys_high_str",NA
+"1489","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","boys_high_str",NA
+"1490","Khyber Pakhtunkhwa","South Waziristan","Wana","boys_high_str",NA
+"1491","Khyber Pakhtunkhwa","Swabi","Lahor","boys_high_str",1.87521733011186
+"1492","Khyber Pakhtunkhwa","Swabi","Swabi","boys_high_str",1.15183164606339
+"1493","Khyber Pakhtunkhwa","Swabi","Topi","boys_high_str",1.97817856265421
+"1494","Khyber Pakhtunkhwa","Swat","Babuzai","boys_high_str",2.80904298802867
+"1495","Khyber Pakhtunkhwa","Swat","Bahrain","boys_high_str",6.45555156459084
+"1496","Khyber Pakhtunkhwa","Swat","Barikot","boys_high_str",3.66534598775172
+"1497","Khyber Pakhtunkhwa","Swat","Charbagh","boys_high_str",14.5736419911315
+"1498","Khyber Pakhtunkhwa","Swat","Kabal","boys_high_str",2.46032892213151
+"1499","Khyber Pakhtunkhwa","Swat","Kalam","boys_high_str",5.6078867620636
+"1500","Khyber Pakhtunkhwa","Swat","Khwazakhela","boys_high_str",4.44948037924421
+"1501","Khyber Pakhtunkhwa","Swat","Matta Khararai","boys_high_str",4.69623639195491
+"1502","Khyber Pakhtunkhwa","Swat","Matta Sebujni","boys_high_str",5.03895231721152
+"1503","Khyber Pakhtunkhwa","Tank","Tank","boys_high_str",1.16418021746
+"1504","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","boys_high_str",6.75284496050808
+"1505","Khyber Pakhtunkhwa","Upper Dir","Barawal","boys_high_str",9.5381914702458
+"1506","Khyber Pakhtunkhwa","Upper Dir","Dir","boys_high_str",2.27981314500048
+"1507","Khyber Pakhtunkhwa","Upper Dir","Kalkot","boys_high_str",34.200001
+"1508","Khyber Pakhtunkhwa","Upper Dir","Wari","boys_high_str",3.01047642666689
+"1509","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","girls_primary_cr",0.0790535378828314
+"1510","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","girls_primary_cr",NA
+"1511","Khyber Pakhtunkhwa","Bajaur","Barang","girls_primary_cr",NA
+"1512","Khyber Pakhtunkhwa","Bajaur","Khar","girls_primary_cr",NA
+"1513","Khyber Pakhtunkhwa","Bajaur","Mamund","girls_primary_cr",NA
+"1514","Khyber Pakhtunkhwa","Bajaur","Nawagai","girls_primary_cr",NA
+"1515","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","girls_primary_cr",NA
+"1516","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","girls_primary_cr",NA
+"1517","Khyber Pakhtunkhwa","Bannu","Bannu","girls_primary_cr",0.121056681618274
+"1518","Khyber Pakhtunkhwa","Bannu","Domel","girls_primary_cr",0.314156828116328
+"1519","Khyber Pakhtunkhwa","Batagram","Alai","girls_primary_cr",0.871448780870375
+"1520","Khyber Pakhtunkhwa","Batagram","Batagram","girls_primary_cr",0.272279931874876
+"1521","Khyber Pakhtunkhwa","Buner","Chagharzai","girls_primary_cr",1.90256841331062
+"1522","Khyber Pakhtunkhwa","Buner","Chamla","girls_primary_cr",1.51955303150674
+"1523","Khyber Pakhtunkhwa","Buner","Daggar","girls_primary_cr",2.42110251216019
+"1524","Khyber Pakhtunkhwa","Buner","Gagra","girls_primary_cr",2.90261673998466
+"1525","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","girls_primary_cr",2.11877174957812
+"1526","Khyber Pakhtunkhwa","Buner","Totalai","girls_primary_cr",1.66297308971949
+"1527","Khyber Pakhtunkhwa","Charsadda","Charsadda","girls_primary_cr",0.165443994535061
+"1528","Khyber Pakhtunkhwa","Charsadda","Tangi","girls_primary_cr",0.542999644374576
+"1529","Khyber Pakhtunkhwa","Chitral","Chitral","girls_primary_cr",0.469622578730272
+"1530","Khyber Pakhtunkhwa","Chitral","Mastuj","girls_primary_cr",0.621097585850913
+"1531","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","girls_primary_cr",0.897355149280068
+"1532","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","girls_primary_cr",0.221184201565699
+"1533","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","girls_primary_cr",2.27708955731671
+"1534","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","girls_primary_cr",0.463346505540323
+"1535","Khyber Pakhtunkhwa","FR Bannu","Wazir","girls_primary_cr",NA
+"1536","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","girls_primary_cr",NA
+"1537","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","girls_primary_cr",NA
+"1538","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","girls_primary_cr",NA
+"1539","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","girls_primary_cr",NA
+"1540","Khyber Pakhtunkhwa","FR Tank","Jandola","girls_primary_cr",44
+"1541","Khyber Pakhtunkhwa","Hangu","Hangu","girls_primary_cr",0.972023552470344
+"1542","Khyber Pakhtunkhwa","Hangu","Tall","girls_primary_cr",1.78436393756059
+"1543","Khyber Pakhtunkhwa","Haripur","Ghazi","girls_primary_cr",0.444424020235399
+"1544","Khyber Pakhtunkhwa","Haripur","Haripur","girls_primary_cr",0.146392747701524
+"1545","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","girls_primary_cr",0.956115225805412
+"1546","Khyber Pakhtunkhwa","Karak","Karak","girls_primary_cr",0.305427441625514
+"1547","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","girls_primary_cr",0.179310483988588
+"1548","Khyber Pakhtunkhwa","Khyber","Bara","girls_primary_cr",NA
+"1549","Khyber Pakhtunkhwa","Khyber","Jamrud","girls_primary_cr",NA
+"1550","Khyber Pakhtunkhwa","Khyber","Landi Kotal","girls_primary_cr",NA
+"1551","Khyber Pakhtunkhwa","Kohat","Kohat","girls_primary_cr",0.233182344784402
+"1552","Khyber Pakhtunkhwa","Kohat","Lachi","girls_primary_cr",0.616835675206786
+"1553","Khyber Pakhtunkhwa","Kohistan","Dassu","girls_primary_cr",0.588869642450196
+"1554","Khyber Pakhtunkhwa","Kohistan","Palas","girls_primary_cr",0.356063414228836
+"1555","Khyber Pakhtunkhwa","Kohistan","Pattan","girls_primary_cr",2.23515681983953
+"1556","Khyber Pakhtunkhwa","Kurram","Central Kurram","girls_primary_cr",NA
+"1557","Khyber Pakhtunkhwa","Kurram","Lower Kurram","girls_primary_cr",NA
+"1558","Khyber Pakhtunkhwa","Kurram","Upper Kurram","girls_primary_cr",NA
+"1559","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","girls_primary_cr",0.194791277172335
+"1560","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","girls_primary_cr",0.466757421597317
+"1561","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","girls_primary_cr",0.539594325322896
+"1562","Khyber Pakhtunkhwa","Lower Dir","Timergara","girls_primary_cr",0.228384317827733
+"1563","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","girls_primary_cr",0.603507816602783
+"1564","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","girls_primary_cr",0.493512069952073
+"1565","Khyber Pakhtunkhwa","Mansehra","Balakot","girls_primary_cr",0.272630761867157
+"1566","Khyber Pakhtunkhwa","Mansehra","Mansehra","girls_primary_cr",0.106315855539264
+"1567","Khyber Pakhtunkhwa","Mansehra","Oghi","girls_primary_cr",0.336037500021018
+"1568","Khyber Pakhtunkhwa","Mardan","Katlang","girls_primary_cr",1.02251840589937
+"1569","Khyber Pakhtunkhwa","Mardan","Mardan","girls_primary_cr",0.195019139819185
+"1570","Khyber Pakhtunkhwa","Mardan","Takht Bhai","girls_primary_cr",0.298199256354289
+"1571","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","girls_primary_cr",NA
+"1572","Khyber Pakhtunkhwa","Mohmand","Halimzai","girls_primary_cr",NA
+"1573","Khyber Pakhtunkhwa","Mohmand","Pindiali","girls_primary_cr",NA
+"1574","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","girls_primary_cr",NA
+"1575","Khyber Pakhtunkhwa","Mohmand","Safi","girls_primary_cr",NA
+"1576","Khyber Pakhtunkhwa","Mohmand","Upper Momand","girls_primary_cr",NA
+"1577","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","girls_primary_cr",NA
+"1578","Khyber Pakhtunkhwa","North Waziristan","Data Khel","girls_primary_cr",NA
+"1579","Khyber Pakhtunkhwa","North Waziristan","Dossali","girls_primary_cr",NA
+"1580","Khyber Pakhtunkhwa","North Waziristan","Garyum","girls_primary_cr",NA
+"1581","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","girls_primary_cr",NA
+"1582","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","girls_primary_cr",NA
+"1583","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","girls_primary_cr",NA
+"1584","Khyber Pakhtunkhwa","North Waziristan","Razmak","girls_primary_cr",NA
+"1585","Khyber Pakhtunkhwa","North Waziristan","Shewa","girls_primary_cr",NA
+"1586","Khyber Pakhtunkhwa","North Waziristan","Spinwam","girls_primary_cr",NA
+"1587","Khyber Pakhtunkhwa","Nowshera","Nowshera","girls_primary_cr",0.216195954160706
+"1588","Khyber Pakhtunkhwa","Nowshera","Pabbi","girls_primary_cr",0.68619588936766
+"1589","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","girls_primary_cr",NA
+"1590","Khyber Pakhtunkhwa","Orakzai","Ismailzai","girls_primary_cr",NA
+"1591","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","girls_primary_cr",NA
+"1592","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","girls_primary_cr",NA
+"1593","Khyber Pakhtunkhwa","Peshawar","Peshawar","girls_primary_cr",0.160043766171704
+"1594","Khyber Pakhtunkhwa","Shangla","Alpuri","girls_primary_cr",1.17321864588461
+"1595","Khyber Pakhtunkhwa","Shangla","Bisham","girls_primary_cr",3.99427623280996
+"1596","Khyber Pakhtunkhwa","Shangla","Chiksar","girls_primary_cr",2.12012345250649
+"1597","Khyber Pakhtunkhwa","Shangla","Martung","girls_primary_cr",5.9529810097561
+"1598","Khyber Pakhtunkhwa","Shangla","Puran","girls_primary_cr",0.57709772018477
+"1599","Khyber Pakhtunkhwa","South Waziristan","Birmal","girls_primary_cr",NA
+"1600","Khyber Pakhtunkhwa","South Waziristan","Ladha","girls_primary_cr",NA
+"1601","Khyber Pakhtunkhwa","South Waziristan","Makin","girls_primary_cr",NA
+"1602","Khyber Pakhtunkhwa","South Waziristan","Sararogha","girls_primary_cr",NA
+"1603","Khyber Pakhtunkhwa","South Waziristan","Serwekai","girls_primary_cr",NA
+"1604","Khyber Pakhtunkhwa","South Waziristan","Tiarza","girls_primary_cr",NA
+"1605","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","girls_primary_cr",NA
+"1606","Khyber Pakhtunkhwa","South Waziristan","Wana","girls_primary_cr",NA
+"1607","Khyber Pakhtunkhwa","Swabi","Lahor","girls_primary_cr",0.396868121527564
+"1608","Khyber Pakhtunkhwa","Swabi","Swabi","girls_primary_cr",0.358678888198969
+"1609","Khyber Pakhtunkhwa","Swabi","Topi","girls_primary_cr",0.456514080994959
+"1610","Khyber Pakhtunkhwa","Swat","Babuzai","girls_primary_cr",0.798508101949403
+"1611","Khyber Pakhtunkhwa","Swat","Bahrain","girls_primary_cr",1.34307493470796
+"1612","Khyber Pakhtunkhwa","Swat","Barikot","girls_primary_cr",2.28338711631032
+"1613","Khyber Pakhtunkhwa","Swat","Charbagh","girls_primary_cr",1.83951948190561
+"1614","Khyber Pakhtunkhwa","Swat","Kabal","girls_primary_cr",0.862213119398963
+"1615","Khyber Pakhtunkhwa","Swat","Kalam","girls_primary_cr",3.05903892352627
+"1616","Khyber Pakhtunkhwa","Swat","Khwazakhela","girls_primary_cr",1.16449887625791
+"1617","Khyber Pakhtunkhwa","Swat","Matta Khararai","girls_primary_cr",1.26247758655063
+"1618","Khyber Pakhtunkhwa","Swat","Matta Sebujni","girls_primary_cr",1.29613619894723
+"1619","Khyber Pakhtunkhwa","Tank","Tank","girls_primary_cr",0.425283824839896
+"1620","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","girls_primary_cr",1.07147892809113
+"1621","Khyber Pakhtunkhwa","Upper Dir","Barawal","girls_primary_cr",2.16802165882966
+"1622","Khyber Pakhtunkhwa","Upper Dir","Dir","girls_primary_cr",0.618276876092708
+"1623","Khyber Pakhtunkhwa","Upper Dir","Kalkot","girls_primary_cr",11.0456811523973
+"1624","Khyber Pakhtunkhwa","Upper Dir","Wari","girls_primary_cr",0.695639940493048
+"1625","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","girls_middle_cr",0.304631287998576
+"1626","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","girls_middle_cr",NA
+"1627","Khyber Pakhtunkhwa","Bajaur","Barang","girls_middle_cr",NA
+"1628","Khyber Pakhtunkhwa","Bajaur","Khar","girls_middle_cr",NA
+"1629","Khyber Pakhtunkhwa","Bajaur","Mamund","girls_middle_cr",NA
+"1630","Khyber Pakhtunkhwa","Bajaur","Nawagai","girls_middle_cr",NA
+"1631","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","girls_middle_cr",NA
+"1632","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","girls_middle_cr",NA
+"1633","Khyber Pakhtunkhwa","Bannu","Bannu","girls_middle_cr",0.382225583197825
+"1634","Khyber Pakhtunkhwa","Bannu","Domel","girls_middle_cr",0.799424521225457
+"1635","Khyber Pakhtunkhwa","Batagram","Alai","girls_middle_cr",11.7691358740741
+"1636","Khyber Pakhtunkhwa","Batagram","Batagram","girls_middle_cr",1.25069070444519
+"1637","Khyber Pakhtunkhwa","Buner","Chagharzai","girls_middle_cr",5.90345909245283
+"1638","Khyber Pakhtunkhwa","Buner","Chamla","girls_middle_cr",4.70835974984127
+"1639","Khyber Pakhtunkhwa","Buner","Daggar","girls_middle_cr",11.1625200562682
+"1640","Khyber Pakhtunkhwa","Buner","Gagra","girls_middle_cr",7.6659067006079
+"1641","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","girls_middle_cr",10.6204916273224
+"1642","Khyber Pakhtunkhwa","Buner","Totalai","girls_middle_cr",5.89131941232639
+"1643","Khyber Pakhtunkhwa","Charsadda","Charsadda","girls_middle_cr",0.968675597275862
+"1644","Khyber Pakhtunkhwa","Charsadda","Tangi","girls_middle_cr",4.39833277637615
+"1645","Khyber Pakhtunkhwa","Chitral","Chitral","girls_middle_cr",1.91411852776198
+"1646","Khyber Pakhtunkhwa","Chitral","Mastuj","girls_middle_cr",2.15129577764007
+"1647","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","girls_middle_cr",7.47186142857143
+"1648","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","girls_middle_cr",0.776337739449165
+"1649","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","girls_middle_cr",5.91121989542484
+"1650","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","girls_middle_cr",1.03175022893636
+"1651","Khyber Pakhtunkhwa","FR Bannu","Wazir","girls_middle_cr",NA
+"1652","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","girls_middle_cr",NA
+"1653","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","girls_middle_cr",NA
+"1654","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","girls_middle_cr",NA
+"1655","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","girls_middle_cr",NA
+"1656","Khyber Pakhtunkhwa","FR Tank","Jandola","girls_middle_cr",NA
+"1657","Khyber Pakhtunkhwa","Hangu","Hangu","girls_middle_cr",3.06171402331496
+"1658","Khyber Pakhtunkhwa","Hangu","Tall","girls_middle_cr",6.36413043478261
+"1659","Khyber Pakhtunkhwa","Haripur","Ghazi","girls_middle_cr",4.33967391803183
+"1660","Khyber Pakhtunkhwa","Haripur","Haripur","girls_middle_cr",0.599298179856369
+"1661","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","girls_middle_cr",8.58852688456091
+"1662","Khyber Pakhtunkhwa","Karak","Karak","girls_middle_cr",2.85003324128015
+"1663","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","girls_middle_cr",2.23176497593561
+"1664","Khyber Pakhtunkhwa","Khyber","Bara","girls_middle_cr",NA
+"1665","Khyber Pakhtunkhwa","Khyber","Jamrud","girls_middle_cr",NA
+"1666","Khyber Pakhtunkhwa","Khyber","Landi Kotal","girls_middle_cr",NA
+"1667","Khyber Pakhtunkhwa","Kohat","Kohat","girls_middle_cr",1.53499821486252
+"1668","Khyber Pakhtunkhwa","Kohat","Lachi","girls_middle_cr",2.36118490891585
+"1669","Khyber Pakhtunkhwa","Kohistan","Dassu","girls_middle_cr",5.3333335
+"1670","Khyber Pakhtunkhwa","Kohistan","Palas","girls_middle_cr",1.19584239738562
+"1671","Khyber Pakhtunkhwa","Kohistan","Pattan","girls_middle_cr",NA
+"1672","Khyber Pakhtunkhwa","Kurram","Central Kurram","girls_middle_cr",NA
+"1673","Khyber Pakhtunkhwa","Kurram","Lower Kurram","girls_middle_cr",NA
+"1674","Khyber Pakhtunkhwa","Kurram","Upper Kurram","girls_middle_cr",NA
+"1675","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","girls_middle_cr",0.825490106867917
+"1676","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","girls_middle_cr",2.11483439882422
+"1677","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","girls_middle_cr",3.79954454722866
+"1678","Khyber Pakhtunkhwa","Lower Dir","Timergara","girls_middle_cr",1.42521698765005
+"1679","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","girls_middle_cr",2.87393951453269
+"1680","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","girls_middle_cr",3.8447923648673
+"1681","Khyber Pakhtunkhwa","Mansehra","Balakot","girls_middle_cr",1.80135489062347
+"1682","Khyber Pakhtunkhwa","Mansehra","Mansehra","girls_middle_cr",0.637819057558503
+"1683","Khyber Pakhtunkhwa","Mansehra","Oghi","girls_middle_cr",2.63678804505135
+"1684","Khyber Pakhtunkhwa","Mardan","Katlang","girls_middle_cr",3.56024528484848
+"1685","Khyber Pakhtunkhwa","Mardan","Mardan","girls_middle_cr",1.10518756843749
+"1686","Khyber Pakhtunkhwa","Mardan","Takht Bhai","girls_middle_cr",1.32420882222993
+"1687","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","girls_middle_cr",NA
+"1688","Khyber Pakhtunkhwa","Mohmand","Halimzai","girls_middle_cr",NA
+"1689","Khyber Pakhtunkhwa","Mohmand","Pindiali","girls_middle_cr",NA
+"1690","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","girls_middle_cr",NA
+"1691","Khyber Pakhtunkhwa","Mohmand","Safi","girls_middle_cr",NA
+"1692","Khyber Pakhtunkhwa","Mohmand","Upper Momand","girls_middle_cr",NA
+"1693","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","girls_middle_cr",NA
+"1694","Khyber Pakhtunkhwa","North Waziristan","Data Khel","girls_middle_cr",NA
+"1695","Khyber Pakhtunkhwa","North Waziristan","Dossali","girls_middle_cr",NA
+"1696","Khyber Pakhtunkhwa","North Waziristan","Garyum","girls_middle_cr",NA
+"1697","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","girls_middle_cr",NA
+"1698","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","girls_middle_cr",NA
+"1699","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","girls_middle_cr",NA
+"1700","Khyber Pakhtunkhwa","North Waziristan","Razmak","girls_middle_cr",NA
+"1701","Khyber Pakhtunkhwa","North Waziristan","Shewa","girls_middle_cr",NA
+"1702","Khyber Pakhtunkhwa","North Waziristan","Spinwam","girls_middle_cr",NA
+"1703","Khyber Pakhtunkhwa","Nowshera","Nowshera","girls_middle_cr",1.33700781790293
+"1704","Khyber Pakhtunkhwa","Nowshera","Pabbi","girls_middle_cr",4.64277421290643
+"1705","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","girls_middle_cr",NA
+"1706","Khyber Pakhtunkhwa","Orakzai","Ismailzai","girls_middle_cr",NA
+"1707","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","girls_middle_cr",NA
+"1708","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","girls_middle_cr",NA
+"1709","Khyber Pakhtunkhwa","Peshawar","Peshawar","girls_middle_cr",0.680875555453972
+"1710","Khyber Pakhtunkhwa","Shangla","Alpuri","girls_middle_cr",18.6510677635468
+"1711","Khyber Pakhtunkhwa","Shangla","Bisham","girls_middle_cr",3.40495503040541
+"1712","Khyber Pakhtunkhwa","Shangla","Chiksar","girls_middle_cr",NA
+"1713","Khyber Pakhtunkhwa","Shangla","Martung","girls_middle_cr",2.5
+"1714","Khyber Pakhtunkhwa","Shangla","Puran","girls_middle_cr",3.08064364191315
+"1715","Khyber Pakhtunkhwa","South Waziristan","Birmal","girls_middle_cr",NA
+"1716","Khyber Pakhtunkhwa","South Waziristan","Ladha","girls_middle_cr",NA
+"1717","Khyber Pakhtunkhwa","South Waziristan","Makin","girls_middle_cr",NA
+"1718","Khyber Pakhtunkhwa","South Waziristan","Sararogha","girls_middle_cr",NA
+"1719","Khyber Pakhtunkhwa","South Waziristan","Serwekai","girls_middle_cr",NA
+"1720","Khyber Pakhtunkhwa","South Waziristan","Tiarza","girls_middle_cr",NA
+"1721","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","girls_middle_cr",NA
+"1722","Khyber Pakhtunkhwa","South Waziristan","Wana","girls_middle_cr",NA
+"1723","Khyber Pakhtunkhwa","Swabi","Lahor","girls_middle_cr",3.26708122857933
+"1724","Khyber Pakhtunkhwa","Swabi","Swabi","girls_middle_cr",2.02620231359556
+"1725","Khyber Pakhtunkhwa","Swabi","Topi","girls_middle_cr",3.5592137318139
+"1726","Khyber Pakhtunkhwa","Swat","Babuzai","girls_middle_cr",4.32618796192182
+"1727","Khyber Pakhtunkhwa","Swat","Bahrain","girls_middle_cr",10.8563833271277
+"1728","Khyber Pakhtunkhwa","Swat","Barikot","girls_middle_cr",8.76584667988738
+"1729","Khyber Pakhtunkhwa","Swat","Charbagh","girls_middle_cr",4.15531219038929
+"1730","Khyber Pakhtunkhwa","Swat","Kabal","girls_middle_cr",7.8425577834681
+"1731","Khyber Pakhtunkhwa","Swat","Kalam","girls_middle_cr",9
+"1732","Khyber Pakhtunkhwa","Swat","Khwazakhela","girls_middle_cr",5.81762842496343
+"1733","Khyber Pakhtunkhwa","Swat","Matta Khararai","girls_middle_cr",10.2848491773309
+"1734","Khyber Pakhtunkhwa","Swat","Matta Sebujni","girls_middle_cr",0.91374269005848
+"1735","Khyber Pakhtunkhwa","Tank","Tank","girls_middle_cr",1.85342624394599
+"1736","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","girls_middle_cr",NA
+"1737","Khyber Pakhtunkhwa","Upper Dir","Barawal","girls_middle_cr",16.6776150255474
+"1738","Khyber Pakhtunkhwa","Upper Dir","Dir","girls_middle_cr",4.72891160892033
+"1739","Khyber Pakhtunkhwa","Upper Dir","Kalkot","girls_middle_cr",NA
+"1740","Khyber Pakhtunkhwa","Upper Dir","Wari","girls_middle_cr",4.13980061118709
+"1741","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","girls_high_cr",0.984028077865721
+"1742","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","girls_high_cr",NA
+"1743","Khyber Pakhtunkhwa","Bajaur","Barang","girls_high_cr",NA
+"1744","Khyber Pakhtunkhwa","Bajaur","Khar","girls_high_cr",NA
+"1745","Khyber Pakhtunkhwa","Bajaur","Mamund","girls_high_cr",NA
+"1746","Khyber Pakhtunkhwa","Bajaur","Nawagai","girls_high_cr",NA
+"1747","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","girls_high_cr",NA
+"1748","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","girls_high_cr",NA
+"1749","Khyber Pakhtunkhwa","Bannu","Bannu","girls_high_cr",1.01698474063614
+"1750","Khyber Pakhtunkhwa","Bannu","Domel","girls_high_cr",3.81086653533333
+"1751","Khyber Pakhtunkhwa","Batagram","Alai","girls_high_cr",NA
+"1752","Khyber Pakhtunkhwa","Batagram","Batagram","girls_high_cr",7.01508570758929
+"1753","Khyber Pakhtunkhwa","Buner","Chagharzai","girls_high_cr",17.25
+"1754","Khyber Pakhtunkhwa","Buner","Chamla","girls_high_cr",9.32216307527827
+"1755","Khyber Pakhtunkhwa","Buner","Daggar","girls_high_cr",14.3350450708869
+"1756","Khyber Pakhtunkhwa","Buner","Gagra","girls_high_cr",10.8260217769444
+"1757","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","girls_high_cr",18.1294239803922
+"1758","Khyber Pakhtunkhwa","Buner","Totalai","girls_high_cr",9.11267194881334
+"1759","Khyber Pakhtunkhwa","Charsadda","Charsadda","girls_high_cr",2.03871358420332
+"1760","Khyber Pakhtunkhwa","Charsadda","Tangi","girls_high_cr",4.78477418573143
+"1761","Khyber Pakhtunkhwa","Chitral","Chitral","girls_high_cr",4.79046923791244
+"1762","Khyber Pakhtunkhwa","Chitral","Mastuj","girls_high_cr",6.61688947078819
+"1763","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","girls_high_cr",5.74601598056426
+"1764","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","girls_high_cr",1.58628117979716
+"1765","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","girls_high_cr",15.732864819788
+"1766","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","girls_high_cr",3.97241532873374
+"1767","Khyber Pakhtunkhwa","FR Bannu","Wazir","girls_high_cr",NA
+"1768","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","girls_high_cr",NA
+"1769","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","girls_high_cr",NA
+"1770","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","girls_high_cr",NA
+"1771","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","girls_high_cr",NA
+"1772","Khyber Pakhtunkhwa","FR Tank","Jandola","girls_high_cr",NA
+"1773","Khyber Pakhtunkhwa","Hangu","Hangu","girls_high_cr",6.33246284858614
+"1774","Khyber Pakhtunkhwa","Hangu","Tall","girls_high_cr",17.3959071544828
+"1775","Khyber Pakhtunkhwa","Haripur","Ghazi","girls_high_cr",18.2109030354947
+"1776","Khyber Pakhtunkhwa","Haripur","Haripur","girls_high_cr",1.0608576855914
+"1777","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","girls_high_cr",9.71826645594238
+"1778","Khyber Pakhtunkhwa","Karak","Karak","girls_high_cr",4.26128346021718
+"1779","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","girls_high_cr",3.84317724904293
+"1780","Khyber Pakhtunkhwa","Khyber","Bara","girls_high_cr",NA
+"1781","Khyber Pakhtunkhwa","Khyber","Jamrud","girls_high_cr",NA
+"1782","Khyber Pakhtunkhwa","Khyber","Landi Kotal","girls_high_cr",NA
+"1783","Khyber Pakhtunkhwa","Kohat","Kohat","girls_high_cr",1.99347977015197
+"1784","Khyber Pakhtunkhwa","Kohat","Lachi","girls_high_cr",9.35557553513182
+"1785","Khyber Pakhtunkhwa","Kohistan","Dassu","girls_high_cr",19.4
+"1786","Khyber Pakhtunkhwa","Kohistan","Palas","girls_high_cr",NA
+"1787","Khyber Pakhtunkhwa","Kohistan","Pattan","girls_high_cr",NA
+"1788","Khyber Pakhtunkhwa","Kurram","Central Kurram","girls_high_cr",NA
+"1789","Khyber Pakhtunkhwa","Kurram","Lower Kurram","girls_high_cr",NA
+"1790","Khyber Pakhtunkhwa","Kurram","Upper Kurram","girls_high_cr",NA
+"1791","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","girls_high_cr",3.60890936680701
+"1792","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","girls_high_cr",10.3450967941083
+"1793","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","girls_high_cr",6.42390159610305
+"1794","Khyber Pakhtunkhwa","Lower Dir","Timergara","girls_high_cr",2.10397841857971
+"1795","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","girls_high_cr",6.6464209734891
+"1796","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","girls_high_cr",3.76850861497911
+"1797","Khyber Pakhtunkhwa","Mansehra","Balakot","girls_high_cr",2.17931804097076
+"1798","Khyber Pakhtunkhwa","Mansehra","Mansehra","girls_high_cr",1.40948922528617
+"1799","Khyber Pakhtunkhwa","Mansehra","Oghi","girls_high_cr",10.5846374265148
+"1800","Khyber Pakhtunkhwa","Mardan","Katlang","girls_high_cr",7.47190728531172
+"1801","Khyber Pakhtunkhwa","Mardan","Mardan","girls_high_cr",1.47635490077937
+"1802","Khyber Pakhtunkhwa","Mardan","Takht Bhai","girls_high_cr",3.22240690789081
+"1803","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","girls_high_cr",NA
+"1804","Khyber Pakhtunkhwa","Mohmand","Halimzai","girls_high_cr",NA
+"1805","Khyber Pakhtunkhwa","Mohmand","Pindiali","girls_high_cr",NA
+"1806","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","girls_high_cr",NA
+"1807","Khyber Pakhtunkhwa","Mohmand","Safi","girls_high_cr",NA
+"1808","Khyber Pakhtunkhwa","Mohmand","Upper Momand","girls_high_cr",NA
+"1809","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","girls_high_cr",NA
+"1810","Khyber Pakhtunkhwa","North Waziristan","Data Khel","girls_high_cr",NA
+"1811","Khyber Pakhtunkhwa","North Waziristan","Dossali","girls_high_cr",NA
+"1812","Khyber Pakhtunkhwa","North Waziristan","Garyum","girls_high_cr",NA
+"1813","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","girls_high_cr",NA
+"1814","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","girls_high_cr",NA
+"1815","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","girls_high_cr",NA
+"1816","Khyber Pakhtunkhwa","North Waziristan","Razmak","girls_high_cr",NA
+"1817","Khyber Pakhtunkhwa","North Waziristan","Shewa","girls_high_cr",NA
+"1818","Khyber Pakhtunkhwa","North Waziristan","Spinwam","girls_high_cr",NA
+"1819","Khyber Pakhtunkhwa","Nowshera","Nowshera","girls_high_cr",2.28305091955036
+"1820","Khyber Pakhtunkhwa","Nowshera","Pabbi","girls_high_cr",4.48195319180266
+"1821","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","girls_high_cr",NA
+"1822","Khyber Pakhtunkhwa","Orakzai","Ismailzai","girls_high_cr",NA
+"1823","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","girls_high_cr",NA
+"1824","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","girls_high_cr",NA
+"1825","Khyber Pakhtunkhwa","Peshawar","Peshawar","girls_high_cr",0.991069754098201
+"1826","Khyber Pakhtunkhwa","Shangla","Alpuri","girls_high_cr",13.9780597808687
+"1827","Khyber Pakhtunkhwa","Shangla","Bisham","girls_high_cr",NA
+"1828","Khyber Pakhtunkhwa","Shangla","Chiksar","girls_high_cr",37.599998
+"1829","Khyber Pakhtunkhwa","Shangla","Martung","girls_high_cr",NA
+"1830","Khyber Pakhtunkhwa","Shangla","Puran","girls_high_cr",6.1578946
+"1831","Khyber Pakhtunkhwa","South Waziristan","Birmal","girls_high_cr",NA
+"1832","Khyber Pakhtunkhwa","South Waziristan","Ladha","girls_high_cr",NA
+"1833","Khyber Pakhtunkhwa","South Waziristan","Makin","girls_high_cr",NA
+"1834","Khyber Pakhtunkhwa","South Waziristan","Sararogha","girls_high_cr",NA
+"1835","Khyber Pakhtunkhwa","South Waziristan","Serwekai","girls_high_cr",NA
+"1836","Khyber Pakhtunkhwa","South Waziristan","Tiarza","girls_high_cr",NA
+"1837","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","girls_high_cr",NA
+"1838","Khyber Pakhtunkhwa","South Waziristan","Wana","girls_high_cr",NA
+"1839","Khyber Pakhtunkhwa","Swabi","Lahor","girls_high_cr",3.51965355645745
+"1840","Khyber Pakhtunkhwa","Swabi","Swabi","girls_high_cr",2.21362728479407
+"1841","Khyber Pakhtunkhwa","Swabi","Topi","girls_high_cr",4.0628200062917
+"1842","Khyber Pakhtunkhwa","Swat","Babuzai","girls_high_cr",4.19240961835145
+"1843","Khyber Pakhtunkhwa","Swat","Bahrain","girls_high_cr",27.7422285617284
+"1844","Khyber Pakhtunkhwa","Swat","Barikot","girls_high_cr",16.3127994839779
+"1845","Khyber Pakhtunkhwa","Swat","Charbagh","girls_high_cr",NA
+"1846","Khyber Pakhtunkhwa","Swat","Kabal","girls_high_cr",8.31874008301833
+"1847","Khyber Pakhtunkhwa","Swat","Kalam","girls_high_cr",22.5
+"1848","Khyber Pakhtunkhwa","Swat","Khwazakhela","girls_high_cr",25.8750586948555
+"1849","Khyber Pakhtunkhwa","Swat","Matta Khararai","girls_high_cr",15.4429440866242
+"1850","Khyber Pakhtunkhwa","Swat","Matta Sebujni","girls_high_cr",87.333336
+"1851","Khyber Pakhtunkhwa","Tank","Tank","girls_high_cr",5.27506167902242
+"1852","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","girls_high_cr",NA
+"1853","Khyber Pakhtunkhwa","Upper Dir","Barawal","girls_high_cr",24.875655511236
+"1854","Khyber Pakhtunkhwa","Upper Dir","Dir","girls_high_cr",11.9601861664485
+"1855","Khyber Pakhtunkhwa","Upper Dir","Kalkot","girls_high_cr",NA
+"1856","Khyber Pakhtunkhwa","Upper Dir","Wari","girls_high_cr",18.7071243614458
+"1857","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","boys_primary_cr",0.0447224807865523
+"1858","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","boys_primary_cr",NA
+"1859","Khyber Pakhtunkhwa","Bajaur","Barang","boys_primary_cr",NA
+"1860","Khyber Pakhtunkhwa","Bajaur","Khar","boys_primary_cr",NA
+"1861","Khyber Pakhtunkhwa","Bajaur","Mamund","boys_primary_cr",NA
+"1862","Khyber Pakhtunkhwa","Bajaur","Nawagai","boys_primary_cr",NA
+"1863","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","boys_primary_cr",NA
+"1864","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","boys_primary_cr",NA
+"1865","Khyber Pakhtunkhwa","Bannu","Bannu","boys_primary_cr",0.100800705174043
+"1866","Khyber Pakhtunkhwa","Bannu","Domel","boys_primary_cr",0.183246646433299
+"1867","Khyber Pakhtunkhwa","Batagram","Alai","boys_primary_cr",0.269228738666751
+"1868","Khyber Pakhtunkhwa","Batagram","Batagram","boys_primary_cr",0.154049807734611
+"1869","Khyber Pakhtunkhwa","Buner","Chagharzai","boys_primary_cr",0.939267207208517
+"1870","Khyber Pakhtunkhwa","Buner","Chamla","boys_primary_cr",0.473811630070708
+"1871","Khyber Pakhtunkhwa","Buner","Daggar","boys_primary_cr",1.02366893207912
+"1872","Khyber Pakhtunkhwa","Buner","Gagra","boys_primary_cr",1.12280877535817
+"1873","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","boys_primary_cr",1.0603562405709
+"1874","Khyber Pakhtunkhwa","Buner","Totalai","boys_primary_cr",1.0165202934257
+"1875","Khyber Pakhtunkhwa","Charsadda","Charsadda","boys_primary_cr",0.113678415333743
+"1876","Khyber Pakhtunkhwa","Charsadda","Tangi","boys_primary_cr",0.476117151201099
+"1877","Khyber Pakhtunkhwa","Chitral","Chitral","boys_primary_cr",0.196389689034183
+"1878","Khyber Pakhtunkhwa","Chitral","Mastuj","boys_primary_cr",0.189582042889611
+"1879","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","boys_primary_cr",0.336645602338293
+"1880","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","boys_primary_cr",0.123580630691713
+"1881","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","boys_primary_cr",0.722331639160744
+"1882","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","boys_primary_cr",0.226130154106943
+"1883","Khyber Pakhtunkhwa","FR Bannu","Wazir","boys_primary_cr",22
+"1884","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","boys_primary_cr",NA
+"1885","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","boys_primary_cr",NA
+"1886","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","boys_primary_cr",NA
+"1887","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","boys_primary_cr",NA
+"1888","Khyber Pakhtunkhwa","FR Tank","Jandola","boys_primary_cr",NA
+"1889","Khyber Pakhtunkhwa","Hangu","Hangu","boys_primary_cr",0.506548075986259
+"1890","Khyber Pakhtunkhwa","Hangu","Tall","boys_primary_cr",0.730473179675772
+"1891","Khyber Pakhtunkhwa","Haripur","Ghazi","boys_primary_cr",0.288984283637534
+"1892","Khyber Pakhtunkhwa","Haripur","Haripur","boys_primary_cr",0.0898159216425162
+"1893","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","boys_primary_cr",0.550799010636716
+"1894","Khyber Pakhtunkhwa","Karak","Karak","boys_primary_cr",0.336151525386182
+"1895","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","boys_primary_cr",0.263225248674897
+"1896","Khyber Pakhtunkhwa","Khyber","Bara","boys_primary_cr",NA
+"1897","Khyber Pakhtunkhwa","Khyber","Jamrud","boys_primary_cr",NA
+"1898","Khyber Pakhtunkhwa","Khyber","Landi Kotal","boys_primary_cr",NA
+"1899","Khyber Pakhtunkhwa","Kohat","Kohat","boys_primary_cr",0.19595847739364
+"1900","Khyber Pakhtunkhwa","Kohat","Lachi","boys_primary_cr",0.4316669570603
+"1901","Khyber Pakhtunkhwa","Kohistan","Dassu","boys_primary_cr",0.142131850157152
+"1902","Khyber Pakhtunkhwa","Kohistan","Palas","boys_primary_cr",0.110157242701084
+"1903","Khyber Pakhtunkhwa","Kohistan","Pattan","boys_primary_cr",0.680230464530068
+"1904","Khyber Pakhtunkhwa","Kurram","Central Kurram","boys_primary_cr",NA
+"1905","Khyber Pakhtunkhwa","Kurram","Lower Kurram","boys_primary_cr",32
+"1906","Khyber Pakhtunkhwa","Kurram","Upper Kurram","boys_primary_cr",NA
+"1907","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","boys_primary_cr",0.0942187180828082
+"1908","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","boys_primary_cr",0.271593960324854
+"1909","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","boys_primary_cr",0.312968802320645
+"1910","Khyber Pakhtunkhwa","Lower Dir","Timergara","boys_primary_cr",0.138435702465939
+"1911","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","boys_primary_cr",0.498908599973748
+"1912","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","boys_primary_cr",0.320310188570332
+"1913","Khyber Pakhtunkhwa","Mansehra","Balakot","boys_primary_cr",0.131734950573185
+"1914","Khyber Pakhtunkhwa","Mansehra","Mansehra","boys_primary_cr",0.0734644599360551
+"1915","Khyber Pakhtunkhwa","Mansehra","Oghi","boys_primary_cr",0.171210497067354
+"1916","Khyber Pakhtunkhwa","Mardan","Katlang","boys_primary_cr",0.512409426203682
+"1917","Khyber Pakhtunkhwa","Mardan","Mardan","boys_primary_cr",0.125972403472012
+"1918","Khyber Pakhtunkhwa","Mardan","Takht Bhai","boys_primary_cr",0.205371671703066
+"1919","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","boys_primary_cr",NA
+"1920","Khyber Pakhtunkhwa","Mohmand","Halimzai","boys_primary_cr",NA
+"1921","Khyber Pakhtunkhwa","Mohmand","Pindiali","boys_primary_cr",NA
+"1922","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","boys_primary_cr",NA
+"1923","Khyber Pakhtunkhwa","Mohmand","Safi","boys_primary_cr",NA
+"1924","Khyber Pakhtunkhwa","Mohmand","Upper Momand","boys_primary_cr",NA
+"1925","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","boys_primary_cr",NA
+"1926","Khyber Pakhtunkhwa","North Waziristan","Data Khel","boys_primary_cr",NA
+"1927","Khyber Pakhtunkhwa","North Waziristan","Dossali","boys_primary_cr",NA
+"1928","Khyber Pakhtunkhwa","North Waziristan","Garyum","boys_primary_cr",NA
+"1929","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","boys_primary_cr",NA
+"1930","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","boys_primary_cr",NA
+"1931","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","boys_primary_cr",NA
+"1932","Khyber Pakhtunkhwa","North Waziristan","Razmak","boys_primary_cr",NA
+"1933","Khyber Pakhtunkhwa","North Waziristan","Shewa","boys_primary_cr",NA
+"1934","Khyber Pakhtunkhwa","North Waziristan","Spinwam","boys_primary_cr",NA
+"1935","Khyber Pakhtunkhwa","Nowshera","Nowshera","boys_primary_cr",0.162211051678219
+"1936","Khyber Pakhtunkhwa","Nowshera","Pabbi","boys_primary_cr",0.408976435452408
+"1937","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","boys_primary_cr",NA
+"1938","Khyber Pakhtunkhwa","Orakzai","Ismailzai","boys_primary_cr",64.5
+"1939","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","boys_primary_cr",NA
+"1940","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","boys_primary_cr",NA
+"1941","Khyber Pakhtunkhwa","Peshawar","Peshawar","boys_primary_cr",0.101267571353401
+"1942","Khyber Pakhtunkhwa","Shangla","Alpuri","boys_primary_cr",0.360837484332511
+"1943","Khyber Pakhtunkhwa","Shangla","Bisham","boys_primary_cr",0.858739412760308
+"1944","Khyber Pakhtunkhwa","Shangla","Chiksar","boys_primary_cr",0.909603722414243
+"1945","Khyber Pakhtunkhwa","Shangla","Martung","boys_primary_cr",1.46495982977641
+"1946","Khyber Pakhtunkhwa","Shangla","Puran","boys_primary_cr",0.96253571051798
+"1947","Khyber Pakhtunkhwa","South Waziristan","Birmal","boys_primary_cr",NA
+"1948","Khyber Pakhtunkhwa","South Waziristan","Ladha","boys_primary_cr",NA
+"1949","Khyber Pakhtunkhwa","South Waziristan","Makin","boys_primary_cr",NA
+"1950","Khyber Pakhtunkhwa","South Waziristan","Sararogha","boys_primary_cr",NA
+"1951","Khyber Pakhtunkhwa","South Waziristan","Serwekai","boys_primary_cr",NA
+"1952","Khyber Pakhtunkhwa","South Waziristan","Tiarza","boys_primary_cr",NA
+"1953","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","boys_primary_cr",NA
+"1954","Khyber Pakhtunkhwa","South Waziristan","Wana","boys_primary_cr",NA
+"1955","Khyber Pakhtunkhwa","Swabi","Lahor","boys_primary_cr",0.24863650763679
+"1956","Khyber Pakhtunkhwa","Swabi","Swabi","boys_primary_cr",0.202534328259462
+"1957","Khyber Pakhtunkhwa","Swabi","Topi","boys_primary_cr",0.293341555634732
+"1958","Khyber Pakhtunkhwa","Swat","Babuzai","boys_primary_cr",0.415196758001563
+"1959","Khyber Pakhtunkhwa","Swat","Bahrain","boys_primary_cr",0.685184261402235
+"1960","Khyber Pakhtunkhwa","Swat","Barikot","boys_primary_cr",1.01842742840813
+"1961","Khyber Pakhtunkhwa","Swat","Charbagh","boys_primary_cr",1.06010747194224
+"1962","Khyber Pakhtunkhwa","Swat","Kabal","boys_primary_cr",0.490444827609863
+"1963","Khyber Pakhtunkhwa","Swat","Kalam","boys_primary_cr",1.67822657926976
+"1964","Khyber Pakhtunkhwa","Swat","Khwazakhela","boys_primary_cr",0.649234339487029
+"1965","Khyber Pakhtunkhwa","Swat","Matta Khararai","boys_primary_cr",0.649541073749445
+"1966","Khyber Pakhtunkhwa","Swat","Matta Sebujni","boys_primary_cr",0.54792898898082
+"1967","Khyber Pakhtunkhwa","Tank","Tank","boys_primary_cr",0.213904246673304
+"1968","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","boys_primary_cr",0.399973687075787
+"1969","Khyber Pakhtunkhwa","Upper Dir","Barawal","boys_primary_cr",0.960498463605586
+"1970","Khyber Pakhtunkhwa","Upper Dir","Dir","boys_primary_cr",0.293051466357264
+"1971","Khyber Pakhtunkhwa","Upper Dir","Kalkot","boys_primary_cr",2.37087380107349
+"1972","Khyber Pakhtunkhwa","Upper Dir","Wari","boys_primary_cr",0.367433054045879
+"1973","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","boys_middle_cr",0.393919000490157
+"1974","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","boys_middle_cr",NA
+"1975","Khyber Pakhtunkhwa","Bajaur","Barang","boys_middle_cr",NA
+"1976","Khyber Pakhtunkhwa","Bajaur","Khar","boys_middle_cr",NA
+"1977","Khyber Pakhtunkhwa","Bajaur","Mamund","boys_middle_cr",NA
+"1978","Khyber Pakhtunkhwa","Bajaur","Nawagai","boys_middle_cr",NA
+"1979","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","boys_middle_cr",NA
+"1980","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","boys_middle_cr",NA
+"1981","Khyber Pakhtunkhwa","Bannu","Bannu","boys_middle_cr",0.552099836215347
+"1982","Khyber Pakhtunkhwa","Bannu","Domel","boys_middle_cr",1.37949560170464
+"1983","Khyber Pakhtunkhwa","Batagram","Alai","boys_middle_cr",1.15849273847905
+"1984","Khyber Pakhtunkhwa","Batagram","Batagram","boys_middle_cr",1.13399596117694
+"1985","Khyber Pakhtunkhwa","Buner","Chagharzai","boys_middle_cr",4.45302535134264
+"1986","Khyber Pakhtunkhwa","Buner","Chamla","boys_middle_cr",3.78699867470956
+"1987","Khyber Pakhtunkhwa","Buner","Daggar","boys_middle_cr",6.23813604754358
+"1988","Khyber Pakhtunkhwa","Buner","Gagra","boys_middle_cr",4.84716510855899
+"1989","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","boys_middle_cr",6.97328632463218
+"1990","Khyber Pakhtunkhwa","Buner","Totalai","boys_middle_cr",2.53856668398772
+"1991","Khyber Pakhtunkhwa","Charsadda","Charsadda","boys_middle_cr",1.08920850092549
+"1992","Khyber Pakhtunkhwa","Charsadda","Tangi","boys_middle_cr",2.90422838915375
+"1993","Khyber Pakhtunkhwa","Chitral","Chitral","boys_middle_cr",1.38709640967435
+"1994","Khyber Pakhtunkhwa","Chitral","Mastuj","boys_middle_cr",1.55295521219106
+"1995","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","boys_middle_cr",1.93308671173648
+"1996","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","boys_middle_cr",0.418313978252608
+"1997","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","boys_middle_cr",1.5359109315015
+"1998","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","boys_middle_cr",1.27909518846627
+"1999","Khyber Pakhtunkhwa","FR Bannu","Wazir","boys_middle_cr",NA
+"2000","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","boys_middle_cr",NA
+"2001","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","boys_middle_cr",22
+"2002","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","boys_middle_cr",NA
+"2003","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","boys_middle_cr",NA
+"2004","Khyber Pakhtunkhwa","FR Tank","Jandola","boys_middle_cr",NA
+"2005","Khyber Pakhtunkhwa","Hangu","Hangu","boys_middle_cr",3.0163366501841
+"2006","Khyber Pakhtunkhwa","Hangu","Tall","boys_middle_cr",7.75031522177202
+"2007","Khyber Pakhtunkhwa","Haripur","Ghazi","boys_middle_cr",2.07827034688889
+"2008","Khyber Pakhtunkhwa","Haripur","Haripur","boys_middle_cr",0.552747014493231
+"2009","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","boys_middle_cr",2.29872656752496
+"2010","Khyber Pakhtunkhwa","Karak","Karak","boys_middle_cr",1.97751465271881
+"2011","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","boys_middle_cr",1.77021746982733
+"2012","Khyber Pakhtunkhwa","Khyber","Bara","boys_middle_cr",NA
+"2013","Khyber Pakhtunkhwa","Khyber","Jamrud","boys_middle_cr",NA
+"2014","Khyber Pakhtunkhwa","Khyber","Landi Kotal","boys_middle_cr",NA
+"2015","Khyber Pakhtunkhwa","Kohat","Kohat","boys_middle_cr",1.11620719341566
+"2016","Khyber Pakhtunkhwa","Kohat","Lachi","boys_middle_cr",3.96370095439293
+"2017","Khyber Pakhtunkhwa","Kohistan","Dassu","boys_middle_cr",0.479075430919708
+"2018","Khyber Pakhtunkhwa","Kohistan","Palas","boys_middle_cr",0.410397761955535
+"2019","Khyber Pakhtunkhwa","Kohistan","Pattan","boys_middle_cr",2.08843529931973
+"2020","Khyber Pakhtunkhwa","Kurram","Central Kurram","boys_middle_cr",NA
+"2021","Khyber Pakhtunkhwa","Kurram","Lower Kurram","boys_middle_cr",NA
+"2022","Khyber Pakhtunkhwa","Kurram","Upper Kurram","boys_middle_cr",NA
+"2023","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","boys_middle_cr",1.08757876691729
+"2024","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","boys_middle_cr",2.79081123786044
+"2025","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","boys_middle_cr",1.99814446941258
+"2026","Khyber Pakhtunkhwa","Lower Dir","Timergara","boys_middle_cr",1.01138465796051
+"2027","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","boys_middle_cr",3.51513531321937
+"2028","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","boys_middle_cr",2.99586721766376
+"2029","Khyber Pakhtunkhwa","Mansehra","Balakot","boys_middle_cr",1.84952816706153
+"2030","Khyber Pakhtunkhwa","Mansehra","Mansehra","boys_middle_cr",0.31153234266121
+"2031","Khyber Pakhtunkhwa","Mansehra","Oghi","boys_middle_cr",1.50092357823684
+"2032","Khyber Pakhtunkhwa","Mardan","Katlang","boys_middle_cr",4.0718514705622
+"2033","Khyber Pakhtunkhwa","Mardan","Mardan","boys_middle_cr",1.08670741786278
+"2034","Khyber Pakhtunkhwa","Mardan","Takht Bhai","boys_middle_cr",1.51732495310674
+"2035","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","boys_middle_cr",NA
+"2036","Khyber Pakhtunkhwa","Mohmand","Halimzai","boys_middle_cr",NA
+"2037","Khyber Pakhtunkhwa","Mohmand","Pindiali","boys_middle_cr",NA
+"2038","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","boys_middle_cr",NA
+"2039","Khyber Pakhtunkhwa","Mohmand","Safi","boys_middle_cr",NA
+"2040","Khyber Pakhtunkhwa","Mohmand","Upper Momand","boys_middle_cr",NA
+"2041","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","boys_middle_cr",NA
+"2042","Khyber Pakhtunkhwa","North Waziristan","Data Khel","boys_middle_cr",NA
+"2043","Khyber Pakhtunkhwa","North Waziristan","Dossali","boys_middle_cr",NA
+"2044","Khyber Pakhtunkhwa","North Waziristan","Garyum","boys_middle_cr",NA
+"2045","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","boys_middle_cr",NA
+"2046","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","boys_middle_cr",NA
+"2047","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","boys_middle_cr",NA
+"2048","Khyber Pakhtunkhwa","North Waziristan","Razmak","boys_middle_cr",NA
+"2049","Khyber Pakhtunkhwa","North Waziristan","Shewa","boys_middle_cr",NA
+"2050","Khyber Pakhtunkhwa","North Waziristan","Spinwam","boys_middle_cr",NA
+"2051","Khyber Pakhtunkhwa","Nowshera","Nowshera","boys_middle_cr",1.12513944272446
+"2052","Khyber Pakhtunkhwa","Nowshera","Pabbi","boys_middle_cr",3.4407881922647
+"2053","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","boys_middle_cr",NA
+"2054","Khyber Pakhtunkhwa","Orakzai","Ismailzai","boys_middle_cr",NA
+"2055","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","boys_middle_cr",NA
+"2056","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","boys_middle_cr",NA
+"2057","Khyber Pakhtunkhwa","Peshawar","Peshawar","boys_middle_cr",0.579128001590108
+"2058","Khyber Pakhtunkhwa","Shangla","Alpuri","boys_middle_cr",2.80806562077935
+"2059","Khyber Pakhtunkhwa","Shangla","Bisham","boys_middle_cr",2.79384756749311
+"2060","Khyber Pakhtunkhwa","Shangla","Chiksar","boys_middle_cr",3.24465576820652
+"2061","Khyber Pakhtunkhwa","Shangla","Martung","boys_middle_cr",2.83534588178819
+"2062","Khyber Pakhtunkhwa","Shangla","Puran","boys_middle_cr",2.38622216013907
+"2063","Khyber Pakhtunkhwa","South Waziristan","Birmal","boys_middle_cr",NA
+"2064","Khyber Pakhtunkhwa","South Waziristan","Ladha","boys_middle_cr",NA
+"2065","Khyber Pakhtunkhwa","South Waziristan","Makin","boys_middle_cr",NA
+"2066","Khyber Pakhtunkhwa","South Waziristan","Sararogha","boys_middle_cr",NA
+"2067","Khyber Pakhtunkhwa","South Waziristan","Serwekai","boys_middle_cr",NA
+"2068","Khyber Pakhtunkhwa","South Waziristan","Tiarza","boys_middle_cr",NA
+"2069","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","boys_middle_cr",NA
+"2070","Khyber Pakhtunkhwa","South Waziristan","Wana","boys_middle_cr",NA
+"2071","Khyber Pakhtunkhwa","Swabi","Lahor","boys_middle_cr",2.91106858263811
+"2072","Khyber Pakhtunkhwa","Swabi","Swabi","boys_middle_cr",1.1597295335602
+"2073","Khyber Pakhtunkhwa","Swabi","Topi","boys_middle_cr",1.91685490010286
+"2074","Khyber Pakhtunkhwa","Swat","Babuzai","boys_middle_cr",3.78698525254142
+"2075","Khyber Pakhtunkhwa","Swat","Bahrain","boys_middle_cr",2.15263067505702
+"2076","Khyber Pakhtunkhwa","Swat","Barikot","boys_middle_cr",7.75776879410639
+"2077","Khyber Pakhtunkhwa","Swat","Charbagh","boys_middle_cr",6.72418212599469
+"2078","Khyber Pakhtunkhwa","Swat","Kabal","boys_middle_cr",2.33128167341069
+"2079","Khyber Pakhtunkhwa","Swat","Kalam","boys_middle_cr",6.03297220620939
+"2080","Khyber Pakhtunkhwa","Swat","Khwazakhela","boys_middle_cr",4.05220259810041
+"2081","Khyber Pakhtunkhwa","Swat","Matta Khararai","boys_middle_cr",8.84061086943907
+"2082","Khyber Pakhtunkhwa","Swat","Matta Sebujni","boys_middle_cr",5.4995418667222
+"2083","Khyber Pakhtunkhwa","Tank","Tank","boys_middle_cr",0.771448158585348
+"2084","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","boys_middle_cr",0.767771843435692
+"2085","Khyber Pakhtunkhwa","Upper Dir","Barawal","boys_middle_cr",5.96708118512433
+"2086","Khyber Pakhtunkhwa","Upper Dir","Dir","boys_middle_cr",1.61392651120129
+"2087","Khyber Pakhtunkhwa","Upper Dir","Kalkot","boys_middle_cr",8.90610310485133
+"2088","Khyber Pakhtunkhwa","Upper Dir","Wari","boys_middle_cr",1.98960794965828
+"2089","Khyber Pakhtunkhwa","Abbottabad","Abbottabad","boys_high_cr",0.453985384798061
+"2090","Khyber Pakhtunkhwa","Bajaur","Bar Chamarkand","boys_high_cr",NA
+"2091","Khyber Pakhtunkhwa","Bajaur","Barang","boys_high_cr",NA
+"2092","Khyber Pakhtunkhwa","Bajaur","Khar","boys_high_cr",NA
+"2093","Khyber Pakhtunkhwa","Bajaur","Mamund","boys_high_cr",NA
+"2094","Khyber Pakhtunkhwa","Bajaur","Nawagai","boys_high_cr",NA
+"2095","Khyber Pakhtunkhwa","Bajaur","Salarzai Tehsil","boys_high_cr",NA
+"2096","Khyber Pakhtunkhwa","Bajaur","Utman Khel Tehsil","boys_high_cr",NA
+"2097","Khyber Pakhtunkhwa","Bannu","Bannu","boys_high_cr",0.821175044829308
+"2098","Khyber Pakhtunkhwa","Bannu","Domel","boys_high_cr",1.3896490585167
+"2099","Khyber Pakhtunkhwa","Batagram","Alai","boys_high_cr",1.53267629724157
+"2100","Khyber Pakhtunkhwa","Batagram","Batagram","boys_high_cr",1.94850019402479
+"2101","Khyber Pakhtunkhwa","Buner","Chagharzai","boys_high_cr",6.09652079883041
+"2102","Khyber Pakhtunkhwa","Buner","Chamla","boys_high_cr",3.67772354646397
+"2103","Khyber Pakhtunkhwa","Buner","Daggar","boys_high_cr",4.45198832563396
+"2104","Khyber Pakhtunkhwa","Buner","Gagra","boys_high_cr",6.33942936747447
+"2105","Khyber Pakhtunkhwa","Buner","Pir Baba/ Gadaizi","boys_high_cr",4.13294852088903
+"2106","Khyber Pakhtunkhwa","Buner","Totalai","boys_high_cr",2.57126115032336
+"2107","Khyber Pakhtunkhwa","Charsadda","Charsadda","boys_high_cr",0.785922576968322
+"2108","Khyber Pakhtunkhwa","Charsadda","Tangi","boys_high_cr",2.73335160133479
+"2109","Khyber Pakhtunkhwa","Chitral","Chitral","boys_high_cr",1.32604489881101
+"2110","Khyber Pakhtunkhwa","Chitral","Mastuj","boys_high_cr",1.62108299123796
+"2111","Khyber Pakhtunkhwa","Dera Ismail Khan","Daraban","boys_high_cr",2.86508688824509
+"2112","Khyber Pakhtunkhwa","Dera Ismail Khan","Dera Ismail Khan","boys_high_cr",0.746723181878004
+"2113","Khyber Pakhtunkhwa","Dera Ismail Khan","Kulachi","boys_high_cr",3.32691714662773
+"2114","Khyber Pakhtunkhwa","Dera Ismail Khan","Paharpur","boys_high_cr",1.10131430361117
+"2115","Khyber Pakhtunkhwa","FR Bannu","Wazir","boys_high_cr",NA
+"2116","Khyber Pakhtunkhwa","FR Dera Ismail Khan","Drazanda","boys_high_cr",NA
+"2117","Khyber Pakhtunkhwa","FR Kohat","Darra Adam Khel","boys_high_cr",NA
+"2118","Khyber Pakhtunkhwa","FR Lakki Marwat","Bettani","boys_high_cr",NA
+"2119","Khyber Pakhtunkhwa","FR Peshawar","Hassan Khel","boys_high_cr",NA
+"2120","Khyber Pakhtunkhwa","FR Tank","Jandola","boys_high_cr",NA
+"2121","Khyber Pakhtunkhwa","Hangu","Hangu","boys_high_cr",2.95965301230984
+"2122","Khyber Pakhtunkhwa","Hangu","Tall","boys_high_cr",2.96096531141238
+"2123","Khyber Pakhtunkhwa","Haripur","Ghazi","boys_high_cr",3.29496945378923
+"2124","Khyber Pakhtunkhwa","Haripur","Haripur","boys_high_cr",0.760126003173626
+"2125","Khyber Pakhtunkhwa","Karak","Banda Daud Shah","boys_high_cr",2.29671786814891
+"2126","Khyber Pakhtunkhwa","Karak","Karak","boys_high_cr",1.38938132587987
+"2127","Khyber Pakhtunkhwa","Karak","Takht E Nasrati","boys_high_cr",1.62222122753295
+"2128","Khyber Pakhtunkhwa","Khyber","Bara","boys_high_cr",NA
+"2129","Khyber Pakhtunkhwa","Khyber","Jamrud","boys_high_cr",NA
+"2130","Khyber Pakhtunkhwa","Khyber","Landi Kotal","boys_high_cr",NA
+"2131","Khyber Pakhtunkhwa","Kohat","Kohat","boys_high_cr",1.05306916536001
+"2132","Khyber Pakhtunkhwa","Kohat","Lachi","boys_high_cr",2.64981759717194
+"2133","Khyber Pakhtunkhwa","Kohistan","Dassu","boys_high_cr",2.89401797499157
+"2134","Khyber Pakhtunkhwa","Kohistan","Palas","boys_high_cr",0.856085765656603
+"2135","Khyber Pakhtunkhwa","Kohistan","Pattan","boys_high_cr",5.4000001
+"2136","Khyber Pakhtunkhwa","Kurram","Central Kurram","boys_high_cr",NA
+"2137","Khyber Pakhtunkhwa","Kurram","Lower Kurram","boys_high_cr",NA
+"2138","Khyber Pakhtunkhwa","Kurram","Upper Kurram","boys_high_cr",NA
+"2139","Khyber Pakhtunkhwa","Lakki Marwat","Lakki Marwat","boys_high_cr",0.875099513599629
+"2140","Khyber Pakhtunkhwa","Lakki Marwat","Sarai Naurang","boys_high_cr",3.66339025071162
+"2141","Khyber Pakhtunkhwa","Lower Dir","Samar Bagh","boys_high_cr",2.04243715298866
+"2142","Khyber Pakhtunkhwa","Lower Dir","Timergara","boys_high_cr",0.793318109367314
+"2143","Khyber Pakhtunkhwa","Malakand PA","Sam Ranizai","boys_high_cr",3.15657376386934
+"2144","Khyber Pakhtunkhwa","Malakand PA","Swat Ranizai","boys_high_cr",1.66695523173924
+"2145","Khyber Pakhtunkhwa","Mansehra","Balakot","boys_high_cr",1.64513015025682
+"2146","Khyber Pakhtunkhwa","Mansehra","Mansehra","boys_high_cr",0.557593912520689
+"2147","Khyber Pakhtunkhwa","Mansehra","Oghi","boys_high_cr",1.48880882663866
+"2148","Khyber Pakhtunkhwa","Mardan","Katlang","boys_high_cr",3.47381873054793
+"2149","Khyber Pakhtunkhwa","Mardan","Mardan","boys_high_cr",0.771784341847923
+"2150","Khyber Pakhtunkhwa","Mardan","Takht Bhai","boys_high_cr",1.97959619161637
+"2151","Khyber Pakhtunkhwa","Mohmand","Ambar Utman Khel","boys_high_cr",NA
+"2152","Khyber Pakhtunkhwa","Mohmand","Halimzai","boys_high_cr",NA
+"2153","Khyber Pakhtunkhwa","Mohmand","Pindiali","boys_high_cr",NA
+"2154","Khyber Pakhtunkhwa","Mohmand","Prang Ghar","boys_high_cr",NA
+"2155","Khyber Pakhtunkhwa","Mohmand","Safi","boys_high_cr",NA
+"2156","Khyber Pakhtunkhwa","Mohmand","Upper Momand","boys_high_cr",NA
+"2157","Khyber Pakhtunkhwa","Mohmand","Yaka Ghund","boys_high_cr",NA
+"2158","Khyber Pakhtunkhwa","North Waziristan","Data Khel","boys_high_cr",NA
+"2159","Khyber Pakhtunkhwa","North Waziristan","Dossali","boys_high_cr",NA
+"2160","Khyber Pakhtunkhwa","North Waziristan","Garyum","boys_high_cr",NA
+"2161","Khyber Pakhtunkhwa","North Waziristan","Ghulam Khan","boys_high_cr",NA
+"2162","Khyber Pakhtunkhwa","North Waziristan","Mir Ali","boys_high_cr",NA
+"2163","Khyber Pakhtunkhwa","North Waziristan","Miran Shah","boys_high_cr",NA
+"2164","Khyber Pakhtunkhwa","North Waziristan","Razmak","boys_high_cr",NA
+"2165","Khyber Pakhtunkhwa","North Waziristan","Shewa","boys_high_cr",NA
+"2166","Khyber Pakhtunkhwa","North Waziristan","Spinwam","boys_high_cr",NA
+"2167","Khyber Pakhtunkhwa","Nowshera","Nowshera","boys_high_cr",0.716671649597112
+"2168","Khyber Pakhtunkhwa","Nowshera","Pabbi","boys_high_cr",2.27194538677945
+"2169","Khyber Pakhtunkhwa","Orakzai","Central Orakzai","boys_high_cr",NA
+"2170","Khyber Pakhtunkhwa","Orakzai","Ismailzai","boys_high_cr",NA
+"2171","Khyber Pakhtunkhwa","Orakzai","Lower Orakzai","boys_high_cr",NA
+"2172","Khyber Pakhtunkhwa","Orakzai","Upper Orakzai","boys_high_cr",NA
+"2173","Khyber Pakhtunkhwa","Peshawar","Peshawar","boys_high_cr",0.505117518600916
+"2174","Khyber Pakhtunkhwa","Shangla","Alpuri","boys_high_cr",4.30701440598512
+"2175","Khyber Pakhtunkhwa","Shangla","Bisham","boys_high_cr",4.76000614817321
+"2176","Khyber Pakhtunkhwa","Shangla","Chiksar","boys_high_cr",4.64619781970078
+"2177","Khyber Pakhtunkhwa","Shangla","Martung","boys_high_cr",8.88392172961139
+"2178","Khyber Pakhtunkhwa","Shangla","Puran","boys_high_cr",3.96627538684001
+"2179","Khyber Pakhtunkhwa","South Waziristan","Birmal","boys_high_cr",NA
+"2180","Khyber Pakhtunkhwa","South Waziristan","Ladha","boys_high_cr",NA
+"2181","Khyber Pakhtunkhwa","South Waziristan","Makin","boys_high_cr",NA
+"2182","Khyber Pakhtunkhwa","South Waziristan","Sararogha","boys_high_cr",NA
+"2183","Khyber Pakhtunkhwa","South Waziristan","Serwekai","boys_high_cr",NA
+"2184","Khyber Pakhtunkhwa","South Waziristan","Tiarza","boys_high_cr",NA
+"2185","Khyber Pakhtunkhwa","South Waziristan","Toi Khulla","boys_high_cr",NA
+"2186","Khyber Pakhtunkhwa","South Waziristan","Wana","boys_high_cr",NA
+"2187","Khyber Pakhtunkhwa","Swabi","Lahor","boys_high_cr",1.87521733011186
+"2188","Khyber Pakhtunkhwa","Swabi","Swabi","boys_high_cr",1.15183164606339
+"2189","Khyber Pakhtunkhwa","Swabi","Topi","boys_high_cr",1.97817856265421
+"2190","Khyber Pakhtunkhwa","Swat","Babuzai","boys_high_cr",2.80904298802867
+"2191","Khyber Pakhtunkhwa","Swat","Bahrain","boys_high_cr",6.45555156459084
+"2192","Khyber Pakhtunkhwa","Swat","Barikot","boys_high_cr",3.66534598775172
+"2193","Khyber Pakhtunkhwa","Swat","Charbagh","boys_high_cr",14.5736419911315
+"2194","Khyber Pakhtunkhwa","Swat","Kabal","boys_high_cr",2.46032892213151
+"2195","Khyber Pakhtunkhwa","Swat","Kalam","boys_high_cr",5.6078867620636
+"2196","Khyber Pakhtunkhwa","Swat","Khwazakhela","boys_high_cr",4.44948037924421
+"2197","Khyber Pakhtunkhwa","Swat","Matta Khararai","boys_high_cr",4.69623639195491
+"2198","Khyber Pakhtunkhwa","Swat","Matta Sebujni","boys_high_cr",5.03895231721152
+"2199","Khyber Pakhtunkhwa","Tank","Tank","boys_high_cr",1.16418021746
+"2200","Khyber Pakhtunkhwa","Tor Ghar","Tor Ghar","boys_high_cr",6.75284496050808
+"2201","Khyber Pakhtunkhwa","Upper Dir","Barawal","boys_high_cr",9.5381914702458
+"2202","Khyber Pakhtunkhwa","Upper Dir","Dir","boys_high_cr",2.27981314500048
+"2203","Khyber Pakhtunkhwa","Upper Dir","Kalkot","boys_high_cr",34.200001
+"2204","Khyber Pakhtunkhwa","Upper Dir","Wari","boys_high_cr",3.01047642666689

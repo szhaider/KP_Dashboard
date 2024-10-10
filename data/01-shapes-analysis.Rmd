@@ -1,0 +1,819 @@
+---
+title: "Shapes analysis"
+output:
+  pdf_document: 
+    fig_width: 12
+    fig_height: 6
+  html_document: default
+editor_options: 
+  chunk_output_type: console
+---
+
+## Analyzing existing shape files and their usefulness
+
+
+```{r eval = TRUE, echo = FALSE}
+conflictRules("tidyr", mask.ok = c("extract"))
+conflictRules("dplyr", mask.ok = c("filter", "lag", "select"))
+pacman::p_load(sf, raster, stars, rgdal, here, fs, tidyverse, dplyr,  ggpubr,
+               writexl, scales, esri2sf, glue, rlang, kableExtra, ggspatial)
+theme_set(ggplot2::theme_minimal())
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, cache = T)
+source("R/gis-helpers.R")
+```
+
+
+## UNDP-OCHA shapes for somalia
+
+Sources: 
+
+-  [https://data.humdata.org/dataset/somalia-administrative-boundaries](https://data.humdata.org/dataset/somalia-administrative-boundaries)
+-  Shared folder `WBG\Takaaki Masaki - somalia\input\admin\som-administrative-divisions-shapefiles`
+
+```{r}
+from_fold <- 
+  here("data-raw", "shps", "undp-ohca", 
+       "som-administrative-divisions-shapefiles")
+
+undp_admin0 <- sf::read_sf(file.path(from_fold, "Som_Admbnda_Adm0_UNDP.shp"))
+undp_admin1 <- sf::read_sf(file.path(from_fold, "Som_Admbnda_Adm1_UNDP.shp"))
+undp_admin2 <- sf::read_sf(file.path(from_fold, "Som_Admbnda_Adm2_UNDP.shp"))
+
+ggplot() +
+  geom_sf(data = undp_admin2, alpha = 0.1, aes(colour = "Admin 2")) + 
+  geom_sf(data = undp_admin1, alpha = 0.1, aes(colour = "Admin 1")) +
+  geom_sf(data = undp_admin0, alpha = 0.1, aes(colour = "Admin 0")) 
+```
+
+
+## WB Villages data
+
+Source: 
+
+- [https://datacatalog.worldbank.org/dataset/somalia-villages](https://datacatalog.worldbank.org/dataset/somalia-villages)
+
+
+```{r}
+wb_vilages <- 
+  here("data-raw",
+       "shps",
+       "wb-villages",
+       "table1_villages.shp_",
+       "Table1_Villages.shp") %>%
+  sf::read_sf()
+
+som_hex <- 
+  undp_admin0 %>%
+  st_make_grid(cellsize = .25, square = FALSE)
+
+ggplot() +
+  geom_sf(data = undp_admin2, alpha = 0.1, aes(colour = "Admin 2")) + 
+  geom_sf(data = undp_admin1, alpha = 0.1, aes(colour = "Admin 1")) +
+  geom_sf(data = undp_admin0, alpha = 0.1, aes(colour = "Admin 0")) +
+  geom_sf(data = wb_vilages, aes(colour = "Villages"), size = .01)
+```
+
+
+## Geopode - Somaliland and 
+
+Source: 
+
+- [https://son.geopode.world/geometry_export/0/](https://son.geopode.world/geometry_export/0/)
+
+Existing layers in the data:
+
+```{r}
+geopode_file <- here("data-raw", "shps", "geopode", "GEOPODE_SON.gdb")
+st_layers(geopode_file)
+```
+
+First - geometries of the Somaliland and Puntland regions. Several observations: 
+
+- Very fluid borders.
+- Regional boundaries of Somaliland and Puntland do not correspond to the country boundaries from the UNDP.
+- Internal borders between Puntland and UNDP Zones are also fluid.
+
+```{r warning=FALSE}
+geopode_adm1 <- sf::read_sf(geopode_file, layer = "boundary_vacczones")
+geopode_adm2 <- sf::read_sf(geopode_file, layer = "boundary_vaccregions")
+geopode_adm3 <- sf::read_sf(geopode_file, layer = "boundary_vaccdistricts")
+
+ggplot() +
+  geom_sf(data = geopode_adm3, alpha = 0.1, aes(colour = "Admin 3")) + 
+  geom_sf_text(data = geopode_adm2, aes(colour = "Admin 2", label = RegionName)) + 
+  geom_sf(data = geopode_adm2, alpha = 0.1, aes(colour = "Admin 2")) +
+  geom_sf_text(data = geopode_adm1, aes(colour = "Admin 1", label = ZoneName)) + 
+  geom_sf(data = geopode_adm1, alpha = 0.1, aes(colour = "Admin 1")) + 
+  geom_sf(data = undp_admin1, aes(colour = "UNDP Admin 1"), alpha = 0) + 
+  geom_sf(data = undp_admin0, aes(colour = "UNDP Admin 0"), alpha = 0)
+```
+
+
+### Others: health and water
+
+
+```{r}
+geopode_health <- sf::read_sf(geopode_file,  layer = "fc_poi_health_facilities")
+geopode_water <- sf::read_sf(geopode_file,  layer = "fc_poi_water")
+
+ggplot() +
+  geom_sf(data = geopode_health, aes(colour = "health"), size = 0.5) +
+  geom_sf(data = geopode_water, aes(colour = "water"), size = 0.5) +
+  geom_sf(data = geopode_adm3, alpha = 0, colour = "blue") + 
+  geom_sf(data = geopode_adm2, alpha = 0, colour = "red") +
+  geom_sf(data = geopode_adm1, alpha = 0, colour = "black")
+
+```
+
+### Others: Built-up areas and Hamlets
+
+```{r}
+geopode_builtup <- sf::read_sf(geopode_file, layer = "fe_builtuparea")
+geopode_humplet_area <- sf::read_sf(geopode_file, layer = "fe_hamletareas")
+
+ggplot() +
+  geom_sf(data = geopode_adm3, alpha = 0, colour = "blue") + 
+  geom_sf(data = geopode_adm2, alpha = 0, colour = "red") +
+  geom_sf(data = geopode_adm1, alpha = 0, colour = "black") + 
+  geom_sf(data = geopode_builtup, aes(fill = "Build-up", colour = "Build-up")) + 
+  geom_sf(data = geopode_humplet_area, aes(fill = "Hamlets", colour = "Hamlets"))
+```
+
+
+## GRID3 
+
+Sources:
+
+- [https://data.humdata.org/dataset/grid3-somalia-settlement-extents-version-01-alpha](https://data.humdata.org/dataset/grid3-somalia-settlement-extents-version-01-alpha)
+- Same as [https://academiccommons.columbia.edu/doi/10.7916/d8-4n5t-wd59](https://academiccommons.columbia.edu/doi/10.7916/d8-4n5t-wd59)
+-  Also availabie through an API: [Landing page](https://www.arcgis.com/home/item.html?id=958addcc83804d83a5cf795c9b8499f1&view=list&sortOrder=desc&sortField=defaultFSOrder) and the [features server](https://services3.arcgis.com/BU6Aadhn6tbBEdyk/ArcGIS/rest/services/GRID3_SOM_settlement_extents_20200330_V02_gdb/FeatureServer)
+
+
+Existing layers in the data:
+
+- built up areas (BUA), 
+- small settlement areas (SSA), 
+- hamlets (hamlets)
+
+```{r}
+grid3_file <- here("data-raw", "shps", "grid3",
+                     "GRID3_SOM_settlement_extents_20200330_V02.gdb")
+st_layers(grid3_file)
+```
+
+As the number of hamlets is very large, we do not plot them.
+
+```{r}
+grid3_bua <- 
+  sf::read_sf(grid3_file, layer = "bua_extents")%>%
+  st_cast("MULTIPOLYGON") %>% 
+  st_make_valid()
+grid3_ssa <- 
+  sf::read_sf(grid3_file, layer = "ssa_extents") %>%
+  sf::st_cast("MULTIPOLYGON") %>% 
+  sf::st_make_valid()
+# grid3_ham <- 
+#   sf::st_read(grid3_file, layer = "hamlet_extents") %>% 
+#   sf::st_cast("MULTIPOLYGON") %>% 
+#   sf::st_make_valid()
+# grid3_ham %>% write_rds(here("data-raw", "shps", "grid3", "hamlets.rds"), compress = "gz")
+grid3_ham <- read_rds(here("data-raw", "shps", "grid3", "hamlets.rds"))
+
+ggplot() +
+  geom_sf(data = grid3_bua, alpha = 0.3, aes(colour = "GRID3 BUA" , fill = "GRID3 BUA")) + 
+  geom_sf(data = grid3_ssa, alpha = 0.1, aes(colour = "GRID3 SSA" , fill = "GRID3 SSA")) +
+  # geom_sf(data = grid3_ham, alpha = 0.1, aes(colour = "GRID3 Hamlets" , fill = "GRID3 Hamlets")) +
+  geom_sf(data = undp_admin1, aes(colour = "UNDP Admin 1"), alpha = 0) + 
+  geom_sf(data = undp_admin0, aes(colour = "UNDP Admin 0"), alpha = 0)
+```
+
+
+
+## Poverty map - Does not contain any boundaties
+
+```{r eval=FALSE}
+povmap_path <- here("data-raw", "poverty", "SOM_UR_EAs", "SOM_UR_EAs_06.shp")
+povmap_shps <- read_sf(povmap_path)
+```
+
+
+## Ideas for merging data together
+
+
+### Discarded 
+
+Was discarded because of the unofficial and undocumented nature of the GEOPODE data and limited improvement of the boundaries precision. 
+
+1. Use Geopode for Somaliland and Puntland Admin 1 - zones, Admin 2 - regions and Admin 3 - districts as it is. 
+2. Combine Geopode with the UNDP boundaries for Admin 0 - Country, Admin 1 - Zone and Admin 2 - Region by: 
+
+   -  Using external Admin 1 boundaries from Geopode to "improve" accuracy of UNDP Admin 0 - country boundaries.
+   -  Remove Geopode regions from UNDP Admin 1 and Admin 2 regions. 
+   -  Create artificial layer Admin 3 in UNDP data using hexagons to dis-aggregate every Admin 2 region to the artificial Admin 3 districts. 
+   
+3. If we need to use Village boundaries or hamlets, explore further if we can use Geopode in a combination with GRID3 or need to go for one of it.  
+ 
+
+
+### Accepted temporary solution
+
+1. UNDP for Admin 0, 1, and 2.
+
+2. Geopode for Admin 3 in the North and in the rest, Admin 3 is the same as Admin 2.
+
+
+```{r}
+zam_geom <- read_rds("../../zambia/zamPTIapp/app-shapes/Zambia.rds")
+zam_geom$admin0_Country
+
+som_geom <- NULL
+
+som_geom$admin0_Country <-
+  undp_admin0 %>%
+  mutate(area = st_area(.),
+         area = as.numeric(area) / 1000000) %>%
+  select(admin0Name, admin0Pcod, area) %>%
+  st_cast("MULTIPOLYGON") %>%
+  st_make_valid()
+
+som_geom$admin1_Region <- 
+  undp_admin1 %>%
+  mutate(area = st_area(.),
+         area = as.numeric(area) / 1000000) %>%
+  select(admin0Pcod, admin1Name, admin1Pcod, area) %>%
+  arrange(admin1Pcod) %>% 
+  st_cast("MULTIPOLYGON") %>%
+  st_make_valid()
+
+som_geom$admin2_District <- 
+  undp_admin2 %>%
+  mutate(area = st_area(.),
+         area = as.numeric(area) / 1000000) %>%
+  select(admin0Pcod, admin1Pcod, admin2Name, admin2Pcod, area) %>%
+  arrange(admin2Pcod) %>% 
+  st_cast("MULTIPOLYGON") %>%
+  st_make_valid()
+
+```
+
+
+```{r eval=FALSE}
+som_geom %>%
+  write_rds(here("data-clean", "bounds", str_c(
+    "som-geom-undp",
+    #as.numeric(Sys.time()), 
+    ".rds"
+  )),
+  compress = "gz")
+```
+
+Checking the boundaries
+
+```{r}
+som_geom %>% 
+  imap_dfr(~{
+    .x %>% mutate(id = .y) 
+  }) %>% 
+  # filter(id != "admin0_Country") %>% 
+  ggplot() + 
+  geom_sf() + 
+  facet_wrap(~id, nrow = 1) + 
+  labs(title = "UNDP boundaries")
+```
+
+
+#### Comparing GEOPODE and UNDP borders accuracy
+
+Geopode in fact contains borders that differ from UNDP boundaries, however, this does not improve data granularity as the administrative level remains the same.  
+
+```{r}
+som_geom$admin2_District %>%
+  ggplot +
+  geom_sf() +
+  geom_sf(
+    data = geopode_adm3,
+    alpha = 0,
+    linetype = "dashed",
+    colour = "red"
+  )
+```
+
+
+## Doing hexagons:
+
+We have following sources of SSA and villages data:
+
+[Grid3](https://data.humdata.org/dataset/grid3-somalia-settlement-extents-version-01-alpha) actual polygons of the settlement of 3 different classes. 
+
+- build-up areas.  Polygons number: `r nrow(grid3_bua)`;
+- small settlements area. Polygons number: `r nrow(grid3_ssa)`;
+- hamlets areas. Polygons number: `r nrow(grid3_ham)`;
+
+[World Bank villages](https://datacatalog.worldbank.org/dataset/somalia-villages) contains points, where the villages are located. In total {r nrow(wb_vilages)} points.
+
+[Geopode](https://son.geopode.world/geometry_export/0/) only covers two regions on the north. 
+
+- Build-up areas as polygons. Total of {r nrow(geopode_builtup)} BUAs.
+- Hamlets extents as circles of a fixed radius for all hamlets. Total of {r nrow(geopode_humplet_area)} hamlets
+
+```{r fig.width=16, fig.height=7}
+focus_box <- c(xmin = 43.98, xmax = 44.1, ymin = 9.5, ymax = 9.64)
+
+geopode_dta <-
+  geopode_humplet_area %>% mutate(type = "hamlet") %>% 
+  bind_rows(geopode_builtup %>% mutate(type = "bua")) %>% 
+  st_crop(., focus_box) %>% 
+  mutate(source = "Geopode") %>% 
+  ggplot() + 
+  ggspatial::annotation_map_tile(zoom = 13, 
+                                 cachedir = here("data-raw", "osm-tiles"), 
+                                 interpolate = T) + 
+  geom_sf(aes(fill = type), alpha = 0.2) +
+  labs(title = "Geopode") +
+  theme(legend.position="bottom")
+
+grid3_dta <-
+  list(
+    grid3_bua, 
+    grid3_ssa, 
+    grid3_ham %>% st_crop(., focus_box)
+    ) %>%
+  bind_rows()  %>% 
+  st_crop(., focus_box) %>% 
+  mutate(source = "GRID3") %>% 
+  ggplot() + 
+  ggspatial::annotation_map_tile(zoom = 13, 
+                                 cachedir = here("data-raw", "osm-tiles"), 
+                                 interpolate = T) + 
+  geom_sf(aes(fill = type), alpha = 0.2) +
+  labs(title = "GRID3") +
+  theme(legend.position="bottom")
+
+wb_dta <-
+  wb_vilages %>%
+    st_transform(st_crs(grid3_bua)) %>% 
+  st_crop(., focus_box) %>%
+  mutate(source = "WB", type = "Village") %>% 
+  ggplot() + 
+  ggspatial::annotation_map_tile(zoom = 13, 
+                                 cachedir = here("data-raw", "osm-tiles"), 
+                                 interpolate = T) + 
+  geom_sf(aes(fill = type), alpha = 1, size = 4) +
+  labs(title = "WB Villages") +
+  theme(legend.position="bottom")
+
+ggpubr::ggarrange(
+  geopode_dta,
+  grid3_dta,
+  wb_dta,
+  nrow = 1,
+  ncol = 3
+)
+```
+
+Based on the images, it is clear that GRID3 data outperforms the other sources. Therefore, we could use it as a reference point. 
+
+% of the WB villages is withing the GRID 3 boundaries.  
+
+
+```{r echo=FALSE}
+# % of the WB villages is withing the GRID 3 boundaries.  
+# library(rmapshaper)
+# 
+# grid3_combined <-
+#   list(grid3_bua,
+#        grid3_ssa,
+#        grid3_ham) %>%
+#   bind_rows()
+# 
+# wb_vilages_check <-
+#   wb_vilages %>%
+#   st_transform(st_crs(grid3_bua)) 
+# 
+# wb_not_in_grid3 <- 
+#   wb_vilages_check %>% 
+#   ms_erase(grid3_ssa)
+# 
+# wb_not_in_grid3_2 <- 
+#   wb_not_in_grid3  %>% 
+#   ms_erase(grid3_bua)
+#   
+# wb_not_in_grid3_3 <- 
+#   wb_not_in_grid3_2 %>% 
+#   ms_erase(grid3_ham)
+# 
+# wb_in_grid3 <- 
+#   st_intersects(
+#   wb_vilages_check, 
+#   grid3_combined
+# ) 
+# wb_in_grid3_extended <- 
+#   st_is_within_distance(
+#   wb_vilages_check, 
+#   grid3_combined, 
+#   dist = 1
+# ) 
+
+```
+
+```{r echo=FALSE}
+# library(rmapshaper)
+# 
+# grid3_combined <-
+#   list(grid3_bua,
+#        grid3_ssa,
+#        grid3_ham) %>%
+#   bind_rows()
+
+# one_subregion <-
+#   som_geom$admin2_District %>% 
+#   slice(42)
+# 
+# one_grid3_region <- 
+#   grid3_combined %>% 
+#   st_crop(one_subregion) %>% 
+#   st_intersection(one_subregion)
+# 
+# 
+# one_subregion %>%
+#   st_make_grid(cellsize = .15, square = FALSE, flat_topped = T) %>% 
+#   ggplot() + 
+#   geom_sf() + 
+#   geom_sf(data = one_grid3_region, aes(fill = type)) +
+#   geom_sf(data = one_subregion, alpha = 0.1)
+
+# 
+#   map_dfr( ~ {
+#     full_grid %>%
+#       st_intersection(.x) %>%
+#       st_cast("MULTIPOLYGON") %>%
+#       st_make_valid() %>%
+#       mutate(
+#         rnn = row_number() %>% as.character(),
+#         rnn = ifelse(nchar(rnn) == 1, str_c("0", rnn), rnn),
+#         admin3Pcod = str_c(admin2Pcod, rnn),
+#         admin3Name = str_c(admin2Name, " (", rnn, ")"),
+#         area = st_area(.) %>% as.numeric(),
+#         area = area / 1000000
+#       ) %>%
+#       select(admin0Pcod, admin1Pcod, admin2Pcod, admin3Pcod, admin3Name,
+#              area, geometry)
+#   })
+
+
+```
+
+
+```{r eval=FALSE}
+# Possible alternative approachse: 
+# 
+# -  Explore how point data could be polygonized in the meaningful polygons that 
+#    combine villages densities.
+# -  See: `gstat::krige` and `sp::aggregate` help files and documentation as 
+#    well as [fields](https://cran.r-project.org/web/packages/fields/fields.pdf) R package.
+ 
+full_grid <- 
+  som_geom$admin0_Country %>% 
+  st_make_grid(cellsize = .15, square = FALSE, flat_topped = T) %>% 
+  st_as_sf() %>% 
+  rename(geometry = x)  
+
+som_geom2 <- som_geom
+
+# Identifying polygons corresponding to each hexagon
+som_geom2$admin3_Hexagons <-
+  full_grid %>%
+  mutate(grid_id = row_number()) %>%
+  get_intercestions(som_geom$admin2_District) %>%
+  group_by(grid_id) %>%
+  arrange(desc(area_under)) %>%
+  slice(1) %>%
+  ungroup() %>% 
+  left_join(full_grid %>% mutate(grid_id = row_number())) %>% 
+  st_as_sf() %>% 
+  rmapshaper::ms_clip(som_geom2$admin0_Country) %>% 
+  st_make_valid() %>%
+  group_by(admin2Pcod) %>%
+  mutate(
+    rnn = row_number() %>% as.character(),
+    rnn = ifelse(nchar(rnn) == 1, str_c("0", rnn), rnn),
+    admin3Pcod = str_c(admin2Pcod, rnn),
+    admin3Name = str_c(admin2Name, " (", rnn, ")"),
+  ) %>%
+  ungroup() %>%
+  select(admin0Pcod,
+         admin1Pcod,
+         admin2Pcod,
+         admin3Pcod,
+         admin3Name,
+         area,
+         geometry) 
+
+# # # Cutting hexagons into parts.
+# individual_polys <- 
+#   som_geom$admin2_District %>% 
+#   group_by(row_number()) %>% 
+#   nest() %>% 
+#   pull(data) %>% 
+#   map(~st_make_valid(.x))
+# 
+# som_geom2$admin3_Hexagons <- 
+#   individual_polys %>%
+#   map_dfr( ~ {
+#     full_grid %>%
+#       st_intersection(.x) %>%
+#       st_cast("MULTIPOLYGON") %>%
+#       st_make_valid() %>%
+#       mutate(
+#         rnn = row_number() %>% as.character(),
+#         rnn = ifelse(nchar(rnn) == 1, str_c("0", rnn), rnn),
+#         admin3Pcod = str_c(admin2Pcod, rnn),
+#         admin3Name = str_c(admin2Name, " (", rnn, ")"),
+#         area = st_area(.) %>% as.numeric(),
+#         area = area / 1000000
+#       ) %>%
+#       select(admin0Pcod, admin1Pcod, admin2Pcod, admin3Pcod, admin3Name,
+#              area, geometry)
+#   })
+
+
+# som_geom2 %>% devPTIapp::validate_geometries()
+
+som_geom2 %>% 
+  write_rds(here("data-clean", "bounds", "som-geom-undp-hexagons.rds"), compress = "gz")
+
+som_geom2 %>% 
+  iwalk(~{
+    to <- str_c("./data-clean/som-shapefiles/", .y)
+    dir.create(to, showWarnings = F, recursive = T)
+    to <- str_c(to, "/", .y, ".shp")
+    st_write(.x, to, delete_dsn = TRUE, delete_layer = TRUE )
+  })
+```
+
+```{r}
+som_geom2 <- here("data-clean", "bounds", "som-geom-undp-hexagons.rds") %>% read_rds()
+
+som_geom2$admin3_Hexagons %>%
+  ggplot() +
+  geom_sf(alpha = 0.1) +
+  geom_sf(
+    data = som_geom2$admin2_District,
+    alpha = 0,
+    colour = "red"
+  ) +
+  geom_sf(
+    data = geopode_adm3,
+    alpha = 0,
+    linetype = "dashed",
+    colour = "blue"
+  )
+```
+
+
+## Build-up area in each region/hexagon
+
+
+```{r eval=FALSE}
+# grid3_combined <-
+#   list(grid3_bua,
+#        grid3_ssa,
+#        grid3_ham) %>%
+#   bind_rows() %>%
+#   # st_union() %>%
+#   st_transform(st_crs(wb_vilages))# %>% 
+#   # st_make_valid()
+# 
+# grid3_combined %>%
+#   write_rds("data-raw/shps/grid3/grid3_combined.rds", compress = "gz")
+
+grid3_combined <- read_rds("data-raw/shps/grid3/grid3_combined.rds")
+
+# library(progress)
+# pb <-
+#   progress::progress_bar$new(
+#   format = "[:bar] :percent eta: :eta",
+#   show_after = 1,
+#   total = som_geom2 %>% map_dfr(st_drop_geometry) %>% nrow())
+
+existing <-
+  here("data-raw", "temp", "grid3-areas") %>% 
+  list.files(pattern = "rds") %>% 
+  str_replace_all("\\.rds", "")
+
+bua_area_grid3 <- 
+  som_geom[3] %>% 
+  imap(~{
+    adm_level <- str_extract(.y, "admin\\d")
+    var_name <- str_c("bua_area_grid3_", adm_level)
+    out <- nrow(.x)
+    .x %>% 
+      st_transform(st_crs(wb_vilages)) %>% 
+      group_by(row_number()) %>% 
+      nest() %>% 
+      pull(data) %>% 
+      # `[`(1:5) %>% 
+      map2_dfr(seq_along(.), ~{
+        cat(scales::percent(.y / out, accuracy = 0.1), "\n")
+        if (.x$admin2Pcod %in% existing) {
+          here("data-raw",
+               "temp",
+               "grid3-areas",
+               str_c(.x$admin2Pcod, ".rds")) %>%
+            read_rds() %>%
+            return()
+        } else {
+          one_reg_bua <-
+            grid3_combined %>%
+            st_crop(.x) %>% 
+            st_union() %>% 
+            st_intersection(.x) %>% 
+            st_area() %>%
+            as.numeric()
+          
+          if (identical(one_reg_bua, numeric(0))) {
+            one_reg_bua <- 0
+          }
+          out <-
+            .x %>%
+            st_drop_geometry() %>%
+            as_tibble() %>%
+            mutate({{var_name}} := one_reg_bua / 1000000)
+          write_rds(out, here(
+            "data-raw",
+            "temp",
+            "grid3-areas",
+            str_c(out$admin2Pcod, ".rds")
+          ), compress = "gz")
+          out
+        }
+    })
+  })
+
+bua_area_grid3 <- NULL
+
+bua_area_grid3$admin2_District <- 
+  here("data-raw", "temp", "grid3-areas") %>% 
+  list.files(pattern = "rds", full.names = T) %>% 
+  map_dfr(read_rds)
+
+bua_area_grid3 <-
+  bua_area_grid3$admin2_District %>% 
+  select(-area) %>% 
+  group_by(admin0Pcod, admin1Pcod) %>% 
+  summarise(across(where(is.numeric), ~sum(., na.rm = TRUE))) %>% 
+  ungroup() %>% 
+  left_join(som_geom$admin1_Region) %>% 
+  select(-geometry) %>% 
+  as_tibble() %>% 
+  select(contains("admin0"), contains("admin1"), area, everything()) %>% 
+  list(admin1_Region = .) %>% 
+  append(., bua_area_grid3)
+
+bua_area_grid3 <-
+  bua_area_grid3$admin2_District %>% 
+  select(-area) %>% 
+  group_by(admin0Pcod) %>% 
+  summarise(across(where(is.numeric), ~sum(., na.rm = TRUE))) %>% 
+  ungroup() %>% 
+  left_join(som_geom$admin0_Country) %>% 
+  select(-geometry) %>% 
+  as_tibble() %>% 
+  select(contains("admin0"), area, everything()) %>% 
+  list(admin1_Region = .) %>% 
+  append(., bua_area_grid3)
+
+bua_area_grid3 <- 
+  bua_area_grid3 %>% 
+  map(~.x %>% select(-area))
+  
+bua_area_grid3 %>% 
+  write_rds(here("data-clean", "som-bua-in-reg-grid3.rds"), compress = "gz")
+```
+
+```{r}
+bua_area_grid3 <- 
+  here("data-clean", "som-bua-in-reg-grid3.rds") %>% 
+  read_rds()
+
+all_plots <-
+  bua_area_grid3 %>%
+  imap(~ {
+    .x %>%
+      plot_admin_level_ggmap(geometries = som_geom)
+  })
+
+# all_plots[2:3] %>% 
+#   ggarrange(plotlist = ., nrow = 1)
+```
+
+```{r eval=FALSE}
+# Converting hexagons
+existing <-
+  here("data-raw", "temp", "grid3-areas-hexes") %>% 
+  list.files(pattern = "rds") %>% 
+  str_replace_all("\\.rds", "")
+
+bua_area_grid3_hexes <- 
+  som_geom2[4] %>% 
+  imap(~{
+    adm_level <- str_extract(.y, "admin\\d")
+    var_name <- str_c("bua_area_grid3_", adm_level)
+    out <- nrow(.x)
+    .x %>% 
+      st_transform(st_crs(wb_vilages)) %>% 
+      group_by(row_number()) %>% 
+      nest() %>% 
+      pull(data) %>% 
+      map2_dfr(seq_along(.), ~{
+        cat(scales::percent(.y / out, accuracy = 0.1), "\n")
+        if (.x[[str_c(adm_level, "Pcod")]] %in% existing) {
+          here("data-raw", "temp", "grid3-areas-hexes",
+               str_c(.x[[str_c(adm_level, "Pcod")]], ".rds")) %>%
+            read_rds() %>%
+            return()
+        } else {
+          one_reg_bua <-
+            grid3_combined %>%
+            st_crop(.x) %>% 
+            st_union() %>% 
+            st_intersection(.x) %>% 
+            st_area() %>%
+            as.numeric()
+          # pb$tick()
+          if (identical(one_reg_bua, numeric(0))) {
+            one_reg_bua <- 0
+          }
+          out <-
+            .x %>%
+            st_drop_geometry() %>%
+            as_tibble() %>%
+            mutate({{var_name}} := one_reg_bua / 1000000)
+          write_rds(out, here(
+            "data-raw",
+            "temp",
+            "grid3-areas-hexes",
+            str_c(out[[str_c(adm_level, "Pcod")]], ".rds")
+          ), compress = "gz")
+          out
+        }
+    })
+  })
+
+bua_area_grid3_hexes <- bua_area_grid3
+
+bua_area_grid3_hexes$admin3_Hexagons <- 
+  here("data-raw", "temp", "grid3-areas-hexes") %>% 
+  list.files(pattern = "rds", full.names = T) %>% 
+  map_dfr(read_rds) %>% 
+  select(-area)
+
+bua_area_grid3_hexes %>% 
+  write_rds(here("data-clean", "som-bua-in-reg-grid3-hexagons.rds"), compress = "gz")
+
+```
+
+
+```{r}
+bua_area_grid3_hexes <- 
+  here("data-clean", "som-bua-in-reg-grid3-hexagons.rds") %>% 
+  read_rds()
+
+all_plots2 <-
+  bua_area_grid3_hexes %>%
+  imap(~ {
+    .x %>%
+      plot_admin_level_ggmap(geometries = som_geom2)+ 
+      labs(title = .y)
+  })
+
+all_plots2[2:4] %>%
+  ggarrange(plotlist = ., nrow = 1)
+```
+
+
+## Build-up area as a fraction of total area in each region/hexagon
+
+
+```{r}
+bua_area_grid3_hexes %>%
+  imap(~{
+    .x %>%
+      left_join(som_geom2[[.y]]) %>%
+      select(-geometry) %>%
+      # st_drop_geometry() %>%
+      as_tibble() %>%
+      mutate_at(vars(contains("bua_area_grid3")), list(~ . / area * 100))
+  }) %>%
+  imap(~ {
+    .x %>%
+      plot_admin_level_ggmap(geometries = som_geom2) + 
+      labs(title = .y)
+  }) %>%
+  `[`(2:4) %>%
+  ggarrange(plotlist = ., nrow = 1)
+
+
+
+```
+
